@@ -1,0 +1,29 @@
+{
+  "id": "a49bfb9517be12ba0fe0dd841c3a8766",
+  "uuid": "a49bfb9517be12ba0fe0dd841c3a8766",
+  "name": "Offset 2x2 grid",
+  "slug": "offset-2x2-grid",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Feature Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/feature-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 680
+    },
+    "small": {
+      "width": 375,
+      "height": 1288
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

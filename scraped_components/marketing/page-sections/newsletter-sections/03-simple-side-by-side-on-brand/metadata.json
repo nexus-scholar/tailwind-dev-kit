@@ -1,0 +1,29 @@
+{
+  "id": "0199bc4ef95ddc2e9442384f5d91f6a6",
+  "uuid": "0199bc4ef95ddc2e9442384f5d91f6a6",
+  "name": "Simple side-by-side on brand",
+  "slug": "simple-side-by-side-on-brand",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Newsletter Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/newsletter-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 344
+    },
+    "small": {
+      "width": 375,
+      "height": 380
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1e0bb85307a6f85f730eb5cf8a813837",
+  "uuid": "1e0bb85307a6f85f730eb5cf8a813837",
+  "name": "With offset image",
+  "slug": "with-offset-image",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 947
+    },
+    "small": {
+      "width": 375,
+      "height": 1069
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

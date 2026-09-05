@@ -1,0 +1,29 @@
+{
+  "id": "bd485a396268b63d0ef7d0cf7988a594",
+  "uuid": "bd485a396268b63d0ef7d0cf7988a594",
+  "name": "Two row bento grid with three column second row",
+  "slug": "two-row-bento-grid-with-three-column-second-row",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Bento Grids",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/bento-grids",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 796
+    },
+    "small": {
+      "width": 375,
+      "height": 1376
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

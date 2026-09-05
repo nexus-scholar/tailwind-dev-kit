@@ -1,0 +1,29 @@
+{
+  "id": "f9a9347de5384a492c79c34cf6ce3ccf",
+  "uuid": "f9a9347de5384a492c79c34cf6ce3ccf",
+  "name": "Centered page numbers",
+  "slug": "centered-page-numbers",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Pagination",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/pagination",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 102
+    },
+    "small": {
+      "width": 375,
+      "height": 102
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

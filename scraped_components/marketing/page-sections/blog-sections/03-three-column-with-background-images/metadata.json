@@ -1,0 +1,29 @@
+{
+  "id": "7c4bcd0e50e14e855d55d20b6cd445d1",
+  "uuid": "7c4bcd0e50e14e855d55d20b6cd445d1",
+  "name": "Three-column with background images",
+  "slug": "three-column-with-background-images",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Blog Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/blog-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 860
+    },
+    "small": {
+      "width": 375,
+      "height": 1740
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "12ae7abe5e2cc75a10bb36d767b63547",
+  "uuid": "12ae7abe5e2cc75a10bb36d767b63547",
+  "name": "Three-column with images",
+  "slug": "three-column-with-images",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Blog Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/blog-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 932
+    },
+    "small": {
+      "width": 375,
+      "height": 1908
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

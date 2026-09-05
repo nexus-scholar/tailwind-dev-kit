@@ -1,0 +1,29 @@
+{
+  "id": "9a7c2b542c1c683ffaa6cdd418c65a26",
+  "uuid": "9a7c2b542c1c683ffaa6cdd418c65a26",
+  "name": "Simple justified on subtle brand",
+  "slug": "simple-justified-on-subtle-brand",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 352
+    },
+    "small": {
+      "width": 375,
+      "height": 392
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

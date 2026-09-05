@@ -1,0 +1,29 @@
+{
+  "id": "70a9bdf83ef2c8568c5cddf6c39c2331",
+  "uuid": "70a9bdf83ef2c8568c5cddf6c39c2331",
+  "name": "Simple dark with menu button on left",
+  "slug": "simple-dark-with-menu-button-on-left",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Navbars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/navbars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 192
+    },
+    "small": {
+      "width": 375,
+      "height": 192
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

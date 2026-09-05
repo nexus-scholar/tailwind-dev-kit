@@ -1,0 +1,29 @@
+{
+  "id": "b9407334ee0ee7eacb27cfbb5c08bb46",
+  "uuid": "b9407334ee0ee7eacb27cfbb5c08bb46",
+  "name": "With striped rows",
+  "slug": "with-striped-rows",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Tables",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/tables",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 525
+    },
+    "small": {
+      "width": 375,
+      "height": 597
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

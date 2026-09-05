@@ -1,0 +1,29 @@
+{
+  "id": "607fe5cb764384292b01318ed7f28c14",
+  "uuid": "607fe5cb764384292b01318ed7f28c14",
+  "name": "Simple well",
+  "slug": "simple-well",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Action Panels",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/action-panels",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 272
+    },
+    "small": {
+      "width": 375,
+      "height": 264
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

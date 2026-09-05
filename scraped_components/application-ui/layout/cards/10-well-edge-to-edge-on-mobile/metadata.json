@@ -1,0 +1,29 @@
+{
+  "id": "e66148dd50457260772a862602a7c103",
+  "uuid": "e66148dd50457260772a862602a7c103",
+  "name": "Well, edge-to-edge on mobile",
+  "slug": "well-edge-to-edge-on-mobile",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Cards",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/cards",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 400
+    },
+    "small": {
+      "width": 375,
+      "height": 392
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

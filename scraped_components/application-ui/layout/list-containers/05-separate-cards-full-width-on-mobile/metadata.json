@@ -1,0 +1,29 @@
+{
+  "id": "22e9be21c06d9870c40b338e4e43a2a1",
+  "uuid": "22e9be21c06d9870c40b338e4e43a2a1",
+  "name": "Separate cards, full-width on mobile",
+  "slug": "separate-cards-full-width-on-mobile",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "List containers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/list-containers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 376
+    },
+    "small": {
+      "width": 375,
+      "height": 376
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

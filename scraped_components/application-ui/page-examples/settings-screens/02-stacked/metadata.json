@@ -1,0 +1,29 @@
+{
+  "id": "caa8ef7bf6e8809077b5f2d91a57dabb",
+  "uuid": "caa8ef7bf6e8809077b5f2d91a57dabb",
+  "name": "Stacked",
+  "slug": "stacked",
+  "product": "Application UI",
+  "category": "Page Examples",
+  "subcategory": "Settings Screens",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/page-examples/settings-screens",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1515
+    },
+    "small": {
+      "width": 375,
+      "height": 1696
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

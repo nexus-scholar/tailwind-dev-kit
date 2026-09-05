@@ -1,0 +1,29 @@
+{
+  "id": "eb23a02668400de1e5da7fcb3137793c",
+  "uuid": "eb23a02668400de1e5da7fcb3137793c",
+  "name": "User profile example",
+  "slug": "user-profile-example",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Drawers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/drawers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 800
+    },
+    "small": {
+      "width": 375,
+      "height": 800
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

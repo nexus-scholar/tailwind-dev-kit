@@ -1,0 +1,29 @@
+{
+  "id": "230ebe97ca4f24eef13b0a225e41b87b",
+  "uuid": "230ebe97ca4f24eef13b0a225e41b87b",
+  "name": "Centered with wide buttons",
+  "slug": "centered-with-wide-buttons",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Modal Dialogs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/modal-dialogs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 500
+    },
+    "small": {
+      "width": 375,
+      "height": 500
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

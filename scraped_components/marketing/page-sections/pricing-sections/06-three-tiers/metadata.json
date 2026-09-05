@@ -1,0 +1,29 @@
+{
+  "id": "f3dd88b8abfd735d38873b8daa09d07d",
+  "uuid": "f3dd88b8abfd735d38873b8daa09d07d",
+  "name": "Three tiers",
+  "slug": "three-tiers",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Pricing Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/pricing",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1064
+    },
+    "small": {
+      "width": 375,
+      "height": 2064
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

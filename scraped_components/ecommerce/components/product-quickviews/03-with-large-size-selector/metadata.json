@@ -1,0 +1,29 @@
+{
+  "id": "54247b2102ff85761ad0bc3b5d1e7aae",
+  "uuid": "54247b2102ff85761ad0bc3b5d1e7aae",
+  "name": "With large size selector",
+  "slug": "with-large-size-selector",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Product Quickviews",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/product-quickviews",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 700
+    },
+    "small": {
+      "width": 375,
+      "height": 979
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

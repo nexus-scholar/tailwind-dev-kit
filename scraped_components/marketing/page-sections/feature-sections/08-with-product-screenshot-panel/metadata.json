@@ -1,0 +1,29 @@
+{
+  "id": "af398a1e42b35d28ba7204314a10db6e",
+  "uuid": "af398a1e42b35d28ba7204314a10db6e",
+  "name": "With product screenshot panel",
+  "slug": "with-product-screenshot-panel",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Feature Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/feature-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 776
+    },
+    "small": {
+      "width": 375,
+      "height": 956
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

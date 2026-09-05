@@ -1,0 +1,29 @@
+{
+  "id": "a67a35130bba8e2d47e5aeae5a1a82bc",
+  "uuid": "a67a35130bba8e2d47e5aeae5a1a82bc",
+  "name": "With well",
+  "slug": "with-well",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Action Panels",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/action-panels",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 272
+    },
+    "small": {
+      "width": 375,
+      "height": 384
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

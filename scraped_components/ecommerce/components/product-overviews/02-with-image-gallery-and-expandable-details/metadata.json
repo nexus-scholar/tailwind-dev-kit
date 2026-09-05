@@ -1,0 +1,29 @@
+{
+  "id": "13a89c2dc50a31afd66541dc28fa3c13",
+  "uuid": "13a89c2dc50a31afd66541dc28fa3c13",
+  "name": "With image gallery and expandable details",
+  "slug": "with-image-gallery-and-expandable-details",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Product Overviews",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/product-overviews",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1158
+    },
+    "small": {
+      "width": 375,
+      "height": 1573
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

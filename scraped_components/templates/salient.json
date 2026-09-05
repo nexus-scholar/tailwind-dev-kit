@@ -1,0 +1,63 @@
+{
+  "id": 13,
+  "name": "Salient",
+  "slug": "salient",
+  "type": "SaaS marketing template",
+  "url": "https://tailwindcss.com/plus/templates/salient",
+  "download_url": "https://tailwindcss.com/plus/templates/salient/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/salient/preview-01.png",
+  "summary": "A beautiful SaaS landing page to announce your next big idea.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "Headless UI",
+      "version": "v2.1"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "Every SaaS marketing site uses the same formula \u2014 a hero, feature sections, some testimonials, you know the drill. But some are prettier than others.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "Headless UI v2.1",
+    "React v19",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/salient/preview",
+  "local_archive": "scraped_components\\templates\\salient.zip",
+  "archive_size_kb": 3099,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/salient/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/salient/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/salient/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/salient/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/salient/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/salient",
+  "local_banner_image": "scraped_components/templates/screens/salient/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/salient/detail-01.png",
+    "scraped_components/templates/screens/salient/detail-02.png",
+    "scraped_components/templates/screens/salient/detail-03.png",
+    "scraped_components/templates/screens/salient/detail-04.png",
+    "scraped_components/templates/screens/salient/preview-01.png",
+    "scraped_components/templates/screens/salient/preview-02.png",
+    "scraped_components/templates/screens/salient/preview-03.png",
+    "scraped_components/templates/screens/salient/screenshot.png",
+    "scraped_components/templates/screens/salient/twitter.png"
+  ]
+}

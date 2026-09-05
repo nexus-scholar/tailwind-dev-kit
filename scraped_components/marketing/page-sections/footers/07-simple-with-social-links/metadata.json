@@ -1,0 +1,29 @@
+{
+  "id": "2804f3d86cef85d9e040bee6d08633d6",
+  "uuid": "2804f3d86cef85d9e040bee6d08633d6",
+  "name": "Simple with social links",
+  "slug": "simple-with-social-links",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Footers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/footers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 120
+    },
+    "small": {
+      "width": 375,
+      "height": 176
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

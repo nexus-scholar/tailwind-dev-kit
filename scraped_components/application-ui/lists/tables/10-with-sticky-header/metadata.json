@@ -1,0 +1,29 @@
+{
+  "id": "6e8d7d4ca9657a86da779b7af9a1de2c",
+  "uuid": "6e8d7d4ca9657a86da779b7af9a1de2c",
+  "name": "With sticky header",
+  "slug": "with-sticky-header",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Tables",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/tables",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 600
+    },
+    "small": {
+      "width": 375,
+      "height": 600
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

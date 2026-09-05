@@ -1,0 +1,29 @@
+{
+  "id": "892edc8837628a6df55b8d42a4a5dbbf",
+  "uuid": "892edc8837628a6df55b8d42a4a5dbbf",
+  "name": "With related products",
+  "slug": "with-related-products",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Shopping Cart Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/shopping-cart-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 2291
+    },
+    "small": {
+      "width": 375,
+      "height": 4354
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a> and <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

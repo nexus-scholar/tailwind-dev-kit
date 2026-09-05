@@ -1,0 +1,29 @@
+{
+  "id": "9e4d2ae1944600eac288621ec31cf6e2",
+  "uuid": "9e4d2ae1944600eac288621ec31cf6e2",
+  "name": "With checkbox and dropdown",
+  "slug": "with-checkbox-and-dropdown",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Button Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/button-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 100
+    },
+    "small": {
+      "width": 375,
+      "height": 100
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

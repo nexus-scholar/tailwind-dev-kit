@@ -1,0 +1,29 @@
+{
+  "id": "f295328e633edbb29e7612672e3d69cc",
+  "uuid": "f295328e633edbb29e7612672e3d69cc",
+  "name": "With cards",
+  "slug": "with-cards",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Header Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/header",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 672
+    },
+    "small": {
+      "width": 375,
+      "height": 1000
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

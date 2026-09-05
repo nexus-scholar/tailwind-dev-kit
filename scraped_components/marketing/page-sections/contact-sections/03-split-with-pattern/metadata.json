@@ -1,0 +1,29 @@
+{
+  "id": "d79585443456bd5ff4d0f8915f16458c",
+  "uuid": "d79585443456bd5ff4d0f8915f16458c",
+  "name": "Split with pattern",
+  "slug": "split-with-pattern",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Contact Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/contact-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 896
+    },
+    "small": {
+      "width": 375,
+      "height": 1370
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

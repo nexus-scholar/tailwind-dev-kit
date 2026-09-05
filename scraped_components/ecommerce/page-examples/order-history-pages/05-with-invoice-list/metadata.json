@@ -1,0 +1,29 @@
+{
+  "id": "90bf96c1fb7c25a8887c40ff21cd52da",
+  "uuid": "90bf96c1fb7c25a8887c40ff21cd52da",
+  "name": "With invoice list",
+  "slug": "with-invoice-list",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Order History Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/order-history-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 2353
+    },
+    "small": {
+      "width": 375,
+      "height": 2759
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a> and <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

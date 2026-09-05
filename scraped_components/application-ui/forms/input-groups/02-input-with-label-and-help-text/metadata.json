@@ -1,0 +1,29 @@
+{
+  "id": "676267bfc6ff8a0e1e198a25207a41d4",
+  "uuid": "676267bfc6ff8a0e1e198a25207a41d4",
+  "name": "Input with label and help text",
+  "slug": "input-with-label-and-help-text",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Input Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/input-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 160
+    },
+    "small": {
+      "width": 375,
+      "height": 160
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

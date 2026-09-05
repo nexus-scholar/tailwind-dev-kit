@@ -1,0 +1,29 @@
+{
+  "id": "b4c225b72dcb3b747e6d6ffcf44b1a9d",
+  "uuid": "b4c225b72dcb3b747e6d6ffcf44b1a9d",
+  "name": "Simple in cards",
+  "slug": "simple-in-cards",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Stats",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/stats",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 248
+    },
+    "small": {
+      "width": 375,
+      "height": 480
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

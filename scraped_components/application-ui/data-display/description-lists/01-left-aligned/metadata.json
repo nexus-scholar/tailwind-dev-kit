@@ -1,0 +1,29 @@
+{
+  "id": "d9372707af2e94e67936e94d7339cbb3",
+  "uuid": "d9372707af2e94e67936e94d7339cbb3",
+  "name": "Left-aligned",
+  "slug": "left-aligned",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Description Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/description-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 777
+    },
+    "small": {
+      "width": 375,
+      "height": 997
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

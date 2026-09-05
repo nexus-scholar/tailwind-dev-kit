@@ -1,0 +1,29 @@
+{
+  "id": "3d940888b49b624701d5343b67536107",
+  "uuid": "3d940888b49b624701d5343b67536107",
+  "name": "Double",
+  "slug": "double",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Calendars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/calendars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 756
+    },
+    "small": {
+      "width": 375,
+      "height": 956
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c549ac2695455cb78d529c3a00293fe0",
+  "uuid": "c549ac2695455cb78d529c3a00293fe0",
+  "name": "Custom with check on left",
+  "slug": "custom-with-check-on-left",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Select Menus",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/select-menus",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 448
+    },
+    "small": {
+      "width": 375,
+      "height": 448
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

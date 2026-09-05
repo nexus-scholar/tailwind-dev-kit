@@ -1,0 +1,29 @@
+{
+  "id": "8d8661f38f3de5cbd0e8d704368ffc3d",
+  "uuid": "8d8661f38f3de5cbd0e8d704368ffc3d",
+  "name": "Panels with border",
+  "slug": "panels-with-border",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Progress Bars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/progress-bars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 180
+    },
+    "small": {
+      "width": 375,
+      "height": 282
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

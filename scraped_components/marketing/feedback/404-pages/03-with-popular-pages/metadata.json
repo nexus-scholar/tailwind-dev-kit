@@ -1,0 +1,29 @@
+{
+  "id": "91f2f794f1a8e80b6e3701ed6cf68552",
+  "uuid": "91f2f794f1a8e80b6e3701ed6cf68552",
+  "name": "With popular pages",
+  "slug": "with-popular-pages",
+  "product": "Marketing",
+  "category": "Feedback",
+  "subcategory": "404 Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/feedback/404-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1045
+    },
+    "small": {
+      "width": 375,
+      "height": 1161
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

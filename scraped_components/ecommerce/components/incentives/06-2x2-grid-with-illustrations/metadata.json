@@ -1,0 +1,29 @@
+{
+  "id": "3899975a74f43a3fe103baffc0f1de86",
+  "uuid": "3899975a74f43a3fe103baffc0f1de86",
+  "name": "2x2 grid with illustrations",
+  "slug": "2x2-grid-with-illustrations",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Incentives",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/incentives",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 512
+    },
+    "small": {
+      "width": 375,
+      "height": 1120
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

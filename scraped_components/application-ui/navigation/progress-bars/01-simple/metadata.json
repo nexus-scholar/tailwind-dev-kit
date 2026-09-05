@@ -1,0 +1,29 @@
+{
+  "id": "2771127c1e236ed43a11c623657479d5",
+  "uuid": "2771127c1e236ed43a11c623657479d5",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Progress Bars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/progress-bars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 108
+    },
+    "small": {
+      "width": 375,
+      "height": 248
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

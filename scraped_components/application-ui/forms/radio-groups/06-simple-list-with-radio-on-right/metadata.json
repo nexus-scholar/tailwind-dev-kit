@@ -1,0 +1,29 @@
+{
+  "id": "f1d8d3ffc64bc16a36304a465a2a4c70",
+  "uuid": "f1d8d3ffc64bc16a36304a465a2a4c70",
+  "name": "Simple list with radio on right",
+  "slug": "simple-list-with-radio-on-right",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Radio Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/radio-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 479
+    },
+    "small": {
+      "width": 375,
+      "height": 479
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

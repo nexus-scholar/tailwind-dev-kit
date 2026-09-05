@@ -1,0 +1,29 @@
+{
+  "id": "8ddfebc65de554620058419c2fcb538d",
+  "uuid": "8ddfebc65de554620058419c2fcb538d",
+  "name": "Small flat with dot",
+  "slug": "small-flat-with-dot",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Badges",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/badges",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 84
+    },
+    "small": {
+      "width": 375,
+      "height": 156
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

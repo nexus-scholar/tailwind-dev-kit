@@ -1,0 +1,29 @@
+{
+  "id": "52ce80a2e5549b97abb3d5d3f76f739e",
+  "uuid": "52ce80a2e5549b97abb3d5d3f76f739e",
+  "name": "3-column with illustrations and centered text",
+  "slug": "3-column-with-illustrations-and-centered-text",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Incentives",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/incentives",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 432
+    },
+    "small": {
+      "width": 375,
+      "height": 800
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

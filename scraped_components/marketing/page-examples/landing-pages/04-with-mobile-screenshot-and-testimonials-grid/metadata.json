@@ -1,0 +1,29 @@
+{
+  "id": "77f60f231bd54e888b9a10e0f9ecab56",
+  "uuid": "77f60f231bd54e888b9a10e0f9ecab56",
+  "name": "With mobile screenshot and testimonials grid",
+  "slug": "with-mobile-screenshot-and-testimonials-grid",
+  "product": "Marketing",
+  "category": "Page Examples",
+  "subcategory": "Landing Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/page-examples/landing-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 5926
+    },
+    "small": {
+      "width": 375,
+      "height": 8769
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

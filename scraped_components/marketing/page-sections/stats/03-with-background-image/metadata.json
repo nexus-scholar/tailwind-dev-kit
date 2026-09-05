@@ -1,0 +1,29 @@
+{
+  "id": "be9be745d8c91cbf74f7f1ea40c45840",
+  "uuid": "be9be745d8c91cbf74f7f1ea40c45840",
+  "name": "With background image",
+  "slug": "with-background-image",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Stats",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/stats-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 632
+    },
+    "small": {
+      "width": 375,
+      "height": 976
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

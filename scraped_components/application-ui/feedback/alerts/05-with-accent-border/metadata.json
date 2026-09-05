@@ -1,0 +1,29 @@
+{
+  "id": "2839a6e6678180cc64af7d5a1c96dae2",
+  "uuid": "2839a6e6678180cc64af7d5a1c96dae2",
+  "name": "With accent border",
+  "slug": "with-accent-border",
+  "product": "Application UI",
+  "category": "Feedback",
+  "subcategory": "Alerts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/feedback/alerts",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 148
+    },
+    "small": {
+      "width": 375,
+      "height": 168
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

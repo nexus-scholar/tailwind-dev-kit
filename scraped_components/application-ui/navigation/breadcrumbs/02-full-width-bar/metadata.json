@@ -1,0 +1,29 @@
+{
+  "id": "09fbe246cb968a4ab03a97c5da4947ee",
+  "uuid": "09fbe246cb968a4ab03a97c5da4947ee",
+  "name": "Full-width bar",
+  "slug": "full-width-bar",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Breadcrumbs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/breadcrumbs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 237
+    },
+    "small": {
+      "width": 375,
+      "height": 141
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

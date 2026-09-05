@@ -1,0 +1,29 @@
+{
+  "id": "fed988a810519f7aefef13224b3a814d",
+  "uuid": "fed988a810519f7aefef13224b3a814d",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Header Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/header",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 424
+    },
+    "small": {
+      "width": 375,
+      "height": 384
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

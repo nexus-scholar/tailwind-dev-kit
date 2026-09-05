@@ -1,0 +1,29 @@
+{
+  "id": "b6bd4615a762a0d24780157803ad319e",
+  "uuid": "b6bd4615a762a0d24780157803ad319e",
+  "name": "Simple with menu button on left",
+  "slug": "simple-with-menu-button-on-left",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Navbars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/navbars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 192
+    },
+    "small": {
+      "width": 375,
+      "height": 192
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

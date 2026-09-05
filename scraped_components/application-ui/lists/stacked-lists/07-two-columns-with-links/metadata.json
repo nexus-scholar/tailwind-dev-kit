@@ -1,0 +1,29 @@
+{
+  "id": "28f13c987e42ce2edb6222e7ba3d2459",
+  "uuid": "28f13c987e42ce2edb6222e7ba3d2459",
+  "name": "Two columns with links",
+  "slug": "two-columns-with-links",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Stacked Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/stacked-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 629
+    },
+    "small": {
+      "width": 375,
+      "height": 629
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "a79cba194f17e6b28fe610c07bcdb8a0",
+  "uuid": "a79cba194f17e6b28fe610c07bcdb8a0",
+  "name": "Side-by-side",
+  "slug": "side-by-side",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "FAQs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/faq-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1193
+    },
+    "small": {
+      "width": 375,
+      "height": 1893
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

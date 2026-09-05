@@ -1,0 +1,29 @@
+{
+  "id": "69eb9381f977800aa890ce8f7d9e2d20",
+  "uuid": "69eb9381f977800aa890ce8f7d9e2d20",
+  "name": "Card footer with page buttons",
+  "slug": "card-footer-with-page-buttons",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Pagination",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/pagination",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 363
+    },
+    "small": {
+      "width": 375,
+      "height": 365
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

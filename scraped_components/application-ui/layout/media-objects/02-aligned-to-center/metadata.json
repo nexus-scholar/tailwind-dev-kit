@@ -1,0 +1,29 @@
+{
+  "id": "ef9df725bf54aa2d268260c36ef2bbb5",
+  "uuid": "ef9df725bf54aa2d268260c36ef2bbb5",
+  "name": "Aligned to center",
+  "slug": "aligned-to-center",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Media Objects",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/media-objects",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 168
+    },
+    "small": {
+      "width": 375,
+      "height": 240
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "b99e1c97056ef7d294767c9def084f7b",
+  "uuid": "b99e1c97056ef7d294767c9def084f7b",
+  "name": "With right label",
+  "slug": "with-right-label",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Toggles",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/toggles",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 88
+    },
+    "small": {
+      "width": 375,
+      "height": 88
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

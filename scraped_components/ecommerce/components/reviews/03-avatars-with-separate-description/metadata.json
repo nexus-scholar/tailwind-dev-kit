@@ -1,0 +1,29 @@
+{
+  "id": "8507b37851ab6df2d36b6ae3f4e7c8cf",
+  "uuid": "8507b37851ab6df2d36b6ae3f4e7c8cf",
+  "name": "Avatars with separate description",
+  "slug": "avatars-with-separate-description",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Reviews",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/reviews",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 608
+    },
+    "small": {
+      "width": 375,
+      "height": 780
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

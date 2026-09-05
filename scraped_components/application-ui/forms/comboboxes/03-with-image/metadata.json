@@ -1,0 +1,29 @@
+{
+  "id": "32481db09d2a5728d5f30de53d69bc82",
+  "uuid": "32481db09d2a5728d5f30de53d69bc82",
+  "name": "With image",
+  "slug": "with-image",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Comboboxes",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/comboboxes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 450
+    },
+    "small": {
+      "width": 375,
+      "height": 450
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

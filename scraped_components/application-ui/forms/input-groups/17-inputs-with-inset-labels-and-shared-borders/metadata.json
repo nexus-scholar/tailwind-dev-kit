@@ -1,0 +1,29 @@
+{
+  "id": "9d8a37880933ef4ce973cc81853cc959",
+  "uuid": "9d8a37880933ef4ce973cc81853cc959",
+  "name": "Inputs with inset labels and shared borders",
+  "slug": "inputs-with-inset-labels-and-shared-borders",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Input Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/input-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 175
+    },
+    "small": {
+      "width": 375,
+      "height": 175
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

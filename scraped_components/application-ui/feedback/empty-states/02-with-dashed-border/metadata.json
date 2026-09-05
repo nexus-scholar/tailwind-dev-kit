@@ -1,0 +1,29 @@
+{
+  "id": "680f71a6b1841658956e1546648937d5",
+  "uuid": "680f71a6b1841658956e1546648937d5",
+  "name": "With dashed border",
+  "slug": "with-dashed-border",
+  "product": "Application UI",
+  "category": "Feedback",
+  "subcategory": "Empty States",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/feedback/empty-states",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 272
+    },
+    "small": {
+      "width": 375,
+      "height": 272
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

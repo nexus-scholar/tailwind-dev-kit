@@ -1,0 +1,29 @@
+{
+  "id": "bfc7e9cc9d7b5762cb139096ac3266c1",
+  "uuid": "bfc7e9cc9d7b5762cb139096ac3266c1",
+  "name": "With dropdown",
+  "slug": "with-dropdown",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Button Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/button-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 256
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

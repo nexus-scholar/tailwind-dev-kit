@@ -1,0 +1,29 @@
+{
+  "id": "a0f475f9acf9194cd19255e19acde240",
+  "uuid": "a0f475f9acf9194cd19255e19acde240",
+  "name": "Separate cards",
+  "slug": "separate-cards",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "List containers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/list-containers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 376
+    },
+    "small": {
+      "width": 375,
+      "height": 376
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

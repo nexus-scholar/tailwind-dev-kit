@@ -1,0 +1,29 @@
+{
+  "id": "8017f4faee579f7ca518cdde140d4689",
+  "uuid": "8017f4faee579f7ca518cdde140d4689",
+  "name": "Offset with supporting text",
+  "slug": "offset-with-supporting-text",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "FAQs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/faq-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 808
+    },
+    "small": {
+      "width": 375,
+      "height": 1060
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

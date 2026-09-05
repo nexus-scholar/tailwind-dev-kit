@@ -1,0 +1,29 @@
+{
+  "id": "19e43f3ad1f1f984ec0c02bdb305353f",
+  "uuid": "19e43f3ad1f1f984ec0c02bdb305353f",
+  "name": "Narrow constrained with padded content",
+  "slug": "narrow-constrained-with-padded-content",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Containers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/containers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 256
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

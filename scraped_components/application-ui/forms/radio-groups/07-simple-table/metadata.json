@@ -1,0 +1,29 @@
+{
+  "id": "4bf0d3a6dd46681182cd9e2d9bc2af66",
+  "uuid": "4bf0d3a6dd46681182cd9e2d9bc2af66",
+  "name": "Simple table",
+  "slug": "simple-table",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Radio Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/radio-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 376
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

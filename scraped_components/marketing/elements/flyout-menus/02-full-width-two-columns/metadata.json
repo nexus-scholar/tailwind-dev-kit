@@ -1,0 +1,29 @@
+{
+  "id": "f2922faa2add4efd389ddfccc77b2f22",
+  "uuid": "f2922faa2add4efd389ddfccc77b2f22",
+  "name": "Full-width two-columns",
+  "slug": "full-width-two-columns",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Flyout Menus",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/flyout-menus",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1032
+    },
+    "small": {
+      "width": 375,
+      "height": 1032
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

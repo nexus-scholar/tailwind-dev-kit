@@ -1,0 +1,29 @@
+{
+  "id": "556317db33900f6182a5f45cd9b50300",
+  "uuid": "556317db33900f6182a5f45cd9b50300",
+  "name": "Tabs in pills",
+  "slug": "tabs-in-pills",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Tabs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/tabs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 84
+    },
+    "small": {
+      "width": 375,
+      "height": 88
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

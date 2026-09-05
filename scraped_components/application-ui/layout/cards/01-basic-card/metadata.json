@@ -1,0 +1,29 @@
+{
+  "id": "59ac96978f0472ddd96179a713dc76bc",
+  "uuid": "59ac96978f0472ddd96179a713dc76bc",
+  "name": "Basic card",
+  "slug": "basic-card",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Cards",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/cards",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 400
+    },
+    "small": {
+      "width": 375,
+      "height": 392
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

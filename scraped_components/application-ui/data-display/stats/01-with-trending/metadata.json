@@ -1,0 +1,29 @@
+{
+  "id": "35ed1d3ddcfdc158c8a391745fc125f0",
+  "uuid": "35ed1d3ddcfdc158c8a391745fc125f0",
+  "name": "With trending",
+  "slug": "with-trending",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Stats",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/stats",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 152
+    },
+    "small": {
+      "width": 375,
+      "height": 611
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

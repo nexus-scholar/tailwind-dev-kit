@@ -1,0 +1,29 @@
+{
+  "id": "0834ed9ce704a78cc0045ef92f4af723",
+  "uuid": "0834ed9ce704a78cc0045ef92f4af723",
+  "name": "With secondary text",
+  "slug": "with-secondary-text",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Comboboxes",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/comboboxes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 450
+    },
+    "small": {
+      "width": 375,
+      "height": 450
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "8ccc03eda40cd313b874c7f7ec612f78",
+  "uuid": "8ccc03eda40cd313b874c7f7ec612f78",
+  "name": "Simple with avatars",
+  "slug": "simple-with-avatars",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Reviews",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/reviews",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 798
+    },
+    "small": {
+      "width": 375,
+      "height": 926
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

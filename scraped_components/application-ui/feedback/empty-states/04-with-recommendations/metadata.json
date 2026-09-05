@@ -1,0 +1,29 @@
+{
+  "id": "e922fb5bee61af99a8db767e70aa31c8",
+  "uuid": "e922fb5bee61af99a8db767e70aa31c8",
+  "name": "With recommendations",
+  "slug": "with-recommendations",
+  "product": "Application UI",
+  "category": "Feedback",
+  "subcategory": "Empty States",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/feedback/empty-states",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 576
+    },
+    "small": {
+      "width": 375,
+      "height": 596
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

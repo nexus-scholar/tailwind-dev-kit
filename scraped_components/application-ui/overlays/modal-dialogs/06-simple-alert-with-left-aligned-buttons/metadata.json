@@ -1,0 +1,29 @@
+{
+  "id": "91a802d0d690e1fab88003f4fe449f0b",
+  "uuid": "91a802d0d690e1fab88003f4fe449f0b",
+  "name": "Simple alert with left-aligned buttons",
+  "slug": "simple-alert-with-left-aligned-buttons",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Modal Dialogs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/modal-dialogs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 500
+    },
+    "small": {
+      "width": 375,
+      "height": 500
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

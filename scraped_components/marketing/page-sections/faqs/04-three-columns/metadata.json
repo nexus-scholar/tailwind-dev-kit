@@ -1,0 +1,29 @@
+{
+  "id": "f273cb93c5b5acf64f2c1711417aadfa",
+  "uuid": "f273cb93c5b5acf64f2c1711417aadfa",
+  "name": "Three columns",
+  "slug": "three-columns",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "FAQs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/faq-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 732
+    },
+    "small": {
+      "width": 375,
+      "height": 1660
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

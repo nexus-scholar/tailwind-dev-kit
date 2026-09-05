@@ -1,0 +1,29 @@
+{
+  "id": "f3ffaa3530ce92de21f66196ff69bf25",
+  "uuid": "f3ffaa3530ce92de21f66196ff69bf25",
+  "name": "With title and button",
+  "slug": "with-title-and-button",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Dividers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/dividers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 96
+    },
+    "small": {
+      "width": 375,
+      "height": 96
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

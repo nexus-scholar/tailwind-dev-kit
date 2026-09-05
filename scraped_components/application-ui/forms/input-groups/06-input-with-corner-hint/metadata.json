@@ -1,0 +1,29 @@
+{
+  "id": "cd2d41bc1bca37b76acacab5925d507c",
+  "uuid": "cd2d41bc1bca37b76acacab5925d507c",
+  "name": "Input with corner hint",
+  "slug": "input-with-corner-hint",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Input Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/input-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 132
+    },
+    "small": {
+      "width": 375,
+      "height": 132
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

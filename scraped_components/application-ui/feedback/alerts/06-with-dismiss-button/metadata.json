@@ -1,0 +1,29 @@
+{
+  "id": "aa7cc38968c95d870db6ba62e76b8e0f",
+  "uuid": "aa7cc38968c95d870db6ba62e76b8e0f",
+  "name": "With dismiss button",
+  "slug": "with-dismiss-button",
+  "product": "Application UI",
+  "category": "Feedback",
+  "subcategory": "Alerts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/feedback/alerts",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 149
+    },
+    "small": {
+      "width": 375,
+      "height": 149
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

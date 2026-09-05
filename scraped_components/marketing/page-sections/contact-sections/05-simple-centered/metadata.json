@@ -1,0 +1,29 @@
+{
+  "id": "e2cd5d0297d305a708f0648b4632eaaa",
+  "uuid": "e2cd5d0297d305a708f0648b4632eaaa",
+  "name": "Simple centered",
+  "slug": "simple-centered",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Contact Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/contact-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 948
+    },
+    "small": {
+      "width": 375,
+      "height": 1076
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

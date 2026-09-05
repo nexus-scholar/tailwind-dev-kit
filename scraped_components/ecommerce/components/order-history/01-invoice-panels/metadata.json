@@ -1,0 +1,29 @@
+{
+  "id": "90c39adb3053a6f09205e7f4e3e506d1",
+  "uuid": "90c39adb3053a6f09205e7f4e3e506d1",
+  "name": "Invoice panels",
+  "slug": "invoice-panels",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Order History",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/order-history",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1299
+    },
+    "small": {
+      "width": 375,
+      "height": 1114
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

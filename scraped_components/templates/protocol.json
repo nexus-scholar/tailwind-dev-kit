@@ -1,0 +1,68 @@
+{
+  "id": 11,
+  "name": "Protocol",
+  "slug": "protocol",
+  "type": "API reference template",
+  "url": "https://tailwindcss.com/plus/templates/protocol",
+  "download_url": "https://tailwindcss.com/plus/templates/protocol/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/protocol/preview-01.png",
+  "summary": "Probably the nicest API documentation website you've ever seen.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "Headless UI",
+      "version": "v2.1"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "MDX",
+      "version": "v3"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "It doesn't matter if you have an API if nobody knows how to use it. Teach people the ins and outs of OAuth 2.0 and JWTs in style with Protocol, a beautiful API documentation template.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "Headless UI v2.1",
+    "React v19",
+    "MDX v3",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/protocol/preview",
+  "local_archive": "scraped_components\\templates\\protocol.zip",
+  "archive_size_kb": 317,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/protocol/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/protocol/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/protocol/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/protocol/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/protocol/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/protocol",
+  "local_banner_image": "scraped_components/templates/screens/protocol/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/protocol/detail-01.png",
+    "scraped_components/templates/screens/protocol/detail-02.png",
+    "scraped_components/templates/screens/protocol/detail-03.png",
+    "scraped_components/templates/screens/protocol/detail-04.png",
+    "scraped_components/templates/screens/protocol/preview-01.png",
+    "scraped_components/templates/screens/protocol/preview-02.png",
+    "scraped_components/templates/screens/protocol/preview-03.png",
+    "scraped_components/templates/screens/protocol/screenshot.png",
+    "scraped_components/templates/screens/protocol/twitter.png"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "d44069bcf27c14843b14e3d0da32b748",
+  "uuid": "d44069bcf27c14843b14e3d0da32b748",
+  "name": "Light",
+  "slug": "light",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Sidebar Navigation",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/sidebar-navigation",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fe95156cf85b5bffee23ff85c5b1a03c",
+  "uuid": "fe95156cf85b5bffee23ff85c5b1a03c",
+  "name": "Circular avatars with placeholder initials",
+  "slug": "circular-avatars-with-placeholder-initials",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Avatars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/avatars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 120
+    },
+    "small": {
+      "width": 375,
+      "height": 120
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

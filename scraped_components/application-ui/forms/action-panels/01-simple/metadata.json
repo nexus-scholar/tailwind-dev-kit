@@ -1,0 +1,29 @@
+{
+  "id": "2f53677fe913f1a063fd93ac9a8fc425",
+  "uuid": "2f53677fe913f1a063fd93ac9a8fc425",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Action Panels",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/action-panels",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 272
+    },
+    "small": {
+      "width": 375,
+      "height": 284
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

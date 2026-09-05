@@ -1,0 +1,29 @@
+{
+  "id": "b9bcab4538776a17fff93d18f82a8272",
+  "uuid": "b9bcab4538776a17fff93d18f82a8272",
+  "name": "Simple centered",
+  "slug": "simple-centered",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 888
+    },
+    "small": {
+      "width": 375,
+      "height": 680
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

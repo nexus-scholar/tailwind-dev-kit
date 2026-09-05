@@ -1,0 +1,29 @@
+{
+  "id": "4fc26b6ea5843dc9b7660d49f19fd5a4",
+  "uuid": "4fc26b6ea5843dc9b7660d49f19fd5a4",
+  "name": "Simple sidebar",
+  "slug": "simple-sidebar",
+  "product": "Application UI",
+  "category": "Application Shells",
+  "subcategory": "Sidebar Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/application-shells/sidebar",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

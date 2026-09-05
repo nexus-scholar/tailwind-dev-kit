@@ -1,0 +1,29 @@
+{
+  "id": "4375397fcc9712be608b21b9d8f355c8",
+  "uuid": "4375397fcc9712be608b21b9d8f355c8",
+  "name": "On brand",
+  "slug": "on-brand",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Banners",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/banners",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 256
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

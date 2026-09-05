@@ -1,0 +1,29 @@
+{
+  "id": "bfaf7b76cebcda82afc880e39abf3118",
+  "uuid": "bfaf7b76cebcda82afc880e39abf3118",
+  "name": "Wide horizontal user profile example",
+  "slug": "wide-horizontal-user-profile-example",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Drawers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/drawers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 660
+    },
+    "small": {
+      "width": 375,
+      "height": 660
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

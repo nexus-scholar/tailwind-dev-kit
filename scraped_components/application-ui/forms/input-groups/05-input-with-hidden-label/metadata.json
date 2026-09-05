@@ -1,0 +1,29 @@
+{
+  "id": "1e154eaf2b7dec0fb78a1e71e77780ab",
+  "uuid": "1e154eaf2b7dec0fb78a1e71e77780ab",
+  "name": "Input with hidden label",
+  "slug": "input-with-hidden-label",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Input Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/input-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 100
+    },
+    "small": {
+      "width": 375,
+      "height": 100
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

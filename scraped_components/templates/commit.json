@@ -1,0 +1,63 @@
+{
+  "id": 5,
+  "name": "Commit",
+  "slug": "commit",
+  "type": "Changelog template",
+  "url": "https://tailwindcss.com/plus/templates/commit",
+  "download_url": "https://tailwindcss.com/plus/templates/commit/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/commit/preview-01.png",
+  "summary": "Share your work in progress with this beautiful changelog template.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "MDX",
+      "version": "v3"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "In case you haven't heard, building in public is the way all the coolest makers do marketing these days. The coolest of the cool do it with Commit, our beautiful one-page changelog template.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "React v19",
+    "MDX v3",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/commit/preview",
+  "local_archive": "scraped_components\\templates\\commit.zip",
+  "archive_size_kb": 1667,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/commit/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/commit/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/commit/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/commit/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/commit/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/commit",
+  "local_banner_image": "scraped_components/templates/screens/commit/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/commit/detail-01.png",
+    "scraped_components/templates/screens/commit/detail-02.png",
+    "scraped_components/templates/screens/commit/detail-03.png",
+    "scraped_components/templates/screens/commit/detail-04.png",
+    "scraped_components/templates/screens/commit/preview-01.png",
+    "scraped_components/templates/screens/commit/preview-02.png",
+    "scraped_components/templates/screens/commit/preview-03.png",
+    "scraped_components/templates/screens/commit/screenshot.png",
+    "scraped_components/templates/screens/commit/twitter.png"
+  ]
+}

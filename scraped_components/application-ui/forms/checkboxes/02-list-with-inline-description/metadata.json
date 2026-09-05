@@ -1,0 +1,29 @@
+{
+  "id": "744ed4fa65ba36b925701eb4da5c6e31",
+  "uuid": "744ed4fa65ba36b925701eb4da5c6e31",
+  "name": "List with inline description",
+  "slug": "list-with-inline-description",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Checkboxes",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/checkboxes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 208
+    },
+    "small": {
+      "width": 375,
+      "height": 280
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

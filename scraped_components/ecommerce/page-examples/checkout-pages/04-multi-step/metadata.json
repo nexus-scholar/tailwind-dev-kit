@@ -1,0 +1,29 @@
+{
+  "id": "e3be93f395963562b4832221362b6d58",
+  "uuid": "e3be93f395963562b4832221362b6d58",
+  "name": "Multi-step",
+  "slug": "multi-step",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Checkout Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/checkout-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1057
+    },
+    "small": {
+      "width": 375,
+      "height": 1692
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

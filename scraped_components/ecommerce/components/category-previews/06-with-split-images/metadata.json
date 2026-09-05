@@ -1,0 +1,29 @@
+{
+  "id": "fb276b5490d5ef7ebd8352e50043a5de",
+  "uuid": "fb276b5490d5ef7ebd8352e50043a5de",
+  "name": "With split images",
+  "slug": "with-split-images",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Category Previews",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/category-previews",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 896
+    },
+    "small": {
+      "width": 375,
+      "height": 896
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

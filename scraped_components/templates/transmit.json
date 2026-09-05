@@ -1,0 +1,58 @@
+{
+  "id": 17,
+  "name": "Transmit",
+  "slug": "transmit",
+  "type": "Podcast template",
+  "url": "https://tailwindcss.com/plus/templates/transmit",
+  "download_url": "https://tailwindcss.com/plus/templates/transmit/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/transmit/preview-01.png",
+  "summary": "A clean and professional podcast template fit for any show.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "You\u2019ve ordered your SM7B, boom arm, and a bunch of acoustic foam. With this template, you can finally stop procrastinating and record your first episode.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "React v19",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/transmit/preview",
+  "local_archive": "scraped_components\\templates\\transmit.zip",
+  "archive_size_kb": 374,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/transmit/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/transmit/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/transmit/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/transmit/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/transmit/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/transmit",
+  "local_banner_image": "scraped_components/templates/screens/transmit/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/transmit/detail-01.png",
+    "scraped_components/templates/screens/transmit/detail-02.png",
+    "scraped_components/templates/screens/transmit/detail-03.png",
+    "scraped_components/templates/screens/transmit/detail-04.png",
+    "scraped_components/templates/screens/transmit/preview-01.png",
+    "scraped_components/templates/screens/transmit/preview-02.png",
+    "scraped_components/templates/screens/transmit/preview-03.png",
+    "scraped_components/templates/screens/transmit/screenshot.png",
+    "scraped_components/templates/screens/transmit/twitter.png"
+  ]
+}

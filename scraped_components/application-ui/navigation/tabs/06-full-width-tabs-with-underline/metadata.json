@@ -1,0 +1,29 @@
+{
+  "id": "7c429fe94a1fc0801cfd429c3b507c12",
+  "uuid": "7c429fe94a1fc0801cfd429c3b507c12",
+  "name": "Full-width tabs with underline",
+  "slug": "full-width-tabs-with-underline",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Tabs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/tabs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 102
+    },
+    "small": {
+      "width": 375,
+      "height": 88
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

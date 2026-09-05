@@ -1,0 +1,29 @@
+{
+  "id": "b99f4e0ab650993f48cbf8f990ceb030",
+  "uuid": "b99f4e0ab650993f48cbf8f990ceb030",
+  "name": "With timeline and stats",
+  "slug": "with-timeline-and-stats",
+  "product": "Marketing",
+  "category": "Page Examples",
+  "subcategory": "About Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/page-examples/about-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 5250
+    },
+    "small": {
+      "width": 375,
+      "height": 8102
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

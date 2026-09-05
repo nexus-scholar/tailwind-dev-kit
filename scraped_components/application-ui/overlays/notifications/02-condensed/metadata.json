@@ -1,0 +1,29 @@
+{
+  "id": "8960ebee918a39c1a753da4d378c0f96",
+  "uuid": "8960ebee918a39c1a753da4d378c0f96",
+  "name": "Condensed",
+  "slug": "condensed",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Notifications",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/notifications",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 320
+    },
+    "small": {
+      "width": 375,
+      "height": 320
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

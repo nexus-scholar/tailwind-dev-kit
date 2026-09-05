@@ -1,0 +1,29 @@
+{
+  "id": "43ee71fd15dce1037be11c19f5a95227",
+  "uuid": "43ee71fd15dce1037be11c19f5a95227",
+  "name": "Grid",
+  "slug": "grid",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Logo Clouds",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/logo-clouds",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 418
+    },
+    "small": {
+      "width": 375,
+      "height": 356
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

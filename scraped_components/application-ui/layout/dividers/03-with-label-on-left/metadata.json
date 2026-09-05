@@ -1,0 +1,29 @@
+{
+  "id": "8fbd91ccd8fa7759ad4de9c874cfb23e",
+  "uuid": "8fbd91ccd8fa7759ad4de9c874cfb23e",
+  "name": "With label on left",
+  "slug": "with-label-on-left",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Dividers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/dividers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 84
+    },
+    "small": {
+      "width": 375,
+      "height": 84
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

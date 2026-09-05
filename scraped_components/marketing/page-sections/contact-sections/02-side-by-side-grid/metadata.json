@@ -1,0 +1,29 @@
+{
+  "id": "b7a60fe9c1034409a2af488d723701a9",
+  "uuid": "b7a60fe9c1034409a2af488d723701a9",
+  "name": "Side-by-side grid",
+  "slug": "side-by-side-grid",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Contact Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/contact-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1137
+    },
+    "small": {
+      "width": 375,
+      "height": 2145
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

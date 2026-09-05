@@ -1,0 +1,29 @@
+{
+  "id": "2c220920c5e70d33aeaa56deb4df3f0e",
+  "uuid": "2c220920c5e70d33aeaa56deb4df3f0e",
+  "name": "Brand nav with overlap",
+  "slug": "brand-nav-with-overlap",
+  "product": "Application UI",
+  "category": "Application Shells",
+  "subcategory": "Stacked Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/application-shells/stacked",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 660
+    },
+    "small": {
+      "width": 375,
+      "height": 661
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

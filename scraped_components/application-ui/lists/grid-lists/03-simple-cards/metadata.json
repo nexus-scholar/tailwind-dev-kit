@@ -1,0 +1,29 @@
+{
+  "id": "4ec337def61b547035ce908c128bca5c",
+  "uuid": "4ec337def61b547035ce908c128bca5c",
+  "name": "Simple cards",
+  "slug": "simple-cards",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Grid Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/grid-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 154
+    },
+    "small": {
+      "width": 375,
+      "height": 388
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

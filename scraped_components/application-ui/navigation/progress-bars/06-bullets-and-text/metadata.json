@@ -1,0 +1,29 @@
+{
+  "id": "de81b2a07fe257c90fcc7a8c68489f02",
+  "uuid": "de81b2a07fe257c90fcc7a8c68489f02",
+  "name": "Bullets and text",
+  "slug": "bullets-and-text",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Progress Bars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/progress-bars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 248
+    },
+    "small": {
+      "width": 375,
+      "height": 248
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

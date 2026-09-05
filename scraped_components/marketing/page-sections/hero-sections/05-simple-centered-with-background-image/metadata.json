@@ -1,0 +1,29 @@
+{
+  "id": "d63f5b5552a3f3d936c6ab970a47899b",
+  "uuid": "d63f5b5552a3f3d936c6ab970a47899b",
+  "name": "Simple centered with background image",
+  "slug": "simple-centered-with-background-image",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 888
+    },
+    "small": {
+      "width": 375,
+      "height": 680
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

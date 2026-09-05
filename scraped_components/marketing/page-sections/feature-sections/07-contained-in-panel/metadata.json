@@ -1,0 +1,29 @@
+{
+  "id": "a17f8a661b0c18a30ef74897cdcdd168",
+  "uuid": "a17f8a661b0c18a30ef74897cdcdd168",
+  "name": "Contained in panel",
+  "slug": "contained-in-panel",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Feature Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/feature-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 991
+    },
+    "small": {
+      "width": 375,
+      "height": 1398
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

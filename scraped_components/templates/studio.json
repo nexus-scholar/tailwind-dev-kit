@@ -1,0 +1,68 @@
+{
+  "id": 15,
+  "name": "Studio",
+  "slug": "studio",
+  "type": "Agency template",
+  "url": "https://tailwindcss.com/plus/templates/studio",
+  "download_url": "https://tailwindcss.com/plus/templates/studio/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/studio/preview-01.png",
+  "summary": "Showcase your work and find new clients with this sophisticated agency template.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "MDX",
+      "version": "v2.3"
+    },
+    {
+      "name": "Framer Motion",
+      "version": "v10"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "We get it \u2014 you're just too busy building awesome stuff for your clients to build your own website. Use this one instead, you can even tell people we were the ones who stole the design from you.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "React v19",
+    "MDX v2.3",
+    "Framer Motion v10",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/studio/preview",
+  "local_archive": "scraped_components\\templates\\studio.zip",
+  "archive_size_kb": 26046,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/studio/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/studio/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/studio/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/studio/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/studio/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/studio",
+  "local_banner_image": "scraped_components/templates/screens/studio/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/studio/detail-01.png",
+    "scraped_components/templates/screens/studio/detail-02.png",
+    "scraped_components/templates/screens/studio/detail-03.png",
+    "scraped_components/templates/screens/studio/detail-04.png",
+    "scraped_components/templates/screens/studio/preview-01.png",
+    "scraped_components/templates/screens/studio/preview-02.png",
+    "scraped_components/templates/screens/studio/preview-03.png",
+    "scraped_components/templates/screens/studio/screenshot.png",
+    "scraped_components/templates/screens/studio/twitter.png"
+  ]
+}

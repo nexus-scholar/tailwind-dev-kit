@@ -1,0 +1,29 @@
+{
+  "id": "5504d8556f32418e14541117ecae48f0",
+  "uuid": "5504d8556f32418e14541117ecae48f0",
+  "name": "With logo, meta and actions",
+  "slug": "with-logo-meta-and-actions",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Page Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/page-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 208
+    },
+    "small": {
+      "width": 375,
+      "height": 208
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

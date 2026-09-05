@@ -1,0 +1,29 @@
+{
+  "id": "c9d423234fd92f72951b96480518868a",
+  "uuid": "c9d423234fd92f72951b96480518868a",
+  "name": "With minimal menu icon",
+  "slug": "with-minimal-menu-icon",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Dropdowns",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/dropdowns",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 360
+    },
+    "small": {
+      "width": 375,
+      "height": 360
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

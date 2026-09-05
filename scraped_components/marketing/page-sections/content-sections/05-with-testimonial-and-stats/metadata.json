@@ -1,0 +1,29 @@
+{
+  "id": "f6c39bd93fbb747d288f373cdbc039e3",
+  "uuid": "f6c39bd93fbb747d288f373cdbc039e3",
+  "name": "With testimonial and stats",
+  "slug": "with-testimonial-and-stats",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Content Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/content-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1145
+    },
+    "small": {
+      "width": 375,
+      "height": 2073
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

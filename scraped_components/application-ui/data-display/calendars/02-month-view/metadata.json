@@ -1,0 +1,29 @@
+{
+  "id": "c29139529079ea762f118812bbeaeb9e",
+  "uuid": "c29139529079ea762f118812bbeaeb9e",
+  "name": "Month view",
+  "slug": "month-view",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Calendars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/calendars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 768
+    },
+    "small": {
+      "width": 375,
+      "height": 694
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "a26a744b444974a4cc73cb5886b8da6a",
+  "uuid": "a26a744b444974a4cc73cb5886b8da6a",
+  "name": "Actions with shared borders",
+  "slug": "actions-with-shared-borders",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Grid Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/grid-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 666
+    },
+    "small": {
+      "width": 375,
+      "height": 1389
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

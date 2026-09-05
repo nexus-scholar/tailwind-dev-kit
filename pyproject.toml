@@ -1,0 +1,24 @@
+[project]
+name = "tailwind-dev-kit"
+version = "0.1.0"
+description = "Tailwind CSS Plus / UI component scraper and development toolkit"
+readme = "README.md"
+authors = [
+    { name = "nexus-scholar", email = "bekhouche.mouadh@univ-oeb.dz" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp>=2.1.1",
+    "pydantic>=2.13.5",
+    "python-dotenv>=1.2.3",
+    "rich>=15.0.0",
+    "typer>=0.27.2",
+]
+
+[project.scripts]
+tailwind-dev-kit = "tailwind_dev_kit.cli:app"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

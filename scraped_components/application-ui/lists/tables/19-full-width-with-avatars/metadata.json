@@ -1,0 +1,29 @@
+{
+  "id": "e101ace281ff682c4b9f7ecee3a6f5d3",
+  "uuid": "e101ace281ff682c4b9f7ecee3a6f5d3",
+  "name": "Full width with avatars",
+  "slug": "full-width-with-avatars",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Tables",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/tables",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

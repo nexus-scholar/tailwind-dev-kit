@@ -1,0 +1,29 @@
+{
+  "id": "b54103077fe282f9cb98536080d9bcd0",
+  "uuid": "b54103077fe282f9cb98536080d9bcd0",
+  "name": "With inline links and actions menu",
+  "slug": "with-inline-links-and-actions-menu",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Stacked Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/stacked-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 661
+    },
+    "small": {
+      "width": 375,
+      "height": 661
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

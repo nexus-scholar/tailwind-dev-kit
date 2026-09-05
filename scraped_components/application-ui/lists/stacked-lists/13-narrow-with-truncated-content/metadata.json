@@ -1,0 +1,29 @@
+{
+  "id": "515b7da735d10f08492eeb525b0fac38",
+  "uuid": "515b7da735d10f08492eeb525b0fac38",
+  "name": "Narrow with truncated content",
+  "slug": "narrow-with-truncated-content",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Stacked Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/stacked-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 595
+    },
+    "small": {
+      "width": 375,
+      "height": 563
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

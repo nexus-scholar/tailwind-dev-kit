@@ -1,0 +1,68 @@
+{
+  "id": 12,
+  "name": "Radiant",
+  "slug": "radiant",
+  "type": "SaaS marketing template",
+  "url": "https://tailwindcss.com/plus/templates/radiant",
+  "download_url": "https://tailwindcss.com/plus/templates/radiant/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/radiant/preview-01.png",
+  "summary": "A beautiful multi-page marketing website for your SaaS business.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "Framer Motion",
+      "version": "v10"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    },
+    {
+      "name": "Sanity",
+      "version": "v3.5"
+    }
+  ],
+  "description": "We originally designed this for a SaaS we were going to build ourselves, but by the time we were done, we were over that idea. So we turned it into a template for you instead.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "React v19",
+    "Framer Motion v10",
+    "TypeScript v5.8",
+    "Sanity v3.5"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/radiant/preview",
+  "local_archive": "scraped_components\\templates\\radiant.zip",
+  "archive_size_kb": 32160,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/radiant/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/radiant/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/radiant/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/radiant/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/radiant/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/radiant",
+  "local_banner_image": "scraped_components/templates/screens/radiant/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/radiant/detail-01.png",
+    "scraped_components/templates/screens/radiant/detail-02.png",
+    "scraped_components/templates/screens/radiant/detail-03.png",
+    "scraped_components/templates/screens/radiant/detail-04.png",
+    "scraped_components/templates/screens/radiant/preview-01.png",
+    "scraped_components/templates/screens/radiant/preview-02.png",
+    "scraped_components/templates/screens/radiant/preview-03.png",
+    "scraped_components/templates/screens/radiant/screenshot.png",
+    "scraped_components/templates/screens/radiant/twitter.png"
+  ]
+}

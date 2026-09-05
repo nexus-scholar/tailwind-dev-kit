@@ -1,0 +1,29 @@
+{
+  "id": "ce021f02f586e0e6a5f8de2ca2ee537b",
+  "uuid": "ce021f02f586e0e6a5f8de2ca2ee537b",
+  "name": "Contact cards with small portraits",
+  "slug": "contact-cards-with-small-portraits",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Grid Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/grid-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 380
+    },
+    "small": {
+      "width": 375,
+      "height": 1060
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

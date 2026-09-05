@@ -1,0 +1,29 @@
+{
+  "id": "30bf6b10109ab7c77e4a5ddf3e9506a8",
+  "uuid": "30bf6b10109ab7c77e4a5ddf3e9506a8",
+  "name": "Simple with slashes",
+  "slug": "simple-with-slashes",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Breadcrumbs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/breadcrumbs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 212
+    },
+    "small": {
+      "width": 375,
+      "height": 116
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

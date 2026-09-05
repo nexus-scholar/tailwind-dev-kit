@@ -1,0 +1,29 @@
+{
+  "id": "7e616a9c8fa0ef72ed1b86d8d0a856f6",
+  "uuid": "7e616a9c8fa0ef72ed1b86d8d0a856f6",
+  "name": "Flat card with dividers",
+  "slug": "flat-card-with-dividers",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "List containers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/list-containers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 356
+    },
+    "small": {
+      "width": 375,
+      "height": 356
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

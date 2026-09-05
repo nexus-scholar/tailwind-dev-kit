@@ -1,0 +1,29 @@
+{
+  "id": "7359808e2970a406ca075670f344028b",
+  "uuid": "7359808e2970a406ca075670f344028b",
+  "name": "Full-width on mobile, constrained to breakpoint with padded content above mobile",
+  "slug": "full-width-on-mobile-constrained-to-breakpoint-with-padded-content-above-mobile",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Containers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/containers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 256
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

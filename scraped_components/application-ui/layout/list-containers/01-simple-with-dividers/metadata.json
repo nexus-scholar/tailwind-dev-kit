@@ -1,0 +1,29 @@
+{
+  "id": "1c3bb892112d30468d57dcc89c5298d1",
+  "uuid": "1c3bb892112d30468d57dcc89c5298d1",
+  "name": "Simple with dividers",
+  "slug": "simple-with-dividers",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "List containers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/list-containers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 354
+    },
+    "small": {
+      "width": 375,
+      "height": 354
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

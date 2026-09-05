@@ -1,0 +1,29 @@
+{
+  "id": "25da9793d85eab488fced233a57c92ac",
+  "uuid": "25da9793d85eab488fced233a57c92ac",
+  "name": "Contact list example",
+  "slug": "contact-list-example",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Drawers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/drawers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 768
+    },
+    "small": {
+      "width": 375,
+      "height": 768
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

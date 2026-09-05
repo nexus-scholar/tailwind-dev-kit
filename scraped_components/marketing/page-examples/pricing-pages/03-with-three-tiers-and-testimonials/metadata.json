@@ -1,0 +1,29 @@
+{
+  "id": "26a51e8206f93553482c120828f05656",
+  "uuid": "26a51e8206f93553482c120828f05656",
+  "name": "With three tiers and testimonials",
+  "slug": "with-three-tiers-and-testimonials",
+  "product": "Marketing",
+  "category": "Page Examples",
+  "subcategory": "Pricing Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/page-examples/pricing-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 3225
+    },
+    "small": {
+      "width": 375,
+      "height": 5803
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

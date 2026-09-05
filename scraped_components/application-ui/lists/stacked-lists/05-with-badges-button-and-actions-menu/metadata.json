@@ -1,0 +1,29 @@
+{
+  "id": "aa5eae5161e0a8cd045cc1ed3f80302c",
+  "uuid": "aa5eae5161e0a8cd045cc1ed3f80302c",
+  "name": "With badges, button, and actions menu",
+  "slug": "with-badges-button-and-actions-menu",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Stacked Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/stacked-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 540
+    },
+    "small": {
+      "width": 375,
+      "height": 540
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "0797a02a34692167c369d134e7a6f9c5",
+  "uuid": "0797a02a34692167c369d134e7a6f9c5",
+  "name": "Simple card footer",
+  "slug": "simple-card-footer",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Pagination",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/pagination",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 361
+    },
+    "small": {
+      "width": 375,
+      "height": 361
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

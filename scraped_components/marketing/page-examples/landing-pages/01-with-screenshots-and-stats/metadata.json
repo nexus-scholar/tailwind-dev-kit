@@ -1,0 +1,29 @@
+{
+  "id": "62d05bbc8f76a3fa971ccf1bd8072b33",
+  "uuid": "62d05bbc8f76a3fa971ccf1bd8072b33",
+  "name": "With screenshots and stats",
+  "slug": "with-screenshots-and-stats",
+  "product": "Marketing",
+  "category": "Page Examples",
+  "subcategory": "Landing Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/page-examples/landing-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 4917
+    },
+    "small": {
+      "width": 375,
+      "height": 6193
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

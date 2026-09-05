@@ -1,0 +1,29 @@
+{
+  "id": "dc2a594f10f2d25875943b3efc90131a",
+  "uuid": "dc2a594f10f2d25875943b3efc90131a",
+  "name": "With testimonial",
+  "slug": "with-testimonial",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Feature Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/feature-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 797
+    },
+    "small": {
+      "width": 375,
+      "height": 1291
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

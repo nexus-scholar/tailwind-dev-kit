@@ -1,0 +1,29 @@
+{
+  "id": "fb8133472e65a46eb2d7f1acc52f93e5",
+  "uuid": "fb8133472e65a46eb2d7f1acc52f93e5",
+  "name": "Progress bar",
+  "slug": "progress-bar",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Progress Bars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/progress-bars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 192
+    },
+    "small": {
+      "width": 375,
+      "height": 148
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

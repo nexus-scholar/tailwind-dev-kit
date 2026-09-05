@@ -1,0 +1,29 @@
+{
+  "id": "2e47a11aec9a4e1aab7fc0e20d6b5951",
+  "uuid": "2e47a11aec9a4e1aab7fc0e20d6b5951",
+  "name": "4-column with call-to-action",
+  "slug": "4-column-with-call-to-action",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Footers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/footers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1033
+    },
+    "small": {
+      "width": 375,
+      "height": 1306
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

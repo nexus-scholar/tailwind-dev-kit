@@ -1,0 +1,29 @@
+{
+  "id": "a04b3cc22764976dff2cca9f8f420e43",
+  "uuid": "a04b3cc22764976dff2cca9f8f420e43",
+  "name": "With invoice tables",
+  "slug": "with-invoice-tables",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Order History Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/order-history-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1857
+    },
+    "small": {
+      "width": 375,
+      "height": 2367
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

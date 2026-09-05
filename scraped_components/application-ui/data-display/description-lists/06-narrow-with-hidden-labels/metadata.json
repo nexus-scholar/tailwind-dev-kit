@@ -1,0 +1,29 @@
+{
+  "id": "abf967b89e0df5cf9648be5a30d7660e",
+  "uuid": "abf967b89e0df5cf9648be5a30d7660e",
+  "name": "Narrow with hidden labels",
+  "slug": "narrow-with-hidden-labels",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Description Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/description-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 423
+    },
+    "small": {
+      "width": 375,
+      "height": 423
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

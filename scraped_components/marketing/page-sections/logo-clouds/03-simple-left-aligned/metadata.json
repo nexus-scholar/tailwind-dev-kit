@@ -1,0 +1,29 @@
+{
+  "id": "0b335b8d706c7e91f42206937f0f240c",
+  "uuid": "0b335b8d706c7e91f42206937f0f240c",
+  "name": "Simple left-aligned",
+  "slug": "simple-left-aligned",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Logo Clouds",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/logo-clouds",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 328
+    },
+    "small": {
+      "width": 375,
+      "height": 296
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

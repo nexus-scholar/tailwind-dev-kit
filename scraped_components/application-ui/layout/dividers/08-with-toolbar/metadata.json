@@ -1,0 +1,29 @@
+{
+  "id": "5942d989e5fcfa07fafb2df35300f682",
+  "uuid": "5942d989e5fcfa07fafb2df35300f682",
+  "name": "With toolbar",
+  "slug": "with-toolbar",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Dividers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/dividers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 100
+    },
+    "small": {
+      "width": 375,
+      "height": 100
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

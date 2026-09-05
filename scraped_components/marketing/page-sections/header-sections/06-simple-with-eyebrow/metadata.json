@@ -1,0 +1,29 @@
+{
+  "id": "808cbad18cf839c49d9555882d35c18f",
+  "uuid": "808cbad18cf839c49d9555882d35c18f",
+  "name": "Simple with eyebrow",
+  "slug": "simple-with-eyebrow",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Header Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/header",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 460
+    },
+    "small": {
+      "width": 375,
+      "height": 420
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "3783741bf2b1859f7a43f4a191f22acc",
+  "uuid": "3783741bf2b1859f7a43f4a191f22acc",
+  "name": "With actions and tabs",
+  "slug": "with-actions-and-tabs",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Section Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/section-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 174
+    },
+    "small": {
+      "width": 375,
+      "height": 245
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

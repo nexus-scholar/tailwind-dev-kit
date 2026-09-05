@@ -1,0 +1,29 @@
+{
+  "id": "57db2be0bad7665ad4538e64fb878835",
+  "uuid": "57db2be0bad7665ad4538e64fb878835",
+  "name": "Stacked cards",
+  "slug": "stacked-cards",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Radio Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/radio-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 440
+    },
+    "small": {
+      "width": 375,
+      "height": 632
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

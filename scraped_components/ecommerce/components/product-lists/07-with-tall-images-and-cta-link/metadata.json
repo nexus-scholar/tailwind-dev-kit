@@ -1,0 +1,29 @@
+{
+  "id": "09cfe344f8855fc64bbd7051cb8188e4",
+  "uuid": "09cfe344f8855fc64bbd7051cb8188e4",
+  "name": "With tall images and CTA link",
+  "slug": "with-tall-images-and-cta-link",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Product Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/product-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 888
+    },
+    "small": {
+      "width": 375,
+      "height": 1652
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

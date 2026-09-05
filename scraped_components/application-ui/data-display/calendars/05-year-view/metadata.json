@@ -1,0 +1,29 @@
+{
+  "id": "e5f12862f086eee6108f70ff74a502ff",
+  "uuid": "e5f12862f086eee6108f70ff74a502ff",
+  "name": "Year view",
+  "slug": "year-view",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Calendars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/calendars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 900
+    },
+    "small": {
+      "width": 375,
+      "height": 900
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

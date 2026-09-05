@@ -1,0 +1,29 @@
+{
+  "id": "7343b727d03bb437b9617fb26bf35021",
+  "uuid": "7343b727d03bb437b9617fb26bf35021",
+  "name": "Split with image",
+  "slug": "split-with-image",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Product Overviews",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/product-overviews",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 795
+    },
+    "small": {
+      "width": 375,
+      "height": 1236
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

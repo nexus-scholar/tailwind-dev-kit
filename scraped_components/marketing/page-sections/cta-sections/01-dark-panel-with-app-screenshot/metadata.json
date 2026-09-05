@@ -1,0 +1,29 @@
+{
+  "id": "0763876148e2fa400b4f1cf13cdf0093",
+  "uuid": "0763876148e2fa400b4f1cf13cdf0093",
+  "name": "Dark panel with app screenshot",
+  "slug": "dark-panel-with-app-screenshot",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 760
+    },
+    "small": {
+      "width": 375,
+      "height": 980
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

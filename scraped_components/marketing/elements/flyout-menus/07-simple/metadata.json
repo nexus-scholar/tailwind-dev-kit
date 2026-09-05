@@ -1,0 +1,29 @@
+{
+  "id": "3a091a4d7664f1d576e29f48d523edfa",
+  "uuid": "3a091a4d7664f1d576e29f48d523edfa",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Flyout Menus",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/flyout-menus",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 388
+    },
+    "small": {
+      "width": 375,
+      "height": 388
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

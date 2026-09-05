@@ -1,0 +1,29 @@
+{
+  "id": "048b06b7f859d2fa194752ee8805992a",
+  "uuid": "048b06b7f859d2fa194752ee8805992a",
+  "name": "On brand background",
+  "slug": "on-brand-background",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Headers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/headers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 448
+    },
+    "small": {
+      "width": 375,
+      "height": 448
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": 9,
+  "name": "Pocket",
+  "slug": "pocket",
+  "type": "App marketing template",
+  "url": "https://tailwindcss.com/plus/templates/pocket",
+  "download_url": "https://tailwindcss.com/plus/templates/pocket/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/pocket/preview-01.png",
+  "summary": "The perfect website template for your exciting new mobile app.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "Headless UI",
+      "version": "v2.1"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "You've been working hard for months on that new native iOS app and you're finally ready to launch. Take a break from writing Swift and use this template to create a beautiful marketing site for your app.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "Headless UI v2.1",
+    "React v19",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/pocket/preview",
+  "local_archive": "scraped_components\\templates\\pocket.zip",
+  "archive_size_kb": 247,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/pocket/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/pocket/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/pocket/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/pocket/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/pocket/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/pocket",
+  "local_banner_image": "scraped_components/templates/screens/pocket/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/pocket/detail-01.png",
+    "scraped_components/templates/screens/pocket/detail-02.png",
+    "scraped_components/templates/screens/pocket/detail-03.png",
+    "scraped_components/templates/screens/pocket/detail-04.png",
+    "scraped_components/templates/screens/pocket/preview-01.png",
+    "scraped_components/templates/screens/pocket/preview-02.png",
+    "scraped_components/templates/screens/pocket/preview-03.png",
+    "scraped_components/templates/screens/pocket/screenshot.png",
+    "scraped_components/templates/screens/pocket/twitter.png"
+  ]
+}

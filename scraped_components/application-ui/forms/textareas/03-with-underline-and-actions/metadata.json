@@ -1,0 +1,29 @@
+{
+  "id": "7c970c3497e5971b9e7e7c8d062d9e3b",
+  "uuid": "7c970c3497e5971b9e7e7c8d062d9e3b",
+  "name": "With underline and actions",
+  "slug": "with-underline-and-actions",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Textareas",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/textareas",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 182
+    },
+    "small": {
+      "width": 375,
+      "height": 182
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

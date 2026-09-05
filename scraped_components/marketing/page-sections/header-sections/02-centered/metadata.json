@@ -1,0 +1,29 @@
+{
+  "id": "a501b05b958dd7605d4e42aa2aa65b36",
+  "uuid": "a501b05b958dd7605d4e42aa2aa65b36",
+  "name": "Centered",
+  "slug": "centered",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Header Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/header",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 424
+    },
+    "small": {
+      "width": 375,
+      "height": 384
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

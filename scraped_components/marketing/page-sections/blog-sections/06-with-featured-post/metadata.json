@@ -1,0 +1,29 @@
+{
+  "id": "6aa46ca7c95f0e163e8fc04b59de7670",
+  "uuid": "6aa46ca7c95f0e163e8fc04b59de7670",
+  "name": "With featured post",
+  "slug": "with-featured-post",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Blog Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/blog-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 705
+    },
+    "small": {
+      "width": 375,
+      "height": 1318
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

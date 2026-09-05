@@ -1,0 +1,29 @@
+{
+  "id": "9710edede7633db7eb6fddb27fd13a24",
+  "uuid": "9710edede7633db7eb6fddb27fd13a24",
+  "name": "With button at top right",
+  "slug": "with-button-at-top-right",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Action Panels",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/action-panels",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 216
+    },
+    "small": {
+      "width": 375,
+      "height": 284
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

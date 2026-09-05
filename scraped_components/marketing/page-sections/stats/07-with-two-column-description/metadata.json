@@ -1,0 +1,29 @@
+{
+  "id": "9df8d30b1ea52307e8d5fd15a87a3a4c",
+  "uuid": "9df8d30b1ea52307e8d5fd15a87a3a4c",
+  "name": "With two column description",
+  "slug": "with-two-column-description",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Stats",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/stats-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 824
+    },
+    "small": {
+      "width": 375,
+      "height": 1672
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

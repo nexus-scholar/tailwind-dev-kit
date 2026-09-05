@@ -1,0 +1,29 @@
+{
+  "id": "550d28e5af844fd761c80c6b6a8d7486",
+  "uuid": "550d28e5af844fd761c80c6b6a8d7486",
+  "name": "Input with pill shape",
+  "slug": "input-with-pill-shape",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Input Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/input-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 132
+    },
+    "small": {
+      "width": 375,
+      "height": 132
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

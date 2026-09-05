@@ -1,0 +1,29 @@
+{
+  "id": "5f235b346d3762796ec90ba3246446fd",
+  "uuid": "5f235b346d3762796ec90ba3246446fd",
+  "name": "Two columns with photo",
+  "slug": "two-columns-with-photo",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 800
+    },
+    "small": {
+      "width": 375,
+      "height": 1292
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

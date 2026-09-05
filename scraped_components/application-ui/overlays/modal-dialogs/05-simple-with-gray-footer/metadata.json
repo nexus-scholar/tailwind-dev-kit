@@ -1,0 +1,29 @@
+{
+  "id": "b6812b6c13fff16861f2645c4100ae5b",
+  "uuid": "b6812b6c13fff16861f2645c4100ae5b",
+  "name": "Simple with gray footer",
+  "slug": "simple-with-gray-footer",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Modal Dialogs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/modal-dialogs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 500
+    },
+    "small": {
+      "width": 375,
+      "height": 500
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

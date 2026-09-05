@@ -1,0 +1,29 @@
+{
+  "id": "c3692309ba3a2cd4c439031e104ad97a",
+  "uuid": "c3692309ba3a2cd4c439031e104ad97a",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Card Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/card-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 367
+    },
+    "small": {
+      "width": 375,
+      "height": 367
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

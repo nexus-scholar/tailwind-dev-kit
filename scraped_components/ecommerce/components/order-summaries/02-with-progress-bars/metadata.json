@@ -1,0 +1,29 @@
+{
+  "id": "e2b488e9a1bb6dd01abae32ea6cefe15",
+  "uuid": "e2b488e9a1bb6dd01abae32ea6cefe15",
+  "name": "With progress bars",
+  "slug": "with-progress-bars",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Order Summaries",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/order-summaries",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1365
+    },
+    "small": {
+      "width": 375,
+      "height": 2191
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "e0f6280e5501d69e188768909fda485e",
+  "uuid": "e0f6280e5501d69e188768909fda485e",
+  "name": "Custom with status indicator",
+  "slug": "custom-with-status-indicator",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Select Menus",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/select-menus",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 448
+    },
+    "small": {
+      "width": 375,
+      "height": 448
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

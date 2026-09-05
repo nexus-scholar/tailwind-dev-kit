@@ -1,0 +1,29 @@
+{
+  "id": "34180dd5b86e303286a8aa59b2ca9c34",
+  "uuid": "34180dd5b86e303286a8aa59b2ca9c34",
+  "name": "With expandable sections",
+  "slug": "with-expandable-sections",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Sidebar Navigation",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/sidebar-navigation",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

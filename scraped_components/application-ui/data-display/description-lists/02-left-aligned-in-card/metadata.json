@@ -1,0 +1,29 @@
+{
+  "id": "e1b5917b21bbe76a73a96c5ca876225f",
+  "uuid": "e1b5917b21bbe76a73a96c5ca876225f",
+  "name": "Left-aligned in card",
+  "slug": "left-aligned-in-card",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Description Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/description-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 801
+    },
+    "small": {
+      "width": 375,
+      "height": 1001
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

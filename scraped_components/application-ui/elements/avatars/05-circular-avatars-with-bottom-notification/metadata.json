@@ -1,0 +1,29 @@
+{
+  "id": "beffc7e57aaf1acb644b3a27ad29a2f8",
+  "uuid": "beffc7e57aaf1acb644b3a27ad29a2f8",
+  "name": "Circular avatars with bottom notification",
+  "slug": "circular-avatars-with-bottom-notification",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Avatars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/avatars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 128
+    },
+    "small": {
+      "width": 375,
+      "height": 128
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

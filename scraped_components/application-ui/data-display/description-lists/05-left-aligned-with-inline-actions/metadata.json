@@ -1,0 +1,29 @@
+{
+  "id": "7a07446d5ac240767202f521f7065893",
+  "uuid": "7a07446d5ac240767202f521f7065893",
+  "name": "Left-aligned with inline actions",
+  "slug": "left-aligned-with-inline-actions",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Description Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/description-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 777
+    },
+    "small": {
+      "width": 375,
+      "height": 1017
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

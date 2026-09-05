@@ -1,0 +1,29 @@
+{
+  "id": "8ea0a1bf2b3c2b1d7fc86019674bb55a",
+  "uuid": "8ea0a1bf2b3c2b1d7fc86019674bb55a",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Tabs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/tabs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

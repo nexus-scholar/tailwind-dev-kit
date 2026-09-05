@@ -1,0 +1,29 @@
+{
+  "id": "1a48413a7b6b49af32a9b2a75de4c0e8",
+  "uuid": "1a48413a7b6b49af32a9b2a75de4c0e8",
+  "name": "Simple four-column",
+  "slug": "simple-four-column",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Contact Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/contact-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 548
+    },
+    "small": {
+      "width": 375,
+      "height": 912
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

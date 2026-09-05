@@ -1,0 +1,29 @@
+{
+  "id": "a70becc0d3cc548c2205920a6aa78e94",
+  "uuid": "a70becc0d3cc548c2205920a6aa78e94",
+  "name": "Simple with icons",
+  "slug": "simple-with-icons",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Feeds",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/feeds",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 384
+    },
+    "small": {
+      "width": 375,
+      "height": 440
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

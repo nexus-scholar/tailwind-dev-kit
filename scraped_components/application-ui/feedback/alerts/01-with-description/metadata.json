@@ -1,0 +1,29 @@
+{
+  "id": "8a099d76389c1c4d6d4e92d69acbc8d2",
+  "uuid": "8a099d76389c1c4d6d4e92d69acbc8d2",
+  "name": "With description",
+  "slug": "with-description",
+  "product": "Application UI",
+  "category": "Feedback",
+  "subcategory": "Alerts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/feedback/alerts",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 196
+    },
+    "small": {
+      "width": 375,
+      "height": 236
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

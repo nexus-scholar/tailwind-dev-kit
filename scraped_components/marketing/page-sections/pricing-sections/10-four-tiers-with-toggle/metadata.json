@@ -1,0 +1,29 @@
+{
+  "id": "d18ab876bc346ed08c7499a16281777c",
+  "uuid": "d18ab876bc346ed08c7499a16281777c",
+  "name": "Four tiers with toggle",
+  "slug": "four-tiers-with-toggle",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Pricing Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/pricing",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1128
+    },
+    "small": {
+      "width": 375,
+      "height": 2600
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

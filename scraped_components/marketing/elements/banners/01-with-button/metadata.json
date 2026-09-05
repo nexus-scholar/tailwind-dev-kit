@@ -1,0 +1,29 @@
+{
+  "id": "8904b9d9a9fbb9a2313df3975112f9d7",
+  "uuid": "8904b9d9a9fbb9a2313df3975112f9d7",
+  "name": "With button",
+  "slug": "with-button",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Banners",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/banners",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 256
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

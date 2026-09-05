@@ -1,0 +1,29 @@
+{
+  "id": "fc4d5d4d23fdbfd7bbd531edf250e93a",
+  "uuid": "fc4d5d4d23fdbfd7bbd531edf250e93a",
+  "name": "With buttons below",
+  "slug": "with-buttons-below",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Notifications",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/notifications",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 320
+    },
+    "small": {
+      "width": 375,
+      "height": 320
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "e704df9a95d4642b3cb165a1b71f5171",
+  "uuid": "e704df9a95d4642b3cb165a1b71f5171",
+  "name": "Constrained to breakpoint with padded content",
+  "slug": "constrained-to-breakpoint-with-padded-content",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Containers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/containers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 256
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

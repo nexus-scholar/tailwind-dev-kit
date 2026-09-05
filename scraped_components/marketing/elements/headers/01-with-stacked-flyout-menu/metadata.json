@@ -1,0 +1,29 @@
+{
+  "id": "27e5f71ced91b88e3f6b59ca69033a83",
+  "uuid": "27e5f71ced91b88e3f6b59ca69033a83",
+  "name": "With stacked flyout menu",
+  "slug": "with-stacked-flyout-menu",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Headers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/headers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 640
+    },
+    "small": {
+      "width": 375,
+      "height": 640
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "8f2857c2b9324bb3fe8b1c455438ae07",
+  "uuid": "8f2857c2b9324bb3fe8b1c455438ae07",
+  "name": "Simple stacked",
+  "slug": "simple-stacked",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 432
+    },
+    "small": {
+      "width": 375,
+      "height": 392
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "189e461eb3b78defcc758e837a875b6b",
+  "uuid": "189e461eb3b78defcc758e837a875b6b",
+  "name": "Two-column",
+  "slug": "two-column",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Description Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/description-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 735
+    },
+    "small": {
+      "width": 375,
+      "height": 997
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

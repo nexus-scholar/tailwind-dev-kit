@@ -1,0 +1,29 @@
+{
+  "id": "58b6441d042e26470c2d485039ead146",
+  "uuid": "58b6441d042e26470c2d485039ead146",
+  "name": "Split with image",
+  "slug": "split-with-image",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 612
+    },
+    "small": {
+      "width": 375,
+      "height": 852
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "a3c09c7a3b8f4bd90d280722eaff9634",
+  "uuid": "a3c09c7a3b8f4bd90d280722eaff9634",
+  "name": "With angled image on right",
+  "slug": "with-angled-image-on-right",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 928
+    },
+    "small": {
+      "width": 375,
+      "height": 882
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

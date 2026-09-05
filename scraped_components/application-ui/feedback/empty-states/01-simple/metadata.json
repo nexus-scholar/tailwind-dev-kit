@@ -1,0 +1,29 @@
+{
+  "id": "42930c785190e14c24b53ba822f4a92c",
+  "uuid": "42930c785190e14c24b53ba822f4a92c",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Application UI",
+  "category": "Feedback",
+  "subcategory": "Empty States",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/feedback/empty-states",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 256
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

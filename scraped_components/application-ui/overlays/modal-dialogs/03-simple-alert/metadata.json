@@ -1,0 +1,29 @@
+{
+  "id": "5b2215402125bb9b2fa926f9af38e494",
+  "uuid": "5b2215402125bb9b2fa926f9af38e494",
+  "name": "Simple alert",
+  "slug": "simple-alert",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Modal Dialogs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/modal-dialogs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 500
+    },
+    "small": {
+      "width": 375,
+      "height": 500
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

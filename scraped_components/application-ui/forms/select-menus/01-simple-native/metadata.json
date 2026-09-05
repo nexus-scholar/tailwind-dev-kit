@@ -1,0 +1,29 @@
+{
+  "id": "79592f355ca6f6e3b081e0158109981c",
+  "uuid": "79592f355ca6f6e3b081e0158109981c",
+  "name": "Simple native",
+  "slug": "simple-native",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Select Menus",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/select-menus",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 132
+    },
+    "small": {
+      "width": 375,
+      "height": 132
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

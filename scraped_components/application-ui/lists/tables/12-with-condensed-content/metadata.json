@@ -1,0 +1,29 @@
+{
+  "id": "fa5d8b35366e1921290491bd08878e0b",
+  "uuid": "fa5d8b35366e1921290491bd08878e0b",
+  "name": "With condensed content",
+  "slug": "with-condensed-content",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Tables",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/tables",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 508
+    },
+    "small": {
+      "width": 375,
+      "height": 580
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

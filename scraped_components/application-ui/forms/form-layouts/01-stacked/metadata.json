@@ -1,0 +1,29 @@
+{
+  "id": "1c3f9860d66ce5cd9fb35ba7fde6721a",
+  "uuid": "1c3f9860d66ce5cd9fb35ba7fde6721a",
+  "name": "Stacked",
+  "slug": "stacked",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Form Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/form-layouts",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 2409
+    },
+    "small": {
+      "width": 375,
+      "height": 2813
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

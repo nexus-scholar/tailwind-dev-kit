@@ -1,0 +1,29 @@
+{
+  "id": "82fc139db99143307df48bb9fe6152c5",
+  "uuid": "82fc139db99143307df48bb9fe6152c5",
+  "name": "Side-by-side with details",
+  "slug": "side-by-side-with-details",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Newsletter Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/newsletter-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 436
+    },
+    "small": {
+      "width": 375,
+      "height": 820
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

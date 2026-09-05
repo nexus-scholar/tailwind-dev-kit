@@ -1,0 +1,29 @@
+{
+  "id": "7dc6ffff20237868ddf0e7d21cf17cf1",
+  "uuid": "7dc6ffff20237868ddf0e7d21cf17cf1",
+  "name": "Simple with chevrons",
+  "slug": "simple-with-chevrons",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Breadcrumbs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/breadcrumbs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 212
+    },
+    "small": {
+      "width": 375,
+      "height": 116
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

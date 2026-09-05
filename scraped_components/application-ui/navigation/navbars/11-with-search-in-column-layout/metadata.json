@@ -1,0 +1,29 @@
+{
+  "id": "ac4ed72c2e03976dc5415ce711fe2f78",
+  "uuid": "ac4ed72c2e03976dc5415ce711fe2f78",
+  "name": "With search in column layout",
+  "slug": "with-search-in-column-layout",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Navbars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/navbars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 192
+    },
+    "small": {
+      "width": 375,
+      "height": 480
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

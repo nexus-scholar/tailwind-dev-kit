@@ -1,0 +1,29 @@
+{
+  "id": "35c0d8b89ac8b51d8ff6ec404f3c5b99",
+  "uuid": "35c0d8b89ac8b51d8ff6ec404f3c5b99",
+  "name": "Three tiers with toggle",
+  "slug": "three-tiers-with-toggle",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Pricing Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/pricing",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1128
+    },
+    "small": {
+      "width": 375,
+      "height": 2152
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

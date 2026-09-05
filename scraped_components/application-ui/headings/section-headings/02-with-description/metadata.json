@@ -1,0 +1,29 @@
+{
+  "id": "e41884f80859d3afa20019532c28c1fb",
+  "uuid": "e41884f80859d3afa20019532c28c1fb",
+  "name": "With description",
+  "slug": "with-description",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Section Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/section-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 189
+    },
+    "small": {
+      "width": 375,
+      "height": 229
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

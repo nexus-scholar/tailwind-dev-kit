@@ -1,0 +1,29 @@
+{
+  "id": "dd9098382f8067c3d90b99dbad8351a3",
+  "uuid": "dd9098382f8067c3d90b99dbad8351a3",
+  "name": "Floating at bottom centered",
+  "slug": "floating-at-bottom-centered",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Banners",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/banners",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 256
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

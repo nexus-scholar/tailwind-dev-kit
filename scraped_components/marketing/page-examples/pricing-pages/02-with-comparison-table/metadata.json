@@ -1,0 +1,29 @@
+{
+  "id": "5f3268c0a01e789d4578d1f0f505594e",
+  "uuid": "5f3268c0a01e789d4578d1f0f505594e",
+  "name": "With comparison table",
+  "slug": "with-comparison-table",
+  "product": "Marketing",
+  "category": "Page Examples",
+  "subcategory": "Pricing Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/page-examples/pricing-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 3960
+    },
+    "small": {
+      "width": 375,
+      "height": 7716
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

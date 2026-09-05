@@ -1,0 +1,29 @@
+{
+  "id": "38aa2491bf79a5bf705df14524ab7467",
+  "uuid": "38aa2491bf79a5bf705df14524ab7467",
+  "name": "Two tiers with emphasized left tier",
+  "slug": "two-tiers-with-emphasized-left-tier",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Pricing Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/pricing",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

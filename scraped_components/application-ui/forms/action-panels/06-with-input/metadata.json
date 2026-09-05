@@ -1,0 +1,29 @@
+{
+  "id": "8075122173e35cf62fda24f695faa863",
+  "uuid": "8075122173e35cf62fda24f695faa863",
+  "name": "With input",
+  "slug": "with-input",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Action Panels",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/action-panels",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 252
+    },
+    "small": {
+      "width": 375,
+      "height": 312
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

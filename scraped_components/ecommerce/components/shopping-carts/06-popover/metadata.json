@@ -1,0 +1,29 @@
+{
+  "id": "56a0d26d9a686945295c127e43711f61",
+  "uuid": "56a0d26d9a686945295c127e43711f61",
+  "name": "Popover",
+  "slug": "popover",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Shopping Carts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/shopping-carts",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 564
+    },
+    "small": {
+      "width": 375,
+      "height": 564
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

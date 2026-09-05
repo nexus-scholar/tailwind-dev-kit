@@ -1,0 +1,29 @@
+{
+  "id": "cb75aacd7c636865835476c98f606a38",
+  "uuid": "cb75aacd7c636865835476c98f606a38",
+  "name": "With centered text and dropdown product filters",
+  "slug": "with-centered-text-and-dropdown-product-filters",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Category Filters",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/category-filters",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 480
+    },
+    "small": {
+      "width": 375,
+      "height": 480
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

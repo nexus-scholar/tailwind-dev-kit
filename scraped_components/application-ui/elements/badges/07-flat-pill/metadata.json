@@ -1,0 +1,29 @@
+{
+  "id": "d7236fb2b65d5508f47ef24394c037fe",
+  "uuid": "d7236fb2b65d5508f47ef24394c037fe",
+  "name": "Flat pill",
+  "slug": "flat-pill",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Badges",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/badges",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 88
+    },
+    "small": {
+      "width": 375,
+      "height": 128
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

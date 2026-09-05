@@ -1,0 +1,29 @@
+{
+  "id": "b88d7fac50000088285c185aba85b81a",
+  "uuid": "b88d7fac50000088285c185aba85b81a",
+  "name": "Split with image",
+  "slug": "split-with-image",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 840
+    },
+    "small": {
+      "width": 375,
+      "height": 802
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

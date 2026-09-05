@@ -1,0 +1,29 @@
+{
+  "id": "cc1fc7c0898d134a5e03a53ede94f622",
+  "uuid": "cc1fc7c0898d134a5e03a53ede94f622",
+  "name": "Soft buttons",
+  "slug": "soft-buttons",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Buttons",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/buttons",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 104
+    },
+    "small": {
+      "width": 375,
+      "height": 288
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

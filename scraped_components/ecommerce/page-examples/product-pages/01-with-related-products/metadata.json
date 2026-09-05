@@ -1,0 +1,29 @@
+{
+  "id": "b3ec374a846996da2c1176c10ad1c27a",
+  "uuid": "b3ec374a846996da2c1176c10ad1c27a",
+  "name": "With related products",
+  "slug": "with-related-products",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Product Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/product-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 3689
+    },
+    "small": {
+      "width": 375,
+      "height": 5987
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fa14d2deae17e4c14964ef86ea0a1603",
+  "uuid": "fa14d2deae17e4c14964ef86ea0a1603",
+  "name": "Full-width on mobile, constrained with padded content above",
+  "slug": "full-width-on-mobile-constrained-with-padded-content-above",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Containers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/containers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 256
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

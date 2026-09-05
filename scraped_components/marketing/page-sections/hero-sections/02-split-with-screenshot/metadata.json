@@ -1,0 +1,29 @@
+{
+  "id": "54294e7b86ddf5371565dbdfd133d79c",
+  "uuid": "54294e7b86ddf5371565dbdfd133d79c",
+  "name": "Split with screenshot",
+  "slug": "split-with-screenshot",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 808
+    },
+    "small": {
+      "width": 375,
+      "height": 736
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

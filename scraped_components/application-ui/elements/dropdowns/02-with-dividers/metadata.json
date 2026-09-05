@@ -1,0 +1,29 @@
+{
+  "id": "1f10562f6266c9b3ef15ff792edd508e",
+  "uuid": "1f10562f6266c9b3ef15ff792edd508e",
+  "name": "With dividers",
+  "slug": "with-dividers",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Dropdowns",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/dropdowns",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 460
+    },
+    "small": {
+      "width": 375,
+      "height": 460
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "9a6c0d01eb626ce1c5a63141be2e5271",
+  "uuid": "9a6c0d01eb626ce1c5a63141be2e5271",
+  "name": "Card with avatar and stats",
+  "slug": "card-with-avatar-and-stats",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Page Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/page-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 253
+    },
+    "small": {
+      "width": 375,
+      "height": 515
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

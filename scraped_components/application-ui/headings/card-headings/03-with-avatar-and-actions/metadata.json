@@ -1,0 +1,29 @@
+{
+  "id": "e772a4f0088a3ec0ac950b1eb0351989",
+  "uuid": "e772a4f0088a3ec0ac950b1eb0351989",
+  "name": "With avatar and actions",
+  "slug": "with-avatar-and-actions",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Card Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/card-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 391
+    },
+    "small": {
+      "width": 375,
+      "height": 443
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

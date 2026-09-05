@@ -1,0 +1,73 @@
+{
+  "name": "Catalyst",
+  "slug": "catalyst",
+  "type": "Application UI Kit",
+  "url": "https://tailwindcss.com/plus/ui-kit",
+  "documentation_url": "https://catalyst.tailwindui.com/docs",
+  "download_url": "https://tailwindcss.com/plus/templates/catalyst/download",
+  "local_archive": "scraped_components\\templates\\catalyst.zip",
+  "extracted_path": "scraped_components/ui-kit/catalyst",
+  "summary": "Modern, opinionated application UI kit built with React and Tailwind CSS. Includes 26 core application components implemented in both TypeScript (.tsx) and JavaScript (.jsx), plus full Next.js demo applications.",
+  "frameworks": [
+    "React",
+    "Next.js",
+    "Tailwind CSS v4",
+    "Headless UI"
+  ],
+  "technologies": [],
+  "technologies_summary": [],
+  "total_components": 27,
+  "components": [
+    "alert",
+    "auth-layout",
+    "avatar",
+    "badge",
+    "button",
+    "checkbox",
+    "combobox",
+    "description-list",
+    "dialog",
+    "divider",
+    "dropdown",
+    "fieldset",
+    "heading",
+    "input",
+    "link",
+    "listbox",
+    "navbar",
+    "pagination",
+    "radio",
+    "select",
+    "sidebar",
+    "sidebar-layout",
+    "stacked-layout",
+    "switch",
+    "table",
+    "text",
+    "textarea"
+  ],
+  "directories": {
+    "typescript": "scraped_components/ui-kit/catalyst/typescript",
+    "javascript": "scraped_components/ui-kit/catalyst/javascript",
+    "demo": "scraped_components/ui-kit/catalyst/demo"
+  },
+  "description": null,
+  "demo_preview_url": null,
+  "archive_size_kb": 4579,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/catalyst/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/catalyst/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/catalyst/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/catalyst/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/catalyst/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/catalyst",
+  "local_banner_image": "scraped_components/templates/screens/catalyst/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/catalyst/detail-01.png",
+    "scraped_components/templates/screens/catalyst/detail-02.png",
+    "scraped_components/templates/screens/catalyst/detail-03.png",
+    "scraped_components/templates/screens/catalyst/detail-04.png",
+    "scraped_components/templates/screens/catalyst/screenshot.png"
+  ]
+}

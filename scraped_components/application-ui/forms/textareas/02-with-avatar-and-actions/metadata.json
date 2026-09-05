@@ -1,0 +1,29 @@
+{
+  "id": "784309f82e9913989c2196a2d47eff4a",
+  "uuid": "784309f82e9913989c2196a2d47eff4a",
+  "name": "With avatar and actions",
+  "slug": "with-avatar-and-actions",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Textareas",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/textareas",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 202
+    },
+    "small": {
+      "width": 375,
+      "height": 202
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

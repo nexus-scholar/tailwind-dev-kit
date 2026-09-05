@@ -1,0 +1,29 @@
+{
+  "id": "b59d3a98c34e60d43c8972caa08618a5",
+  "uuid": "b59d3a98c34e60d43c8972caa08618a5",
+  "name": "Borderless stacked",
+  "slug": "borderless-stacked",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Calendars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/calendars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 877
+    },
+    "small": {
+      "width": 375,
+      "height": 877
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

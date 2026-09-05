@@ -1,0 +1,29 @@
+{
+  "id": "f77fa2476964716cd375c934954229ae",
+  "uuid": "f77fa2476964716cd375c934954229ae",
+  "name": "Simple inline list",
+  "slug": "simple-inline-list",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Radio Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/radio-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 196
+    },
+    "small": {
+      "width": 375,
+      "height": 292
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "f5dffb97e3fb18b74edb4ca4864cb359",
+  "uuid": "f5dffb97e3fb18b74edb4ca4864cb359",
+  "name": "With order summary sidebar",
+  "slug": "with-order-summary-sidebar",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Checkout Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/checkout-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1048
+    },
+    "small": {
+      "width": 375,
+      "height": 1369
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

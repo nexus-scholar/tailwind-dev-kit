@@ -1,0 +1,29 @@
+{
+  "id": "fbb80c840a9674b8b49d86450938c32f",
+  "uuid": "fbb80c840a9674b8b49d86450938c32f",
+  "name": "With star rating",
+  "slug": "with-star-rating",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Testimonials",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/testimonials",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 586
+    },
+    "small": {
+      "width": 375,
+      "height": 598
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

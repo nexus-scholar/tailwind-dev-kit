@@ -1,0 +1,29 @@
+{
+  "id": "19fd0a5dfcf9ea32f64b9d5f49d76db7",
+  "uuid": "19fd0a5dfcf9ea32f64b9d5f49d76db7",
+  "name": "Well on gray",
+  "slug": "well-on-gray",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Cards",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/cards",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 400
+    },
+    "small": {
+      "width": 375,
+      "height": 392
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c1ce1d3e4b7269f8da91ec959046c395",
+  "uuid": "c1ce1d3e4b7269f8da91ec959046c395",
+  "name": "With avatar",
+  "slug": "with-avatar",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Notifications",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/notifications",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 320
+    },
+    "small": {
+      "width": 375,
+      "height": 320
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

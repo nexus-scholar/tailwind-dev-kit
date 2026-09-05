@@ -1,0 +1,29 @@
+{
+  "id": "dc65cfa183921e10d45c401610332cca",
+  "uuid": "dc65cfa183921e10d45c401610332cca",
+  "name": "Three column bento grid",
+  "slug": "three-column-bento-grid",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Bento Grids",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/bento-grids",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1064
+    },
+    "small": {
+      "width": 375,
+      "height": 2108
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

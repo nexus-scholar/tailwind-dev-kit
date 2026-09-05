@@ -1,0 +1,29 @@
+{
+  "id": "d4fb2a774349ca5444645f8468bda069",
+  "uuid": "d4fb2a774349ca5444645f8468bda069",
+  "name": "Multi-column",
+  "slug": "multi-column",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Reviews",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/reviews",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 892
+    },
+    "small": {
+      "width": 375,
+      "height": 1228
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

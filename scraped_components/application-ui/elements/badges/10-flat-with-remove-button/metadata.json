@@ -1,0 +1,29 @@
+{
+  "id": "eb296441dfb685d3aca6b82169d64dcb",
+  "uuid": "eb296441dfb685d3aca6b82169d64dcb",
+  "name": "Flat with remove button",
+  "slug": "flat-with-remove-button",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Badges",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/badges",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 88
+    },
+    "small": {
+      "width": 375,
+      "height": 168
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

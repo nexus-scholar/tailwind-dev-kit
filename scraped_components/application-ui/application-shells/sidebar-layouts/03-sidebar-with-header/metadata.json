@@ -1,0 +1,29 @@
+{
+  "id": "c91f624f7c6bcae840b9d674e343cc04",
+  "uuid": "c91f624f7c6bcae840b9d674e343cc04",
+  "name": "Sidebar with header",
+  "slug": "sidebar-with-header",
+  "product": "Application UI",
+  "category": "Application Shells",
+  "subcategory": "Sidebar Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/application-shells/sidebar",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

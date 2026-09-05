@@ -1,0 +1,29 @@
+{
+  "id": "4b4787c037a2e3840ff410054004398e",
+  "uuid": "4b4787c037a2e3840ff410054004398e",
+  "name": "With image tiles",
+  "slug": "with-image-tiles",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1134
+    },
+    "small": {
+      "width": 375,
+      "height": 1690
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

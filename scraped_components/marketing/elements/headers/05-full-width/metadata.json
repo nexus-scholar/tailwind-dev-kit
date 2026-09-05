@@ -1,0 +1,29 @@
+{
+  "id": "593dc2239ad88d2f55f81ad94b6a4069",
+  "uuid": "593dc2239ad88d2f55f81ad94b6a4069",
+  "name": "Full width",
+  "slug": "full-width",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Headers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/headers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 448
+    },
+    "small": {
+      "width": 375,
+      "height": 448
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

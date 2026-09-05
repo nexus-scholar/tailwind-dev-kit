@@ -1,0 +1,29 @@
+{
+  "id": "e56f750c63d4e53a24f5f0bf9fd7b52a",
+  "uuid": "e56f750c63d4e53a24f5f0bf9fd7b52a",
+  "name": "With stacked columns on mobile",
+  "slug": "with-stacked-columns-on-mobile",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Tables",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/tables",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 530
+    },
+    "small": {
+      "width": 375,
+      "height": 890
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "51e7bd07cdcacb755fd1f4ad6fde01ab",
+  "uuid": "51e7bd07cdcacb755fd1f4ad6fde01ab",
+  "name": "Full-width",
+  "slug": "full-width",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Flyout Menus",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/flyout-menus",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 806
+    },
+    "small": {
+      "width": 375,
+      "height": 806
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

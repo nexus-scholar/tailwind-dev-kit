@@ -1,0 +1,29 @@
+{
+  "id": "09a9f8bd8b212b82cada14de363e1c02",
+  "uuid": "09a9f8bd8b212b82cada14de363e1c02",
+  "name": "With large screenshot and testimonial",
+  "slug": "with-large-screenshot-and-testimonial",
+  "product": "Marketing",
+  "category": "Page Examples",
+  "subcategory": "Landing Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/page-examples/landing-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 6310
+    },
+    "small": {
+      "width": 375,
+      "height": 8134
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "4266c193a356c171358af17116a016cc",
+  "uuid": "4266c193a356c171358af17116a016cc",
+  "name": "With button",
+  "slug": "with-button",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Dividers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/dividers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 96
+    },
+    "small": {
+      "width": 375,
+      "height": 96
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

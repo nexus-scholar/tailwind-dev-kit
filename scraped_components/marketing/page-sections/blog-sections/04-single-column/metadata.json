@@ -1,0 +1,29 @@
+{
+  "id": "71451303bfa569c95e0f084e67da54f2",
+  "uuid": "71451303bfa569c95e0f084e67da54f2",
+  "name": "Single-column",
+  "slug": "single-column",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Blog Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/blog-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1285
+    },
+    "small": {
+      "width": 375,
+      "height": 1245
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

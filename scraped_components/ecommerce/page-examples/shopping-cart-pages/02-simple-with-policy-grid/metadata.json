@@ -1,0 +1,29 @@
+{
+  "id": "a1e2ea92ae3a4e4e74881fbc695f92bf",
+  "uuid": "a1e2ea92ae3a4e4e74881fbc695f92bf",
+  "name": "Simple with policy grid",
+  "slug": "simple-with-policy-grid",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Shopping Cart Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/shopping-cart-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 2154
+    },
+    "small": {
+      "width": 375,
+      "height": 3204
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "e799517f86cc2fc79bf0eebb45c16eea",
+  "uuid": "e799517f86cc2fc79bf0eebb45c16eea",
+  "name": "With inline actions and expandable sidebar filters",
+  "slug": "with-inline-actions-and-expandable-sidebar-filters",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Category Filters",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/category-filters",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 677
+    },
+    "small": {
+      "width": 375,
+      "height": 665
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

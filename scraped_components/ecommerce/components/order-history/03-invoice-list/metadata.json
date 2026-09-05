@@ -1,0 +1,29 @@
+{
+  "id": "4a9dcf75e8e751856f47d68ae0b51eba",
+  "uuid": "4a9dcf75e8e751856f47d68ae0b51eba",
+  "name": "Invoice list",
+  "slug": "invoice-list",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Order History",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/order-history",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1694
+    },
+    "small": {
+      "width": 375,
+      "height": 1574
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

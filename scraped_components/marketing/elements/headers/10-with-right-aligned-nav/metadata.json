@@ -1,0 +1,29 @@
+{
+  "id": "732328363308a2daa1cb32f0247d481f",
+  "uuid": "732328363308a2daa1cb32f0247d481f",
+  "name": "With right-aligned nav",
+  "slug": "with-right-aligned-nav",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Headers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/headers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 448
+    },
+    "small": {
+      "width": 375,
+      "height": 448
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

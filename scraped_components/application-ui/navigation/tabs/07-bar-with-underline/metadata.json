@@ -1,0 +1,29 @@
+{
+  "id": "83b472fc38b57e49a566805a5e5bb2f7",
+  "uuid": "83b472fc38b57e49a566805a5e5bb2f7",
+  "name": "Bar with underline",
+  "slug": "bar-with-underline",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Tabs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/tabs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 148
+    },
+    "small": {
+      "width": 375,
+      "height": 88
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

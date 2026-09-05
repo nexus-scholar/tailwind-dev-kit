@@ -1,0 +1,63 @@
+{
+  "id": 6,
+  "name": "Compass",
+  "slug": "compass",
+  "type": "Course template",
+  "url": "https://tailwindcss.com/plus/templates/compass",
+  "download_url": "https://tailwindcss.com/plus/templates/compass/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/compass/preview-01.png",
+  "summary": "A clean and sophisticated starter kit for publishing your own online course.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    },
+    {
+      "name": "MDX",
+      "version": "v3"
+    }
+  ],
+  "description": "You\u2019ve poured months into planning and recording your new course \u2014 don\u2019t just hand over a zip file of videos. Give it the presentation it deserves with this beautifully designed course template.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "React v19",
+    "TypeScript v5.8",
+    "MDX v3"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/compass/preview",
+  "local_archive": "scraped_components\\templates\\compass.zip",
+  "archive_size_kb": 1889,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/compass/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/compass/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/compass/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/compass/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/compass/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/compass",
+  "local_banner_image": "scraped_components/templates/screens/compass/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/compass/detail-01.png",
+    "scraped_components/templates/screens/compass/detail-02.png",
+    "scraped_components/templates/screens/compass/detail-03.png",
+    "scraped_components/templates/screens/compass/detail-04.png",
+    "scraped_components/templates/screens/compass/preview-01.png",
+    "scraped_components/templates/screens/compass/preview-02.png",
+    "scraped_components/templates/screens/compass/preview-03.png",
+    "scraped_components/templates/screens/compass/screenshot.png",
+    "scraped_components/templates/screens/compass/twitter.png"
+  ]
+}

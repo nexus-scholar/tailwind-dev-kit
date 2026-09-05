@@ -1,0 +1,29 @@
+{
+  "id": "8dbbe78f722647bcb452fab9ba8a3b9a",
+  "uuid": "8dbbe78f722647bcb452fab9ba8a3b9a",
+  "name": "With expandable product filter panel",
+  "slug": "with-expandable-product-filter-panel",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Category Filters",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/category-filters",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 420
+    },
+    "small": {
+      "width": 375,
+      "height": 420
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

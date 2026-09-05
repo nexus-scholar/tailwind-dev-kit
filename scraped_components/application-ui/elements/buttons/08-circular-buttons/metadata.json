@@ -1,0 +1,29 @@
+{
+  "id": "6702d62917fd70644340f4008b126943",
+  "uuid": "6702d62917fd70644340f4008b126943",
+  "name": "Circular buttons",
+  "slug": "circular-buttons",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Buttons",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/buttons",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 100
+    },
+    "small": {
+      "width": 375,
+      "height": 192
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

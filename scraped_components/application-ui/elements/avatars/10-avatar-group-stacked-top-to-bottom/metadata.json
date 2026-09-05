@@ -1,0 +1,29 @@
+{
+  "id": "00ccf3da2333eae32886bbc1d1ee362c",
+  "uuid": "00ccf3da2333eae32886bbc1d1ee362c",
+  "name": "Avatar group stacked top to bottom",
+  "slug": "avatar-group-stacked-top-to-bottom",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Avatars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/avatars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 136
+    },
+    "small": {
+      "width": 375,
+      "height": 240
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "f380d45911d89e9f8e781164e162cbb4",
+  "uuid": "f380d45911d89e9f8e781164e162cbb4",
+  "name": "Circular avatars with placeholder icon",
+  "slug": "circular-avatars-with-placeholder-icon",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Avatars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/avatars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 120
+    },
+    "small": {
+      "width": 375,
+      "height": 120
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

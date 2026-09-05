@@ -1,0 +1,29 @@
+{
+  "id": "54e74b5b1897b81f3537b3880df3811e",
+  "uuid": "54e74b5b1897b81f3537b3880df3811e",
+  "name": "Side-by-side",
+  "slug": "side-by-side",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Testimonials",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/testimonials",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 552
+    },
+    "small": {
+      "width": 375,
+      "height": 993
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

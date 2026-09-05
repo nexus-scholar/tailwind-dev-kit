@@ -1,0 +1,29 @@
+{
+  "id": "0efa5ebc92e2aa72bc2332fcf5578869",
+  "uuid": "0efa5ebc92e2aa72bc2332fcf5578869",
+  "name": "With image and short paragraph",
+  "slug": "with-image-and-short-paragraph",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Team Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/team-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1469
+    },
+    "small": {
+      "width": 375,
+      "height": 2768
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

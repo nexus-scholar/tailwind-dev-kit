@@ -1,0 +1,29 @@
+{
+  "id": "87a1113483b8baaaedfc5b8db1533e18",
+  "uuid": "87a1113483b8baaaedfc5b8db1533e18",
+  "name": "Card with gray body",
+  "slug": "card-with-gray-body",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Cards",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/cards",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 408
+    },
+    "small": {
+      "width": 375,
+      "height": 400
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

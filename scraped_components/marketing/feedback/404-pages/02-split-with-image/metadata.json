@@ -1,0 +1,29 @@
+{
+  "id": "aed9589b7fc7f9b79887962b5e52b68c",
+  "uuid": "aed9589b7fc7f9b79887962b5e52b68c",
+  "name": "Split with image",
+  "slug": "split-with-image",
+  "product": "Marketing",
+  "category": "Feedback",
+  "subcategory": "404 Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/feedback/404-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 706
+    },
+    "small": {
+      "width": 375,
+      "height": 654
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

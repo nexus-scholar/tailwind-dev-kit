@@ -1,0 +1,29 @@
+{
+  "id": "fbb6aae7c79cee56e654c788f76835d9",
+  "uuid": "fbb6aae7c79cee56e654c788f76835d9",
+  "name": "With color selector and description",
+  "slug": "with-color-selector-and-description",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Product Quickviews",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/product-quickviews",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 700
+    },
+    "small": {
+      "width": 375,
+      "height": 873
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

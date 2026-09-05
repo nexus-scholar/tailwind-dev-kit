@@ -1,0 +1,29 @@
+{
+  "id": "ec51d95b54eca6de6f1a07467a431e0c",
+  "uuid": "ec51d95b54eca6de6f1a07467a431e0c",
+  "name": "Privacy notice left-aligned",
+  "slug": "privacy-notice-left-aligned",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Banners",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/banners",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 400
+    },
+    "small": {
+      "width": 375,
+      "height": 400
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c5d6c4f68f35b58694ac3b9a190684fc",
+  "uuid": "c5d6c4f68f35b58694ac3b9a190684fc",
+  "name": "With actions",
+  "slug": "with-actions",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Section Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/section-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 153
+    },
+    "small": {
+      "width": 375,
+      "height": 189
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

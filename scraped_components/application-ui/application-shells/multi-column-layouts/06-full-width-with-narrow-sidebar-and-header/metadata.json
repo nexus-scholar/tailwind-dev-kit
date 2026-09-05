@@ -1,0 +1,29 @@
+{
+  "id": "d447e3faf2d20feaf42f06c4cbbcd94a",
+  "uuid": "d447e3faf2d20feaf42f06c4cbbcd94a",
+  "name": "Full-width with narrow sidebar and header",
+  "slug": "full-width-with-narrow-sidebar-and-header",
+  "product": "Application UI",
+  "category": "Application Shells",
+  "subcategory": "Multi-Column Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/application-shells/multi-column",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 784
+    },
+    "small": {
+      "width": 375,
+      "height": 816
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

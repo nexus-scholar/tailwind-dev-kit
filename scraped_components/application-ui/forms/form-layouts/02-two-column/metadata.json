@@ -1,0 +1,29 @@
+{
+  "id": "d45bd4ec6e473269c55d3ba084e1988d",
+  "uuid": "d45bd4ec6e473269c55d3ba084e1988d",
+  "name": "Two-column",
+  "slug": "two-column",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Form Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/form-layouts",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 2121
+    },
+    "small": {
+      "width": 375,
+      "height": 2813
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

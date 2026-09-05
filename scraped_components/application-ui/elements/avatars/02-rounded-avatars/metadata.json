@@ -1,0 +1,29 @@
+{
+  "id": "9cff93d948a6264de59b1ad670b22203",
+  "uuid": "9cff93d948a6264de59b1ad670b22203",
+  "name": "Rounded avatars",
+  "slug": "rounded-avatars",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Avatars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/avatars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 120
+    },
+    "small": {
+      "width": 375,
+      "height": 120
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

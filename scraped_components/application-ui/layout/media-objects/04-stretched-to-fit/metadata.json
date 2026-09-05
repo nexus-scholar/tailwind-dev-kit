@@ -1,0 +1,29 @@
+{
+  "id": "452126c6f087d341b296dcc8d0fb86a5",
+  "uuid": "452126c6f087d341b296dcc8d0fb86a5",
+  "name": "Stretched to fit",
+  "slug": "stretched-to-fit",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Media Objects",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/media-objects",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 168
+    },
+    "small": {
+      "width": 375,
+      "height": 240
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "d4761775d88a3e2127cd14e89431c257",
+  "uuid": "d4761775d88a3e2127cd14e89431c257",
+  "name": "Wide responsive",
+  "slug": "wide-responsive",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Media Objects",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/media-objects",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 192
+    },
+    "small": {
+      "width": 375,
+      "height": 336
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

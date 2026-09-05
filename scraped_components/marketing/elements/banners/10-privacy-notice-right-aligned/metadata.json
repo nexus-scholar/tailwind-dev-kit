@@ -1,0 +1,29 @@
+{
+  "id": "c5bc8a46a1093693fd286f0b74c631f4",
+  "uuid": "c5bc8a46a1093693fd286f0b74c631f4",
+  "name": "Privacy notice right-aligned",
+  "slug": "privacy-notice-right-aligned",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Banners",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/banners",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 400
+    },
+    "small": {
+      "width": 375,
+      "height": 400
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

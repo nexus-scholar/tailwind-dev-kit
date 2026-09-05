@@ -1,0 +1,29 @@
+{
+  "id": "e96076d46250608ad1a5306c03921371",
+  "uuid": "e96076d46250608ad1a5306c03921371",
+  "name": "Centered on dark panel",
+  "slug": "centered-on-dark-panel",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 664
+    },
+    "small": {
+      "width": 375,
+      "height": 696
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

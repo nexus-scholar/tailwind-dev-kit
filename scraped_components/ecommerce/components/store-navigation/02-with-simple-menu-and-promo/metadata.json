@@ -1,0 +1,29 @@
+{
+  "id": "05d207688239bbe040029b5bfa5ddf92",
+  "uuid": "05d207688239bbe040029b5bfa5ddf92",
+  "name": "With simple menu and promo",
+  "slug": "with-simple-menu-and-promo",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Store Navigation",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/store-navigation",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 592
+    },
+    "small": {
+      "width": 375,
+      "height": 900
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

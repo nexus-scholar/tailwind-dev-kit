@@ -1,0 +1,29 @@
+{
+  "id": "3e122aee81a11936f182380439051844",
+  "uuid": "3e122aee81a11936f182380439051844",
+  "name": "With large images",
+  "slug": "with-large-images",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Team Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/team-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1304
+    },
+    "small": {
+      "width": 375,
+      "height": 2860
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

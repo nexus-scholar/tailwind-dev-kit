@@ -1,0 +1,29 @@
+{
+  "id": "80fd0d5ac7982f1a83b171bb0fb9e116",
+  "uuid": "80fd0d5ac7982f1a83b171bb0fb9e116",
+  "name": "Primary buttons",
+  "slug": "primary-buttons",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Buttons",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/buttons",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 104
+    },
+    "small": {
+      "width": 375,
+      "height": 288
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

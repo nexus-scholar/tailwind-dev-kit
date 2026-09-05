@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "tailwind-plus": {
+      "command": "uv",
+      "args": ["run", "tailwind-dev-kit", "mcp"],
+      "description": "Access 657 official Tailwind CSS Plus / UI components (HTML, React, Vue) and 14 full website templates"
+    }
+  }
+}

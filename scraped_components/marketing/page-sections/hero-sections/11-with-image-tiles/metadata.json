@@ -1,0 +1,29 @@
+{
+  "id": "a4b2f622985371f413e0d6c13309d389",
+  "uuid": "a4b2f622985371f413e0d6c13309d389",
+  "name": "With image tiles",
+  "slug": "with-image-tiles",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 960
+    },
+    "small": {
+      "width": 375,
+      "height": 1440
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

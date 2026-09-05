@@ -1,0 +1,29 @@
+{
+  "id": "fa06ef87d471092fb404c8c09e1af8a5",
+  "uuid": "fa06ef87d471092fb404c8c09e1af8a5",
+  "name": "Simple list with heading",
+  "slug": "simple-list-with-heading",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Checkboxes",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/checkboxes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 422
+    },
+    "small": {
+      "width": 375,
+      "height": 422
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "30bb794fd4050766db6928c723ddf5ce",
+  "uuid": "30bb794fd4050766db6928c723ddf5ce",
+  "name": "Card with header and footer",
+  "slug": "card-with-header-and-footer",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Cards",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/cards",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 474
+    },
+    "small": {
+      "width": 375,
+      "height": 466
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

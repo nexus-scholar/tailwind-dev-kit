@@ -1,0 +1,29 @@
+{
+  "id": "56cbd4f191ac0d54e5a5c0287481d5b9",
+  "uuid": "56cbd4f191ac0d54e5a5c0287481d5b9",
+  "name": "Single price with details",
+  "slug": "single-price-with-details",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Pricing Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/pricing",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 865
+    },
+    "small": {
+      "width": 375,
+      "height": 1353
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

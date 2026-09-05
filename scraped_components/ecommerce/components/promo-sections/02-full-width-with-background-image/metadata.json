@@ -1,0 +1,29 @@
+{
+  "id": "1148f0d6ac25e4cefffa045a48cb4142",
+  "uuid": "1148f0d6ac25e4cefffa045a48cb4142",
+  "name": "Full-width with background image",
+  "slug": "full-width-with-background-image",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Promo Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/promo-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 730
+    },
+    "small": {
+      "width": 375,
+      "height": 738
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

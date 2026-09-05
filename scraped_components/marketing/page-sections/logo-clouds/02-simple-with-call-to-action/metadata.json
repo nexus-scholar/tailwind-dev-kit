@@ -1,0 +1,29 @@
+{
+  "id": "41819e575f2ea4dc492ce0155e48f5ee",
+  "uuid": "41819e575f2ea4dc492ce0155e48f5ee",
+  "name": "Simple with call-to-action",
+  "slug": "simple-with-call-to-action",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Logo Clouds",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/logo-clouds",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 356
+    },
+    "small": {
+      "width": 375,
+      "height": 292
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "9a3fd87f12f86dde0c5be88a9af1f6d8",
+  "uuid": "9a3fd87f12f86dde0c5be88a9af1f6d8",
+  "name": "Card with gray footer",
+  "slug": "card-with-gray-footer",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Cards",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/cards",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 400
+    },
+    "small": {
+      "width": 375,
+      "height": 392
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

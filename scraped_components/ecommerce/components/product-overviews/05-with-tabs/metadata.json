@@ -1,0 +1,29 @@
+{
+  "id": "a4287d3928b87e3ac5c04af49bc062a8",
+  "uuid": "a4287d3928b87e3ac5c04af49bc062a8",
+  "name": "With tabs",
+  "slug": "with-tabs",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Product Overviews",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/product-overviews",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1449
+    },
+    "small": {
+      "width": 375,
+      "height": 2324
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

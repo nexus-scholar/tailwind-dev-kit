@@ -1,0 +1,29 @@
+{
+  "id": "c8189b6993ca18e9955b370f741b763b",
+  "uuid": "c8189b6993ca18e9955b370f741b763b",
+  "name": "With title and pill actions",
+  "slug": "with-title-and-pill-actions",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Textareas",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/textareas",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 269
+    },
+    "small": {
+      "width": 375,
+      "height": 269
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

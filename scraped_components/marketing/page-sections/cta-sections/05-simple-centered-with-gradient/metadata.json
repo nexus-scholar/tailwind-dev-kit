@@ -1,0 +1,29 @@
+{
+  "id": "6e57d09ad8ecb00c5d738055e17a6e22",
+  "uuid": "6e57d09ad8ecb00c5d738055e17a6e22",
+  "name": "Simple centered with gradient",
+  "slug": "simple-centered-with-gradient",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 520
+    },
+    "small": {
+      "width": 375,
+      "height": 544
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

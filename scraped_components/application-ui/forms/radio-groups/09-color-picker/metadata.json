@@ -1,0 +1,29 @@
+{
+  "id": "eb6b38e5a758ade067d50aae93fa1b96",
+  "uuid": "eb6b38e5a758ade067d50aae93fa1b96",
+  "name": "Color picker",
+  "slug": "color-picker",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Radio Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/radio-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 176
+    },
+    "small": {
+      "width": 375,
+      "height": 176
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

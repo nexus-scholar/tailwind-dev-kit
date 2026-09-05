@@ -1,0 +1,29 @@
+{
+  "id": "e34ad5d8858c895d17d28f188179594c",
+  "uuid": "e34ad5d8858c895d17d28f188179594c",
+  "name": "With icons",
+  "slug": "with-icons",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Command Palettes",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/command-palettes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 600
+    },
+    "small": {
+      "width": 375,
+      "height": 600
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

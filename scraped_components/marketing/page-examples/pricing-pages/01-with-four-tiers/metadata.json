@@ -1,0 +1,29 @@
+{
+  "id": "fdbb8458107ec56935f49e41d1ebec70",
+  "uuid": "fdbb8458107ec56935f49e41d1ebec70",
+  "name": "With four tiers",
+  "slug": "with-four-tiers",
+  "product": "Marketing",
+  "category": "Page Examples",
+  "subcategory": "Pricing Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/page-examples/pricing-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 3480
+    },
+    "small": {
+      "width": 375,
+      "height": 5099
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

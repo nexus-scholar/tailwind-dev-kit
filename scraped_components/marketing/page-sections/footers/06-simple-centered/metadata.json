@@ -1,0 +1,29 @@
+{
+  "id": "8fd8a490ec2fae888154eb83685bbe23",
+  "uuid": "8fd8a490ec2fae888154eb83685bbe23",
+  "name": "Simple centered",
+  "slug": "simple-centered",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Footers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/footers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 344
+    },
+    "small": {
+      "width": 375,
+      "height": 348
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

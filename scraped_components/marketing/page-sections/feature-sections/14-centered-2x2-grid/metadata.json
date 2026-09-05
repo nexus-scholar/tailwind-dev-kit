@@ -1,0 +1,29 @@
+{
+  "id": "64ac58e032276db96bf343a8d4f332a8",
+  "uuid": "64ac58e032276db96bf343a8d4f332a8",
+  "name": "Centered 2x2 grid",
+  "slug": "centered-2x2-grid",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Feature Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/feature-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 876
+    },
+    "small": {
+      "width": 375,
+      "height": 1268
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

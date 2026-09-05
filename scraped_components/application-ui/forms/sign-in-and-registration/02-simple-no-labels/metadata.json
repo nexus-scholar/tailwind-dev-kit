@@ -1,0 +1,29 @@
+{
+  "id": "55b9c2097342175b8ddfccf8a30fb68f",
+  "uuid": "55b9c2097342175b8ddfccf8a30fb68f",
+  "name": "Simple no labels",
+  "slug": "simple-no-labels",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Sign-in and Registration",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/sign-in-forms",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 840
+    },
+    "small": {
+      "width": 375,
+      "height": 840
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

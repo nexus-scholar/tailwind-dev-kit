@@ -1,0 +1,29 @@
+{
+  "id": "647f942cb06b0d760b381e93f3270b7d",
+  "uuid": "647f942cb06b0d760b381e93f3270b7d",
+  "name": "Inputs with shared borders",
+  "slug": "inputs-with-shared-borders",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Input Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/input-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 294
+    },
+    "small": {
+      "width": 375,
+      "height": 294
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

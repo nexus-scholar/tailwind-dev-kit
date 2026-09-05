@@ -1,0 +1,29 @@
+{
+  "id": "5451bd1088840221c9cf91dd02afdfbd",
+  "uuid": "5451bd1088840221c9cf91dd02afdfbd",
+  "name": "Circular avatars",
+  "slug": "circular-avatars",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Avatars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/avatars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 120
+    },
+    "small": {
+      "width": 375,
+      "height": 120
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

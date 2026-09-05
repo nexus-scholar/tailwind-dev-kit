@@ -1,0 +1,29 @@
+{
+  "id": "b2c41f4521a0b989aa8e3c0d6ee400c9",
+  "uuid": "b2c41f4521a0b989aa8e3c0d6ee400c9",
+  "name": "4-column with newsletter below",
+  "slug": "4-column-with-newsletter-below",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Footers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/footers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 669
+    },
+    "small": {
+      "width": 375,
+      "height": 1022
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

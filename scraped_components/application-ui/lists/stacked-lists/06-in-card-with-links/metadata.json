@@ -1,0 +1,29 @@
+{
+  "id": "f0f183415de745e81fa742d6e1df9e04",
+  "uuid": "f0f183415de745e81fa742d6e1df9e04",
+  "name": "In card with links",
+  "slug": "in-card-with-links",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Stacked Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/stacked-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 629
+    },
+    "small": {
+      "width": 375,
+      "height": 629
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

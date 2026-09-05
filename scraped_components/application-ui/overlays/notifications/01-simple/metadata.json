@@ -1,0 +1,29 @@
+{
+  "id": "a065edf8f08a35f06943b2e266ca9af1",
+  "uuid": "a065edf8f08a35f06943b2e266ca9af1",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Notifications",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/notifications",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 320
+    },
+    "small": {
+      "width": 375,
+      "height": 320
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

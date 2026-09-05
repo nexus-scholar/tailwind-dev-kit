@@ -1,0 +1,68 @@
+{
+  "id": 14,
+  "name": "Spotlight",
+  "slug": "spotlight",
+  "type": "Personal website template",
+  "url": "https://tailwindcss.com/plus/templates/spotlight",
+  "download_url": "https://tailwindcss.com/plus/templates/spotlight/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/preview-01.png",
+  "summary": "A personal website so nice you\u2019ll actually be inspired to publish on it.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "Headless UI",
+      "version": "v2.1"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "MDX",
+      "version": "v3"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "We get it \u2014 you\u2019ve got a blog post you\u2019re dying to write but you can\u2019t write it until you rebuild your personal site. We\u2019ve got you covered, get back to writing.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "Headless UI v2.1",
+    "React v19",
+    "MDX v3",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/spotlight/preview",
+  "local_archive": "scraped_components\\templates\\spotlight.zip",
+  "archive_size_kb": 19241,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/spotlight/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/spotlight/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/spotlight/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/spotlight/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/spotlight",
+  "local_banner_image": "scraped_components/templates/screens/spotlight/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/spotlight/detail-01.png",
+    "scraped_components/templates/screens/spotlight/detail-02.png",
+    "scraped_components/templates/screens/spotlight/detail-03.png",
+    "scraped_components/templates/screens/spotlight/detail-04.png",
+    "scraped_components/templates/screens/spotlight/preview-01.png",
+    "scraped_components/templates/screens/spotlight/preview-02.png",
+    "scraped_components/templates/screens/spotlight/preview-03.png",
+    "scraped_components/templates/screens/spotlight/screenshot.png",
+    "scraped_components/templates/screens/spotlight/twitter.png"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 10,
+  "name": "Primer",
+  "slug": "primer",
+  "type": "Info product template",
+  "url": "https://tailwindcss.com/plus/templates/primer",
+  "download_url": "https://tailwindcss.com/plus/templates/primer/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/primer/preview-01.png",
+  "summary": "A stunning landing page for your first course or ebook.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "Headless UI",
+      "version": "v2.1"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "We\u2019ve actually published four info products ourselves and this landing page is honestly better than the sites we designed for all of those.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "Headless UI v2.1",
+    "React v19",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/primer/preview",
+  "local_archive": "scraped_components\\templates\\primer.zip",
+  "archive_size_kb": 9324,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/primer/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/primer/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/primer/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/primer/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/primer/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/primer",
+  "local_banner_image": "scraped_components/templates/screens/primer/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/primer/detail-01.png",
+    "scraped_components/templates/screens/primer/detail-02.png",
+    "scraped_components/templates/screens/primer/detail-03.png",
+    "scraped_components/templates/screens/primer/detail-04.png",
+    "scraped_components/templates/screens/primer/preview-01.png",
+    "scraped_components/templates/screens/primer/preview-02.png",
+    "scraped_components/templates/screens/primer/preview-03.png",
+    "scraped_components/templates/screens/primer/screenshot.png",
+    "scraped_components/templates/screens/primer/twitter.png"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "f23694a5070bbd968770234e5d1e178e",
+  "uuid": "f23694a5070bbd968770234e5d1e178e",
+  "name": "Two columns with centered introduction",
+  "slug": "two-columns-with-centered-introduction",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "FAQs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/faq-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 804
+    },
+    "small": {
+      "width": 375,
+      "height": 1660
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "a5dc894550bc75bd777e103badca9345",
+  "uuid": "a5dc894550bc75bd777e103badca9345",
+  "name": "Offset with feature list",
+  "slug": "offset-with-feature-list",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Feature Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/feature-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 816
+    },
+    "small": {
+      "width": 375,
+      "height": 1540
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

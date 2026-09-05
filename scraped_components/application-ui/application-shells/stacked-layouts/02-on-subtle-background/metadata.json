@@ -1,0 +1,29 @@
+{
+  "id": "f87c42024bb0616c75a045c3be2e9157",
+  "uuid": "f87c42024bb0616c75a045c3be2e9157",
+  "name": "On subtle background",
+  "slug": "on-subtle-background",
+  "product": "Application UI",
+  "category": "Application Shells",
+  "subcategory": "Stacked Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/application-shells/stacked",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

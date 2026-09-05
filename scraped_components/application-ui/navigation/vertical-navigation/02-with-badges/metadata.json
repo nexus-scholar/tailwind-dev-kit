@@ -1,0 +1,29 @@
+{
+  "id": "2f1545962f702a1dd6c9b697238fcae3",
+  "uuid": "2f1545962f702a1dd6c9b697238fcae3",
+  "name": "With badges",
+  "slug": "with-badges",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Vertical Navigation",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/vertical-navigation",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 324
+    },
+    "small": {
+      "width": 375,
+      "height": 324
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

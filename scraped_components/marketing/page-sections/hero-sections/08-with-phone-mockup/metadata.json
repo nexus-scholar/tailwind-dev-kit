@@ -1,0 +1,29 @@
+{
+  "id": "816bf20fe4e1cd0cc2fefabfa6a6732b",
+  "uuid": "816bf20fe4e1cd0cc2fefabfa6a6732b",
+  "name": "With phone mockup",
+  "slug": "with-phone-mockup",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1105
+    },
+    "small": {
+      "width": 375,
+      "height": 1459
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

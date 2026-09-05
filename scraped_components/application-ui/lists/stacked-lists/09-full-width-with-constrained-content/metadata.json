@@ -1,0 +1,29 @@
+{
+  "id": "36f3508cee13455826b0b385df0d5b49",
+  "uuid": "36f3508cee13455826b0b385df0d5b49",
+  "name": "Full-width with constrained content",
+  "slug": "full-width-with-constrained-content",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Stacked Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/stacked-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 629
+    },
+    "small": {
+      "width": 375,
+      "height": 629
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

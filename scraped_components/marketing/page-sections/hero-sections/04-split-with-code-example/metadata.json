@@ -1,0 +1,29 @@
+{
+  "id": "dc7ca59e587aa00e4aa8d78f6ed8aff3",
+  "uuid": "dc7ca59e587aa00e4aa8d78f6ed8aff3",
+  "name": "Split with code example",
+  "slug": "split-with-code-example",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 864
+    },
+    "small": {
+      "width": 375,
+      "height": 1188
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

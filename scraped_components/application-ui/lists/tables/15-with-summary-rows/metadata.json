@@ -1,0 +1,29 @@
+{
+  "id": "78248cc564cd1fd14d6ff65b461cbab1",
+  "uuid": "78248cc564cd1fd14d6ff65b461cbab1",
+  "name": "With summary rows",
+  "slug": "with-summary-rows",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Tables",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/tables",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 669
+    },
+    "small": {
+      "width": 375,
+      "height": 741
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

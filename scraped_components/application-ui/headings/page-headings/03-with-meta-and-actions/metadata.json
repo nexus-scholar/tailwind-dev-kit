@@ -1,0 +1,29 @@
+{
+  "id": "7654075f650c9f1044bfcf1b1b6ffd77",
+  "uuid": "7654075f650c9f1044bfcf1b1b6ffd77",
+  "name": "With meta and actions",
+  "slug": "with-meta-and-actions",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Page Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/page-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 128
+    },
+    "small": {
+      "width": 375,
+      "height": 264
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

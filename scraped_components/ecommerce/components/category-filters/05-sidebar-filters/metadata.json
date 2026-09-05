@@ -1,0 +1,29 @@
+{
+  "id": "948dd4ebccc4d262d38cce4e7e638c7e",
+  "uuid": "948dd4ebccc4d262d38cce4e7e638c7e",
+  "name": "Sidebar filters",
+  "slug": "sidebar-filters",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Category Filters",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/category-filters",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1163
+    },
+    "small": {
+      "width": 375,
+      "height": 753
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

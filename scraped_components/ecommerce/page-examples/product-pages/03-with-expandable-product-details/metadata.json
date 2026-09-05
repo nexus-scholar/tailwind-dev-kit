@@ -1,0 +1,29 @@
+{
+  "id": "bed7a8c94a54fcd9e9b214b95b71d5d5",
+  "uuid": "bed7a8c94a54fcd9e9b214b95b71d5d5",
+  "name": "With expandable product details",
+  "slug": "with-expandable-product-details",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Product Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/product-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 2324
+    },
+    "small": {
+      "width": 375,
+      "height": 4619
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a> and <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

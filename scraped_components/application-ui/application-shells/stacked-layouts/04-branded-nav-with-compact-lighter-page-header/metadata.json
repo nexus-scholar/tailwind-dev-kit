@@ -1,0 +1,29 @@
+{
+  "id": "1b6c2fdf05472f8dcea7057074492fd6",
+  "uuid": "1b6c2fdf05472f8dcea7057074492fd6",
+  "name": "Branded nav with compact lighter page header",
+  "slug": "branded-nav-with-compact-lighter-page-header",
+  "product": "Application UI",
+  "category": "Application Shells",
+  "subcategory": "Stacked Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/application-shells/stacked",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

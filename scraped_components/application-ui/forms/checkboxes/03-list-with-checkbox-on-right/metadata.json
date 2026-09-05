@@ -1,0 +1,29 @@
+{
+  "id": "28fc3a7039fe5a86455d33e8e988aa8c",
+  "uuid": "28fc3a7039fe5a86455d33e8e988aa8c",
+  "name": "List with checkbox on right",
+  "slug": "list-with-checkbox-on-right",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Checkboxes",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/checkboxes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 334
+    },
+    "small": {
+      "width": 375,
+      "height": 406
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

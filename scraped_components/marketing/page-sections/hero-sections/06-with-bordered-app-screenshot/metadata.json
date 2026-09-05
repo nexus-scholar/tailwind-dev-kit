@@ -1,0 +1,29 @@
+{
+  "id": "112b08cb1de2593034dfced08f67250d",
+  "uuid": "112b08cb1de2593034dfced08f67250d",
+  "name": "With bordered app screenshot",
+  "slug": "with-bordered-app-screenshot",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Hero Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/heroes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 760
+    },
+    "small": {
+      "width": 375,
+      "height": 680
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

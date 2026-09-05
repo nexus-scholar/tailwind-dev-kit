@@ -1,0 +1,29 @@
+{
+  "id": "5b4600a7bccf95d0114406dafe3e6a99",
+  "uuid": "5b4600a7bccf95d0114406dafe3e6a99",
+  "name": "Small flat pill",
+  "slug": "small-flat-pill",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Badges",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/badges",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 84
+    },
+    "small": {
+      "width": 375,
+      "height": 120
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

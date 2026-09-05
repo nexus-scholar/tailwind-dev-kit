@@ -1,0 +1,29 @@
+{
+  "id": "566f127b7b70db160352896d06794a7f",
+  "uuid": "566f127b7b70db160352896d06794a7f",
+  "name": "With avatar, meta, and dropdown",
+  "slug": "with-avatar-meta-and-dropdown",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Card Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/card-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 224
+    },
+    "small": {
+      "width": 375,
+      "height": 364
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "276936aa601c0ab9e065e66f22b6e6c0",
+  "uuid": "276936aa601c0ab9e065e66f22b6e6c0",
+  "name": "With inline tabs",
+  "slug": "with-inline-tabs",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Section Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/section-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 137
+    },
+    "small": {
+      "width": 375,
+      "height": 174
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

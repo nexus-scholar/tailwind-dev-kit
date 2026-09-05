@@ -1,0 +1,29 @@
+{
+  "id": "f488532a6d2ff00f8ce0f9a787808a9c",
+  "uuid": "f488532a6d2ff00f8ce0f9a787808a9c",
+  "name": "Split with image",
+  "slug": "split-with-image",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Stats",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/stats-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 752
+    },
+    "small": {
+      "width": 375,
+      "height": 1144
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

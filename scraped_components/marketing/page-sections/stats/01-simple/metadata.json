@@ -1,0 +1,29 @@
+{
+  "id": "b5eb58f5c8fd565cc54bf488d647f02b",
+  "uuid": "b5eb58f5c8fd565cc54bf488d647f02b",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Stats",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/stats-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 348
+    },
+    "small": {
+      "width": 375,
+      "height": 560
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

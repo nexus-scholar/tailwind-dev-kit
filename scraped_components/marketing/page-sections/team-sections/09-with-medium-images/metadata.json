@@ -1,0 +1,29 @@
+{
+  "id": "f5f5e837510e2b4f46325e58ee1c37f9",
+  "uuid": "f5f5e837510e2b4f46325e58ee1c37f9",
+  "name": "With medium images",
+  "slug": "with-medium-images",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Team Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/team-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1264
+    },
+    "small": {
+      "width": 375,
+      "height": 4149
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "13b31ada062b8653addbdede99c1ee7d",
+  "uuid": "13b31ada062b8653addbdede99c1ee7d",
+  "name": "Subtle grid",
+  "slug": "subtle-grid",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Testimonials",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/testimonials",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1180
+    },
+    "small": {
+      "width": 375,
+      "height": 2732
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

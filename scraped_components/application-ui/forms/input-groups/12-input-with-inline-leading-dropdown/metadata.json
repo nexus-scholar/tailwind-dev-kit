@@ -1,0 +1,29 @@
+{
+  "id": "6e671f3ae1aaf020c3dfe26d7aaf7b3d",
+  "uuid": "6e671f3ae1aaf020c3dfe26d7aaf7b3d",
+  "name": "Input with inline leading dropdown",
+  "slug": "input-with-inline-leading-dropdown",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Input Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/input-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 132
+    },
+    "small": {
+      "width": 375,
+      "height": 132
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

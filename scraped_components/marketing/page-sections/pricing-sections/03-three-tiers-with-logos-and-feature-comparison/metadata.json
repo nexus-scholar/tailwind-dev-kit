@@ -1,0 +1,29 @@
+{
+  "id": "d95a835cac90b32aa5d8baa9ec647b59",
+  "uuid": "d95a835cac90b32aa5d8baa9ec647b59",
+  "name": "Three tiers with logos and feature comparison",
+  "slug": "three-tiers-with-logos-and-feature-comparison",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Pricing Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/pricing",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 2378
+    },
+    "small": {
+      "width": 375,
+      "height": 3694
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

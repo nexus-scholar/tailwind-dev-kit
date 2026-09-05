@@ -1,0 +1,29 @@
+{
+  "id": "ac6bdf836c3a0b6b9588eb6e96d1b706",
+  "uuid": "ac6bdf836c3a0b6b9588eb6e96d1b706",
+  "name": "With link",
+  "slug": "with-link",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Action Panels",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/action-panels",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 252
+    },
+    "small": {
+      "width": 375,
+      "height": 264
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

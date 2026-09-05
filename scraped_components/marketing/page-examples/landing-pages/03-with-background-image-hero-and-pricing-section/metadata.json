@@ -1,0 +1,29 @@
+{
+  "id": "c9ffe5deded27ba87841128323150da9",
+  "uuid": "c9ffe5deded27ba87841128323150da9",
+  "name": "With background image hero and pricing section",
+  "slug": "with-background-image-hero-and-pricing-section",
+  "product": "Marketing",
+  "category": "Page Examples",
+  "subcategory": "Landing Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/page-examples/landing-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 5651
+    },
+    "small": {
+      "width": 375,
+      "height": 6282
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

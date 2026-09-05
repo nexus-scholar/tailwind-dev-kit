@@ -1,0 +1,29 @@
+{
+  "id": "65815af4357dfdcf9be55c390221c5fb",
+  "uuid": "65815af4357dfdcf9be55c390221c5fb",
+  "name": "Full-width secondary column on right",
+  "slug": "full-width-secondary-column-on-right",
+  "product": "Application UI",
+  "category": "Application Shells",
+  "subcategory": "Multi-Column Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/application-shells/multi-column",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 720
+    },
+    "small": {
+      "width": 375,
+      "height": 816
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

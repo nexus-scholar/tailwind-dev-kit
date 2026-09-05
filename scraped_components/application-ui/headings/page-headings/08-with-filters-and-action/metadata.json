@@ -1,0 +1,29 @@
+{
+  "id": "084702e69fb92658c23452d0dffc8639",
+  "uuid": "084702e69fb92658c23452d0dffc8639",
+  "name": "With filters and action",
+  "slug": "with-filters-and-action",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Page Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/page-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 100
+    },
+    "small": {
+      "width": 375,
+      "height": 148
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

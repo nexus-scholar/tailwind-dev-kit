@@ -1,0 +1,29 @@
+{
+  "id": "81e5ec57a92ddcadaa913e7bb68336fe",
+  "uuid": "81e5ec57a92ddcadaa913e7bb68336fe",
+  "name": "With comments",
+  "slug": "with-comments",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Feeds",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/feeds",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 564
+    },
+    "small": {
+      "width": 375,
+      "height": 564
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

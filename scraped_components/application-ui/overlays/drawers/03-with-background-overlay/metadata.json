@@ -1,0 +1,29 @@
+{
+  "id": "05a1aec573d7b5cd3909323c6db6723f",
+  "uuid": "05a1aec573d7b5cd3909323c6db6723f",
+  "name": "With background overlay",
+  "slug": "with-background-overlay",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Drawers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/drawers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 500
+    },
+    "small": {
+      "width": 375,
+      "height": 500
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

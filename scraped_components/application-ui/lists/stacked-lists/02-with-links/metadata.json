@@ -1,0 +1,29 @@
+{
+  "id": "13acf9810a8e9f90cc6a67a4b6d8b8f7",
+  "uuid": "13acf9810a8e9f90cc6a67a4b6d8b8f7",
+  "name": "With links",
+  "slug": "with-links",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Stacked Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/stacked-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 629
+    },
+    "small": {
+      "width": 375,
+      "height": 629
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c514bd50feabd9311204463df38ea764",
+  "uuid": "c514bd50feabd9311204463df38ea764",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Section Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/section-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 141
+    },
+    "small": {
+      "width": 375,
+      "height": 141
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

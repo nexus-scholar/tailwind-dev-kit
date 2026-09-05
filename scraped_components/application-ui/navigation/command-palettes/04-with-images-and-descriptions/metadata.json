@@ -1,0 +1,29 @@
+{
+  "id": "f55d785e34cd53505459e68e32af879f",
+  "uuid": "f55d785e34cd53505459e68e32af879f",
+  "name": "With images and descriptions",
+  "slug": "with-images-and-descriptions",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Command Palettes",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/command-palettes",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 600
+    },
+    "small": {
+      "width": 375,
+      "height": 600
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

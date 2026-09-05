@@ -1,0 +1,29 @@
+{
+  "id": "5b1c73b36ca9bc99f9f17fea27003e8e",
+  "uuid": "5b1c73b36ca9bc99f9f17fea27003e8e",
+  "name": "With label",
+  "slug": "with-label",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Dividers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/dividers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 84
+    },
+    "small": {
+      "width": 375,
+      "height": 84
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

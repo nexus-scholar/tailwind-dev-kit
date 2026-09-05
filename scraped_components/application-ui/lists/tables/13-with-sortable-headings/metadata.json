@@ -1,0 +1,29 @@
+{
+  "id": "7b5a46e74e475708d966ca31716f1771",
+  "uuid": "7b5a46e74e475708d966ca31716f1771",
+  "name": "With sortable headings",
+  "slug": "with-sortable-headings",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Tables",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/tables",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 530
+    },
+    "small": {
+      "width": 375,
+      "height": 602
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

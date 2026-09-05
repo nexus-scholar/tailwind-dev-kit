@@ -1,0 +1,29 @@
+{
+  "id": "8f103bc65ca8eae900111c14168fcdbc",
+  "uuid": "8f103bc65ca8eae900111c14168fcdbc",
+  "name": "Aligned to bottom",
+  "slug": "aligned-to-bottom",
+  "product": "Application UI",
+  "category": "Layout",
+  "subcategory": "Media Objects",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/layout/media-objects",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 168
+    },
+    "small": {
+      "width": 375,
+      "height": 240
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

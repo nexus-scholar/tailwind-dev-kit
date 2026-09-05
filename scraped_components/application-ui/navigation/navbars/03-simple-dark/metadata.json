@@ -1,0 +1,29 @@
+{
+  "id": "1f0fd3139f66c75457637ca3746e3384",
+  "uuid": "1f0fd3139f66c75457637ca3746e3384",
+  "name": "Simple dark",
+  "slug": "simple-dark",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Navbars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/navbars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 192
+    },
+    "small": {
+      "width": 375,
+      "height": 469
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "4612a3d225951aa8a3e723d09381fc97",
+  "uuid": "4612a3d225951aa8a3e723d09381fc97",
+  "name": "With alternating sections",
+  "slug": "with-alternating-sections",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Product Features",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/product-features",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1128
+    },
+    "small": {
+      "width": 375,
+      "height": 1042
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://www.qwstion.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">QWSTION</a></p>"
+}

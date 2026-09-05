@@ -1,0 +1,29 @@
+{
+  "id": "c8f5fb604fcc6cf6614aab0bfec6a3f2",
+  "uuid": "c8f5fb604fcc6cf6614aab0bfec6a3f2",
+  "name": "With description and action",
+  "slug": "with-description-and-action",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Card Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/card-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 391
+    },
+    "small": {
+      "width": 375,
+      "height": 463
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

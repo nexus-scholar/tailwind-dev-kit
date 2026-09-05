@@ -1,0 +1,29 @@
+{
+  "id": "63e98de50900fa979f5a327cb209baf0",
+  "uuid": "63e98de50900fa979f5a327cb209baf0",
+  "name": "With large screenshot",
+  "slug": "with-large-screenshot",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Feature Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/feature-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 820
+    },
+    "small": {
+      "width": 375,
+      "height": 1292
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "6ed378bcc4d9eb34a1789e77f0f44d16",
+  "uuid": "6ed378bcc4d9eb34a1789e77f0f44d16",
+  "name": "With left label and description",
+  "slug": "with-left-label-and-description",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Toggles",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/toggles",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 108
+    },
+    "small": {
+      "width": 375,
+      "height": 128
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

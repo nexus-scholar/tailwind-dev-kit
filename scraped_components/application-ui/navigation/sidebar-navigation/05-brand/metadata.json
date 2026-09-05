@@ -1,0 +1,29 @@
+{
+  "id": "5f3422a8482c68ee78f29705b19d7dfc",
+  "uuid": "5f3422a8482c68ee78f29705b19d7dfc",
+  "name": "Brand",
+  "slug": "brand",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Sidebar Navigation",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/sidebar-navigation",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

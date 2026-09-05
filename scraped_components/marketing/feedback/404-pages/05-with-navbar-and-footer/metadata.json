@@ -1,0 +1,29 @@
+{
+  "id": "5792f8fd3c3c2be236e72c170345a0ce",
+  "uuid": "5792f8fd3c3c2be236e72c170345a0ce",
+  "name": "With navbar and footer",
+  "slug": "with-navbar-and-footer",
+  "product": "Marketing",
+  "category": "Feedback",
+  "subcategory": "404 Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/feedback/404-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1284
+    },
+    "small": {
+      "width": 375,
+      "height": 1105
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

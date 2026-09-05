@@ -1,0 +1,29 @@
+{
+  "id": "4138a5d042bc0fa0df5e8f86d25b1151",
+  "uuid": "4138a5d042bc0fa0df5e8f86d25b1151",
+  "name": "With large images and progress bars",
+  "slug": "with-large-images-and-progress-bars",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Order Detail Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/order-detail-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 2327
+    },
+    "small": {
+      "width": 375,
+      "height": 3551
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

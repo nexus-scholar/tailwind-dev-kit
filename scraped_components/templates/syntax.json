@@ -1,0 +1,68 @@
+{
+  "id": 16,
+  "name": "Syntax",
+  "slug": "syntax",
+  "type": "Documentation template",
+  "url": "https://tailwindcss.com/plus/templates/syntax",
+  "download_url": "https://tailwindcss.com/plus/templates/syntax/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/syntax/preview-01.png",
+  "summary": "Educate your users in style with this documentation template.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "Headless UI",
+      "version": "v2.1"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "Markdoc",
+      "version": "v0.1"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "Writing documentation is enough to make you rip your hair out without worrying about the design. Let us help you keep a few strands.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "Headless UI v2.1",
+    "React v19",
+    "Markdoc v0.1",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/syntax/preview",
+  "local_archive": "scraped_components\\templates\\syntax.zip",
+  "archive_size_kb": 1267,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/syntax/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/syntax/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/syntax/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/syntax/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/syntax/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/syntax",
+  "local_banner_image": "scraped_components/templates/screens/syntax/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/syntax/detail-01.png",
+    "scraped_components/templates/screens/syntax/detail-02.png",
+    "scraped_components/templates/screens/syntax/detail-03.png",
+    "scraped_components/templates/screens/syntax/detail-04.png",
+    "scraped_components/templates/screens/syntax/preview-01.png",
+    "scraped_components/templates/screens/syntax/preview-02.png",
+    "scraped_components/templates/screens/syntax/preview-03.png",
+    "scraped_components/templates/screens/syntax/screenshot.png",
+    "scraped_components/templates/screens/syntax/twitter.png"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c0d6b19d73d2f3045ca388de0ab7c11b",
+  "uuid": "c0d6b19d73d2f3045ca388de0ab7c11b",
+  "name": "With bottom border",
+  "slug": "with-bottom-border",
+  "product": "Application UI",
+  "category": "Application Shells",
+  "subcategory": "Stacked Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/application-shells/stacked",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

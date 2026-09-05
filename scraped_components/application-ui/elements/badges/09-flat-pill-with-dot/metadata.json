@@ -1,0 +1,29 @@
+{
+  "id": "78b26cb356fb02423d5da90b0e8fe645",
+  "uuid": "78b26cb356fb02423d5da90b0e8fe645",
+  "name": "Flat pill with dot",
+  "slug": "flat-pill-with-dot",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Badges",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/badges",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 88
+    },
+    "small": {
+      "width": 375,
+      "height": 168
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

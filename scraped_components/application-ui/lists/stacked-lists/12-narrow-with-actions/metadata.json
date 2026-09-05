@@ -1,0 +1,29 @@
+{
+  "id": "6a56f3c03589dfa48dc4e7eec7fbf6d0",
+  "uuid": "6a56f3c03589dfa48dc4e7eec7fbf6d0",
+  "name": "Narrow with actions",
+  "slug": "narrow-with-actions",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Stacked Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/stacked-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 697
+    },
+    "small": {
+      "width": 375,
+      "height": 665
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

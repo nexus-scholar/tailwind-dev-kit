@@ -1,0 +1,29 @@
+{
+  "id": "d6b6c178a9f460d37c542870139e940e",
+  "uuid": "d6b6c178a9f460d37c542870139e940e",
+  "name": "Images with details",
+  "slug": "images-with-details",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Grid Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/grid-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 584
+    },
+    "small": {
+      "width": 375,
+      "height": 810
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

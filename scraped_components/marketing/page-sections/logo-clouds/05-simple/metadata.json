@@ -1,0 +1,29 @@
+{
+  "id": "fd820f87009f8bfcba4533c929686aad",
+  "uuid": "fd820f87009f8bfcba4533c929686aad",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Logo Clouds",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/logo-clouds",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 256
+    },
+    "small": {
+      "width": 375,
+      "height": 192
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

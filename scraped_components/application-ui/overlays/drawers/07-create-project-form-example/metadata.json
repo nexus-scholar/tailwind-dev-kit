@@ -1,0 +1,29 @@
+{
+  "id": "2036cb51318151226ce814d3e3efea91",
+  "uuid": "2036cb51318151226ce814d3e3efea91",
+  "name": "Create project form example",
+  "slug": "create-project-form-example",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Drawers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/drawers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 960
+    },
+    "small": {
+      "width": 375,
+      "height": 960
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": 7,
+  "name": "Keynote",
+  "slug": "keynote",
+  "type": "Conference template",
+  "url": "https://tailwindcss.com/plus/templates/keynote",
+  "download_url": "https://tailwindcss.com/plus/templates/keynote/download",
+  "preview_url": "https://tailwindcss.com/plus-assets/img/templates/keynote/preview-01.png",
+  "summary": "Launch your next conference with a splash with this eye-catching template.",
+  "technologies": [
+    {
+      "name": "Next.js",
+      "version": "v16"
+    },
+    {
+      "name": "Tailwind CSS",
+      "version": "v4.3"
+    },
+    {
+      "name": "Headless UI",
+      "version": "v2.1"
+    },
+    {
+      "name": "React",
+      "version": "v19"
+    },
+    {
+      "name": "TypeScript",
+      "version": "v5.8"
+    }
+  ],
+  "description": "As if finding compelling speakers and a posh venue for your conference wasn\u2019t hard enough, now you need a website too. Fret not, we\u2019ve got you covered.",
+  "technologies_summary": [
+    "Next.js v16",
+    "Tailwind CSS v4.3",
+    "Headless UI v2.1",
+    "React v19",
+    "TypeScript v5.8"
+  ],
+  "demo_preview_url": "https://tailwindcss.com/plus/templates/keynote/preview",
+  "local_archive": "scraped_components\\templates\\keynote.zip",
+  "archive_size_kb": 19211,
+  "banner_image_url": "https://tailwindcss.com/plus-assets/img/templates/keynote/screenshot.png",
+  "screenshots": [
+    "https://tailwindcss.com/plus-assets/img/templates/keynote/detail-01.png",
+    "https://tailwindcss.com/plus-assets/img/templates/keynote/detail-02.png",
+    "https://tailwindcss.com/plus-assets/img/templates/keynote/detail-03.png",
+    "https://tailwindcss.com/plus-assets/img/templates/keynote/detail-04.png"
+  ],
+  "local_screens_dir": "scraped_components/templates/screens/keynote",
+  "local_banner_image": "scraped_components/templates/screens/keynote/screenshot.png",
+  "local_screenshots": [
+    "scraped_components/templates/screens/keynote/detail-01.png",
+    "scraped_components/templates/screens/keynote/detail-02.png",
+    "scraped_components/templates/screens/keynote/detail-03.png",
+    "scraped_components/templates/screens/keynote/detail-04.png",
+    "scraped_components/templates/screens/keynote/preview-01.png",
+    "scraped_components/templates/screens/keynote/preview-02.png",
+    "scraped_components/templates/screens/keynote/preview-03.png",
+    "scraped_components/templates/screens/keynote/screenshot.png",
+    "scraped_components/templates/screens/keynote/twitter.png"
+  ]
+}

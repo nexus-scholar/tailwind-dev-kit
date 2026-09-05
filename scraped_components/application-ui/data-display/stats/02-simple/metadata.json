@@ -1,0 +1,29 @@
+{
+  "id": "0784024584e9897ccb13d2932456484b",
+  "uuid": "0784024584e9897ccb13d2932456484b",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Stats",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/stats",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 120
+    },
+    "small": {
+      "width": 375,
+      "height": 483
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

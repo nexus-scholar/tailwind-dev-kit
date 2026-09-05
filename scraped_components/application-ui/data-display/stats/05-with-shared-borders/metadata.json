@@ -1,0 +1,29 @@
+{
+  "id": "72704cac437a06d94cdb941c274591ba",
+  "uuid": "72704cac437a06d94cdb941c274591ba",
+  "name": "With shared borders",
+  "slug": "with-shared-borders",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Stats",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/stats",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 248
+    },
+    "small": {
+      "width": 375,
+      "height": 440
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

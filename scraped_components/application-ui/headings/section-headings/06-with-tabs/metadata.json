@@ -1,0 +1,29 @@
+{
+  "id": "0174a6f43f8fd733c731085e1f8f009a",
+  "uuid": "0174a6f43f8fd733c731085e1f8f009a",
+  "name": "With tabs",
+  "slug": "with-tabs",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Section Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/section-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 174
+    },
+    "small": {
+      "width": 375,
+      "height": 193
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

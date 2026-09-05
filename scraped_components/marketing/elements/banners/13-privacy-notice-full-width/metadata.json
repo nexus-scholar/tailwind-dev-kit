@@ -1,0 +1,29 @@
+{
+  "id": "43c7208d9b2cc7b884cd3c0918c2c268",
+  "uuid": "43c7208d9b2cc7b884cd3c0918c2c268",
+  "name": "Privacy notice full width",
+  "slug": "privacy-notice-full-width",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Banners",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/banners",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 400
+    },
+    "small": {
+      "width": 375,
+      "height": 400
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

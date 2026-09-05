@@ -1,0 +1,29 @@
+{
+  "id": "211a2608506db0061bc968f07b98d61c",
+  "uuid": "211a2608506db0061bc968f07b98d61c",
+  "name": "Simple centered on brand",
+  "slug": "simple-centered-on-brand",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 520
+    },
+    "small": {
+      "width": 375,
+      "height": 544
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

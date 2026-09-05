@@ -1,0 +1,29 @@
+{
+  "id": "07e889de48dabb9e22d20353d7c02d16",
+  "uuid": "07e889de48dabb9e22d20353d7c02d16",
+  "name": "Tabs in pills with brand color",
+  "slug": "tabs-in-pills-with-brand-color",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Tabs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/tabs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 84
+    },
+    "small": {
+      "width": 375,
+      "height": 88
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

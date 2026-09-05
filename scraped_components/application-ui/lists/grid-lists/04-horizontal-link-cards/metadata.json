@@ -1,0 +1,29 @@
+{
+  "id": "08e8555b844010db1f30cbafc8be6222",
+  "uuid": "08e8555b844010db1f30cbafc8be6222",
+  "name": "Horizontal link cards",
+  "slug": "horizontal-link-cards",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Grid Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/grid-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 244
+    },
+    "small": {
+      "width": 375,
+      "height": 440
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

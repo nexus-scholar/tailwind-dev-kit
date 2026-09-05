@@ -1,0 +1,29 @@
+{
+  "id": "d47b46d3ffea1f6b159f51be4bcae2ff",
+  "uuid": "d47b46d3ffea1f6b159f51be4bcae2ff",
+  "name": "Branded with supported text",
+  "slug": "branded-with-supported-text",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Select Menus",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/select-menus",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 352
+    },
+    "small": {
+      "width": 375,
+      "height": 352
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "8854bb30c830fd9b5a4838f3c11e8ce8",
+  "uuid": "8854bb30c830fd9b5a4838f3c11e8ce8",
+  "name": "Single column",
+  "slug": "single-column",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Shopping Carts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/shopping-carts",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1034
+    },
+    "small": {
+      "width": 375,
+      "height": 922
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

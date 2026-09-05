@@ -1,0 +1,29 @@
+{
+  "id": "7d20f80f5b5fc2a13c14034d3d60115e",
+  "uuid": "7d20f80f5b5fc2a13c14034d3d60115e",
+  "name": "With split buttons",
+  "slug": "with-split-buttons",
+  "product": "Application UI",
+  "category": "Overlays",
+  "subcategory": "Notifications",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/notifications",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 320
+    },
+    "small": {
+      "width": 375,
+      "height": 320
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

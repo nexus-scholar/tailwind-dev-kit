@@ -1,0 +1,29 @@
+{
+  "id": "4dfa34096e750fe0cc9a5086286bc441",
+  "uuid": "4dfa34096e750fe0cc9a5086286bc441",
+  "name": "Simple",
+  "slug": "simple",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Textareas",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/textareas",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 204
+    },
+    "small": {
+      "width": 375,
+      "height": 204
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

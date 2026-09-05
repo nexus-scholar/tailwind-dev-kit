@@ -1,0 +1,29 @@
+{
+  "id": "c6e8b2bf7f65e8987b7012d3bbe5caf1",
+  "uuid": "c6e8b2bf7f65e8987b7012d3bbe5caf1",
+  "name": "Small with meetings",
+  "slug": "small-with-meetings",
+  "product": "Application UI",
+  "category": "Data Display",
+  "subcategory": "Calendars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/data-display/calendars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 628
+    },
+    "small": {
+      "width": 375,
+      "height": 1217
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

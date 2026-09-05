@@ -1,0 +1,29 @@
+{
+  "id": "466fb280c935eaf1bbc06080419b751f",
+  "uuid": "466fb280c935eaf1bbc06080419b751f",
+  "name": "With comparison table",
+  "slug": "with-comparison-table",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Pricing Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/pricing",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1652
+    },
+    "small": {
+      "width": 375,
+      "height": 2228
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

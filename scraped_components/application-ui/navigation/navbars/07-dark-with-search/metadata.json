@@ -1,0 +1,29 @@
+{
+  "id": "1be56e16325019ce5e105b23952d0b8b",
+  "uuid": "1be56e16325019ce5e105b23952d0b8b",
+  "name": "Dark with search",
+  "slug": "dark-with-search",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Navbars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/navbars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 192
+    },
+    "small": {
+      "width": 375,
+      "height": 469
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

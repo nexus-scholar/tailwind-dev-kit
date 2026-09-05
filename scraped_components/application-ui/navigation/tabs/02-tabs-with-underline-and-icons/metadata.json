@@ -1,0 +1,29 @@
+{
+  "id": "aed2acb28998d158d7aa898cb19540e4",
+  "uuid": "aed2acb28998d158d7aa898cb19540e4",
+  "name": "Tabs with underline and icons",
+  "slug": "tabs-with-underline-and-icons",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Tabs",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/tabs",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 102
+    },
+    "small": {
+      "width": 375,
+      "height": 88
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

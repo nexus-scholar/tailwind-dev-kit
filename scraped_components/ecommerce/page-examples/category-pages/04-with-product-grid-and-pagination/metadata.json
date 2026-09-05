@@ -1,0 +1,29 @@
+{
+  "id": "01e6cce6c6c0b0de6f399049b2f512cc",
+  "uuid": "01e6cce6c6c0b0de6f399049b2f512cc",
+  "name": "With product grid and pagination",
+  "slug": "with-product-grid-and-pagination",
+  "product": "Ecommerce",
+  "category": "Page Examples",
+  "subcategory": "Category Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/category-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 2440
+    },
+    "small": {
+      "width": 375,
+      "height": 3217
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "06554e4a18bf74da3a4d350601b3865d",
+  "uuid": "06554e4a18bf74da3a4d350601b3865d",
+  "name": "With fading image",
+  "slug": "with-fading-image",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Product Features",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/product-features",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 842
+    },
+    "small": {
+      "width": 375,
+      "height": 1286
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

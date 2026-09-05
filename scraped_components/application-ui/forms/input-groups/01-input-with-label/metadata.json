@@ -1,0 +1,29 @@
+{
+  "id": "04a268fee12196d74c94e82a43106f8d",
+  "uuid": "04a268fee12196d74c94e82a43106f8d",
+  "name": "Input with label",
+  "slug": "input-with-label",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Input Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/input-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 132
+    },
+    "small": {
+      "width": 375,
+      "height": 132
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

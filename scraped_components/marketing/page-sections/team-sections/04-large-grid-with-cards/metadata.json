@@ -1,0 +1,29 @@
+{
+  "id": "09826e92264e0f1fa45b8e6a88cb2725",
+  "uuid": "09826e92264e0f1fa45b8e6a88cb2725",
+  "name": "Large grid with cards",
+  "slug": "large-grid-with-cards",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Team Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/team-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1352
+    },
+    "small": {
+      "width": 375,
+      "height": 2936
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

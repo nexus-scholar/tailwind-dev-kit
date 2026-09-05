@@ -1,0 +1,29 @@
+{
+  "id": "c7f3196b0f47862c91b15b9042d68d86",
+  "uuid": "c7f3196b0f47862c91b15b9042d68d86",
+  "name": "With multiple item types",
+  "slug": "with-multiple-item-types",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Feeds",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/feeds",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 516
+    },
+    "small": {
+      "width": 375,
+      "height": 648
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

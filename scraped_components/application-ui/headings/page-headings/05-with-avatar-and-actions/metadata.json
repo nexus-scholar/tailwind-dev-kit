@@ -1,0 +1,29 @@
+{
+  "id": "ab799a0b48c911854636f6e31cb28915",
+  "uuid": "ab799a0b48c911854636f6e31cb28915",
+  "name": "With avatar and actions",
+  "slug": "with-avatar-and-actions",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Page Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/page-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 112
+    },
+    "small": {
+      "width": 375,
+      "height": 238
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

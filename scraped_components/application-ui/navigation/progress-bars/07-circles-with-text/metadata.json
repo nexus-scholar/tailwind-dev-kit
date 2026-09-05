@@ -1,0 +1,29 @@
+{
+  "id": "e1655fc2b62c1d5280cb639a5c09f1f6",
+  "uuid": "e1655fc2b62c1d5280cb639a5c09f1f6",
+  "name": "Circles with text",
+  "slug": "circles-with-text",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Progress Bars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/progress-bars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 456
+    },
+    "small": {
+      "width": 375,
+      "height": 476
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

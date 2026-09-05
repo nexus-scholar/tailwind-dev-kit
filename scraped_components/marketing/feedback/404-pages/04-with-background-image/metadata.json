@@ -1,0 +1,29 @@
+{
+  "id": "9e31dc71bccd709e04de0ed11a1328b0",
+  "uuid": "9e31dc71bccd709e04de0ed11a1328b0",
+  "name": "With background image",
+  "slug": "with-background-image",
+  "product": "Marketing",
+  "category": "Feedback",
+  "subcategory": "404 Pages",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/feedback/404-pages",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 896
+    },
+    "small": {
+      "width": 375,
+      "height": 896
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

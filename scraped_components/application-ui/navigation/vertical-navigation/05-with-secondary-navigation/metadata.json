@@ -1,0 +1,29 @@
+{
+  "id": "c62ff54939dc62098de8d38ebd671ec3",
+  "uuid": "c62ff54939dc62098de8d38ebd671ec3",
+  "name": "With secondary navigation",
+  "slug": "with-secondary-navigation",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Vertical Navigation",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/vertical-navigation",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 556
+    },
+    "small": {
+      "width": 375,
+      "height": 556
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

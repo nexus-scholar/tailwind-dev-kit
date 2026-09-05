@@ -1,0 +1,29 @@
+{
+  "id": "3b5e12493074827bcd9d77db75787d78",
+  "uuid": "3b5e12493074827bcd9d77db75787d78",
+  "name": "With icons in mobile menu",
+  "slug": "with-icons-in-mobile-menu",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Headers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/headers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 640
+    },
+    "small": {
+      "width": 375,
+      "height": 640
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

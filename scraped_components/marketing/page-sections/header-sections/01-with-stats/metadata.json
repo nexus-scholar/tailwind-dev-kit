@@ -1,0 +1,29 @@
+{
+  "id": "813ce86310c2c337070a66a152012665",
+  "uuid": "813ce86310c2c337070a66a152012665",
+  "name": "With stats",
+  "slug": "with-stats",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Header Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/header",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 644
+    },
+    "small": {
+      "width": 375,
+      "height": 1056
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

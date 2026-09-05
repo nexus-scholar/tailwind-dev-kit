@@ -1,0 +1,29 @@
+{
+  "id": "2d5d20e54ee541d2b42b7c02457850df",
+  "uuid": "2d5d20e54ee541d2b42b7c02457850df",
+  "name": "3-column with illustrations and header",
+  "slug": "3-column-with-illustrations-and-header",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Incentives",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/incentives",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 604
+    },
+    "small": {
+      "width": 375,
+      "height": 1044
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

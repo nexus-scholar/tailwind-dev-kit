@@ -1,0 +1,29 @@
+{
+  "id": "7b583a008c3fc62c0fe403d10ca042bb",
+  "uuid": "7b583a008c3fc62c0fe403d10ca042bb",
+  "name": "List with descriptions in panel",
+  "slug": "list-with-descriptions-in-panel",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Radio Groups",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/radio-groups",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 316
+    },
+    "small": {
+      "width": 375,
+      "height": 376
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "6fae9e848a855282e0d7fc637cb94791",
+  "uuid": "6fae9e848a855282e0d7fc637cb94791",
+  "name": "With banner image",
+  "slug": "with-banner-image",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Page Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/page-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 280
+    },
+    "small": {
+      "width": 375,
+      "height": 364
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "38a360f41fbead05a12792c6c884c1df",
+  "uuid": "38a360f41fbead05a12792c6c884c1df",
+  "name": "With vertical images",
+  "slug": "with-vertical-images",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Team Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/team-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1230
+    },
+    "small": {
+      "width": 375,
+      "height": 2362
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

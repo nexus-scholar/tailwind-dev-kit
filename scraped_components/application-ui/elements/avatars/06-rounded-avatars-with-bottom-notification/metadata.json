@@ -1,0 +1,29 @@
+{
+  "id": "d7e3987a5bcd99ecc19e6e55d448fccc",
+  "uuid": "d7e3987a5bcd99ecc19e6e55d448fccc",
+  "name": "Rounded avatars with bottom notification",
+  "slug": "rounded-avatars-with-bottom-notification",
+  "product": "Application UI",
+  "category": "Elements",
+  "subcategory": "Avatars",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/elements/avatars",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 128
+    },
+    "small": {
+      "width": 375,
+      "height": 128
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

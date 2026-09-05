@@ -1,0 +1,29 @@
+{
+  "id": "de25869ecf8c2903fbede9b3a7602adb",
+  "uuid": "de25869ecf8c2903fbede9b3a7602adb",
+  "name": "4-column with company mission",
+  "slug": "4-column-with-company-mission",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Footers",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/footers",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 548
+    },
+    "small": {
+      "width": 375,
+      "height": 813
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

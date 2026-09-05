@@ -1,0 +1,29 @@
+{
+  "id": "2893edff150c2ccadf6ca761393d7eb1",
+  "uuid": "2893edff150c2ccadf6ca761393d7eb1",
+  "name": "With button on right",
+  "slug": "with-button-on-right",
+  "product": "Application UI",
+  "category": "Forms",
+  "subcategory": "Action Panels",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/forms/action-panels",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 216
+    },
+    "small": {
+      "width": 375,
+      "height": 284
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

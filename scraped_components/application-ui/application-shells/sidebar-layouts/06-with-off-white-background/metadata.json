@@ -1,0 +1,29 @@
+{
+  "id": "bcda0241bdc4768c6b966958a683047c",
+  "uuid": "bcda0241bdc4768c6b966958a683047c",
+  "name": "With off-white background",
+  "slug": "with-off-white-background",
+  "product": "Application UI",
+  "category": "Application Shells",
+  "subcategory": "Sidebar Layouts",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/application-shells/sidebar",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 0,
+      "height": 200
+    },
+    "small": {
+      "width": 0,
+      "height": 200
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

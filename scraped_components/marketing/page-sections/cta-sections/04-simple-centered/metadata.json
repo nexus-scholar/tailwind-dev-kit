@@ -1,0 +1,29 @@
+{
+  "id": "25ce2a81d17545994655ccc4062651a4",
+  "uuid": "25ce2a81d17545994655ccc4062651a4",
+  "name": "Simple centered",
+  "slug": "simple-centered",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "CTA Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/cta-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 520
+    },
+    "small": {
+      "width": 375,
+      "height": 544
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

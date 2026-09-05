@@ -1,0 +1,29 @@
+{
+  "id": "d6311f175e19add0c4342eb7602ec96c",
+  "uuid": "d6311f175e19add0c4342eb7602ec96c",
+  "name": "With icons",
+  "slug": "with-icons",
+  "product": "Application UI",
+  "category": "Navigation",
+  "subcategory": "Vertical Navigation",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/navigation/vertical-navigation",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 324
+    },
+    "small": {
+      "width": 375,
+      "height": 324
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

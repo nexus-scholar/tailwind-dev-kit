@@ -1,0 +1,29 @@
+{
+  "id": "58e002f268559c7aba120b917e51ea65",
+  "uuid": "58e002f268559c7aba120b917e51ea65",
+  "name": "Split with logos on right",
+  "slug": "split-with-logos-on-right",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Logo Clouds",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/logo-clouds",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 544
+    },
+    "small": {
+      "width": 375,
+      "height": 592
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

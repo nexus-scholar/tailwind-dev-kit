@@ -1,0 +1,29 @@
+{
+  "id": "988e9eed61ec84450b9650c7f6ad805e",
+  "uuid": "988e9eed61ec84450b9650c7f6ad805e",
+  "name": "Stacked with footer list",
+  "slug": "stacked-with-footer-list",
+  "product": "Marketing",
+  "category": "Elements",
+  "subcategory": "Flyout Menus",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/elements/flyout-menus",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 776
+    },
+    "small": {
+      "width": 375,
+      "height": 776
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

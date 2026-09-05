@@ -1,0 +1,29 @@
+{
+  "id": "ed0bd6107e9619f08a549f76f5073f20",
+  "uuid": "ed0bd6107e9619f08a549f76f5073f20",
+  "name": "With badge and dropdown",
+  "slug": "with-badge-and-dropdown",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Section Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/section-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 240
+    },
+    "small": {
+      "width": 375,
+      "height": 300
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

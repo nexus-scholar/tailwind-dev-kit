@@ -1,0 +1,29 @@
+{
+  "id": "8c91476c7d73e3d73f9629ec734ccffa",
+  "uuid": "8c91476c7d73e3d73f9629ec734ccffa",
+  "name": "With double column and persistent mobile nav",
+  "slug": "with-double-column-and-persistent-mobile-nav",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Store Navigation",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/store-navigation",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 464
+    },
+    "small": {
+      "width": 375,
+      "height": 900
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

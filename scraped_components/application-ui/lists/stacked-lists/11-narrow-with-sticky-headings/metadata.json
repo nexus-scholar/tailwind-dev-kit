@@ -1,0 +1,29 @@
+{
+  "id": "cb948bdbe04c717def4a7195a285d08b",
+  "uuid": "cb948bdbe04c717def4a7195a285d08b",
+  "name": "Narrow with sticky headings",
+  "slug": "narrow-with-sticky-headings",
+  "product": "Application UI",
+  "category": "Lists",
+  "subcategory": "Stacked Lists",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/lists/stacked-lists",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 624
+    },
+    "small": {
+      "width": 375,
+      "height": 624
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

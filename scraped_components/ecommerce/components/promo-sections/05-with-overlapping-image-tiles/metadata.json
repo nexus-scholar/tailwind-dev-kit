@@ -1,0 +1,29 @@
+{
+  "id": "d33c977953fba7ea4736a741436839af",
+  "uuid": "d33c977953fba7ea4736a741436839af",
+  "name": "With overlapping image tiles",
+  "slug": "with-overlapping-image-tiles",
+  "product": "Ecommerce",
+  "category": "Components",
+  "subcategory": "Promo Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/ecommerce/components/promo-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 934
+    },
+    "small": {
+      "width": 375,
+      "height": 1626
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": "<p class=\"mt-4 text-xs text-slate-500 dark:text-gray-400\">Images provided by <a href=\"https://ugmonk.com/\" class=\"font-medium text-sky-600 hover:text-sky-700 dark:text-sky-400 dark:hover:text-sky-500\">Ugmonk</a></p>"
+}

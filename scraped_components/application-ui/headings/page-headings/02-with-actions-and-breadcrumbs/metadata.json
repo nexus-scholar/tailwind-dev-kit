@@ -1,0 +1,29 @@
+{
+  "id": "8a687a46760e105177d4a4ed39ae6d27",
+  "uuid": "8a687a46760e105177d4a4ed39ae6d27",
+  "name": "With actions and breadcrumbs",
+  "slug": "with-actions-and-breadcrumbs",
+  "product": "Application UI",
+  "category": "Headings",
+  "subcategory": "Page Headings",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/application-ui/headings/page-headings",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 128
+    },
+    "small": {
+      "width": 375,
+      "height": 172
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}

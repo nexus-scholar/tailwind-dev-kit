@@ -1,0 +1,29 @@
+{
+  "id": "d3acbf5cf2bb7ba7f94bbe6e0b30ed2f",
+  "uuid": "d3acbf5cf2bb7ba7f94bbe6e0b30ed2f",
+  "name": "Grid with round images",
+  "slug": "grid-with-round-images",
+  "product": "Marketing",
+  "category": "Page Sections",
+  "subcategory": "Team Sections",
+  "subcat_url": "https://tailwindcss.com/plus/ui-blocks/marketing/sections/team-sections",
+  "downloadable": true,
+  "is_new": false,
+  "archived": false,
+  "dimensions": {
+    "large": {
+      "width": 1280,
+      "height": 1116
+    },
+    "small": {
+      "width": 375,
+      "height": 2312
+    }
+  },
+  "available_formats": [
+    "html",
+    "react",
+    "vue"
+  ],
+  "image_credits": null
+}
