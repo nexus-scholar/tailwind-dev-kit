@@ -4,6 +4,9 @@ A high-performance, resilient scraper and developer toolkit to catalog and downl
 
 ---
 
+> [!TIP]
+> **Using this toolkit in future projects?** Read the complete [**Integration & Developer Usage Guide** (docs/INTEGRATION_GUIDE.md)](./docs/INTEGRATION_GUIDE.md) covering AI pair-programming via MCP, using the Catalyst Application UI Kit in Next.js, and bootstrapping production sites from standalone templates.
+
 ## Features
 
 - **Full Component Coverage**: Catalogs and downloads all **657 official components** (representing all 1,314 light/dark preview variations) across all **93 subcategories** in:
