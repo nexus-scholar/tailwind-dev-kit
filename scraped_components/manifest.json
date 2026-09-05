@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-05T01:54:12.748496Z",
+  "scraped_at": "2026-09-05T02:53:22.578596Z",
   "tailwind_version": "4.3",
   "total_components": 657,
   "total_templates": 14,
@@ -30962,8 +30962,202 @@
       "directories": {
         "typescript": "scraped_components/ui-kit/catalyst/typescript",
         "javascript": "scraped_components/ui-kit/catalyst/javascript",
-        "demo": "scraped_components/ui-kit/catalyst/demo"
-      }
+        "demo": "scraped_components/ui-kit/catalyst/demo",
+        "docs": "scraped_components/ui-kit/catalyst/docs"
+      },
+      "local_docs_dir": "scraped_components/ui-kit/catalyst/docs",
+      "total_docs_pages": 27,
+      "docs_pages": [
+        {
+          "slug": "getting-started",
+          "title": "Getting Started",
+          "route": "/docs",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/index.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/index.html"
+        },
+        {
+          "slug": "sidebar-layout",
+          "title": "Sidebar Layout",
+          "route": "/docs/sidebar-layout",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/sidebar-layout.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/sidebar-layout.html"
+        },
+        {
+          "slug": "stacked-layout",
+          "title": "Stacked Layout",
+          "route": "/docs/stacked-layout",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/stacked-layout.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/stacked-layout.html"
+        },
+        {
+          "slug": "auth-layout",
+          "title": "Auth Layout",
+          "route": "/docs/auth-layout",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/auth-layout.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/auth-layout.html"
+        },
+        {
+          "slug": "alert",
+          "title": "Alert",
+          "route": "/docs/alert",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/alert.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/alert.html"
+        },
+        {
+          "slug": "avatar",
+          "title": "Avatar",
+          "route": "/docs/avatar",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/avatar.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/avatar.html"
+        },
+        {
+          "slug": "badge",
+          "title": "Badge",
+          "route": "/docs/badge",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/badge.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/badge.html"
+        },
+        {
+          "slug": "button",
+          "title": "Button",
+          "route": "/docs/button",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/button.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/button.html"
+        },
+        {
+          "slug": "checkbox",
+          "title": "Checkbox",
+          "route": "/docs/checkbox",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/checkbox.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/checkbox.html"
+        },
+        {
+          "slug": "combobox",
+          "title": "Combobox",
+          "route": "/docs/combobox",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/combobox.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/combobox.html"
+        },
+        {
+          "slug": "description-list",
+          "title": "Description List",
+          "route": "/docs/description-list",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/description-list.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/description-list.html"
+        },
+        {
+          "slug": "dialog",
+          "title": "Dialog",
+          "route": "/docs/dialog",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/dialog.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/dialog.html"
+        },
+        {
+          "slug": "divider",
+          "title": "Divider",
+          "route": "/docs/divider",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/divider.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/divider.html"
+        },
+        {
+          "slug": "dropdown",
+          "title": "Dropdown",
+          "route": "/docs/dropdown",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/dropdown.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/dropdown.html"
+        },
+        {
+          "slug": "fieldset",
+          "title": "Fieldset",
+          "route": "/docs/fieldset",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/fieldset.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/fieldset.html"
+        },
+        {
+          "slug": "heading",
+          "title": "Heading",
+          "route": "/docs/heading",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/heading.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/heading.html"
+        },
+        {
+          "slug": "input",
+          "title": "Input",
+          "route": "/docs/input",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/input.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/input.html"
+        },
+        {
+          "slug": "listbox",
+          "title": "Listbox",
+          "route": "/docs/listbox",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/listbox.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/listbox.html"
+        },
+        {
+          "slug": "navbar",
+          "title": "Navbar",
+          "route": "/docs/navbar",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/navbar.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/navbar.html"
+        },
+        {
+          "slug": "pagination",
+          "title": "Pagination",
+          "route": "/docs/pagination",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/pagination.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/pagination.html"
+        },
+        {
+          "slug": "radio",
+          "title": "Radio",
+          "route": "/docs/radio",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/radio.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/radio.html"
+        },
+        {
+          "slug": "select",
+          "title": "Select",
+          "route": "/docs/select",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/select.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/select.html"
+        },
+        {
+          "slug": "sidebar",
+          "title": "Sidebar",
+          "route": "/docs/sidebar",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/sidebar.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/sidebar.html"
+        },
+        {
+          "slug": "switch",
+          "title": "Switch",
+          "route": "/docs/switch",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/switch.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/switch.html"
+        },
+        {
+          "slug": "table",
+          "title": "Table",
+          "route": "/docs/table",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/table.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/table.html"
+        },
+        {
+          "slug": "text",
+          "title": "Text",
+          "route": "/docs/text",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/text.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/text.html"
+        },
+        {
+          "slug": "textarea",
+          "title": "Textarea",
+          "route": "/docs/textarea",
+          "md_file": "scraped_components/ui-kit/catalyst/docs/textarea.md",
+          "html_file": "scraped_components/ui-kit/catalyst/docs/html/textarea.html"
+        }
+      ]
     },
     {
       "id": 5,

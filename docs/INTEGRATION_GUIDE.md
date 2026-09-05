@@ -120,6 +120,7 @@ In Cursor settings under **Features > MCP Servers**, add a new stdio server:
 | `search_components` | `query: str`, `product?: str`, `category?: str`, `limit?: int` | Searches components by keyword, product, or category across all 657 items. |
 | `get_component_code` | `identifier: str`, `format: str = "react"` | Returns exact code for React (`react`), HTML (`html`), or Vue (`vue`). |
 | `get_catalyst_component` | `name: str`, `language: str = "typescript"` | Returns source code for any Catalyst UI component in `.tsx` or `.jsx`. |
+| `get_catalyst_docs` | `topic: str = "getting-started"` | Returns official documentation, API reference, and examples for Catalyst components. |
 | `list_categories` | `product?: str` | Lists all 93 subcategories with item counts. |
 | `list_templates` | *(none)* | Lists all 14 standalone templates and local `.zip` statuses. |
 | `get_template_info` | `slug: str` | Returns full summary, technologies, demo URL, and local screens path. |

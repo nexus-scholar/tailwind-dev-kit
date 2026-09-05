@@ -47,7 +47,9 @@ If the `tailwind-plus` MCP server is active, use the dedicated tools:
 3. **Catalyst Application UI Kit**:
    - `get_catalyst_component(name="button", language="typescript")`
    - `get_catalyst_component(name="dialog", language="javascript")`
-   - Directly inspect files in `scraped_components/ui-kit/catalyst/typescript` or `javascript`
+   - `get_catalyst_docs(topic="button")` (retrieves official API reference & examples)
+   - `get_catalyst_docs(topic="getting-started")` (overview & setup instructions)
+   - Inspect local docs: `scraped_components/ui-kit/catalyst/docs/` (Markdown & offline HTML)
 4. **List Templates & Status**:
    - `list_templates()`
    - `get_template_info(slug="oatmeal")` (shows all 12 downloaded themes)

@@ -362,6 +362,8 @@ def get_template_info(slug: str) -> str:
         comps = meta_details.get("components", [])
         lines.append(f"\n#### Catalyst UI Kit Components ({len(comps)} Available):")
         lines.append(f"Located in: `{meta_details.get('directories', {}).get('typescript')}` and `{meta_details.get('directories', {}).get('javascript')}`")
+        if meta_details.get("local_docs_dir"):
+            lines.append(f"Documentation: `{meta_details.get('local_docs_dir')}` ({meta_details.get('total_docs_pages', 27)} offline guides in Markdown & HTML)")
         lines.append(f"- Components: {', '.join(comps)}")
 
     return "\n".join(lines)
@@ -401,6 +403,36 @@ def get_catalyst_component(
     header = f"// Catalyst UI Kit: {comp_file.stem} ({lang_folder.upper()})\n// Path: {comp_file}\n\n"
     code_lang = "tsx" if ext == ".tsx" else "jsx"
     return f"```{code_lang}\n{header}{code}\n```"
+
+
+@app.tool()
+def get_catalyst_docs(topic: str = "getting-started") -> str:
+    """
+    Retrieve official documentation, API reference, and examples for Catalyst UI Kit components.
+
+    Args:
+        topic: The component name or topic (e.g. 'getting-started', 'button', 'dialog', 'table', 'sidebar-layout', 'navbar').
+    """
+    base_dir = _find_base_dir()
+    docs_dir = base_dir / "ui-kit" / "catalyst" / "docs"
+    clean_topic = topic.lower().strip().replace(".md", "").replace(".html", "").replace("/docs/", "").replace("docs/", "")
+    if clean_topic in ["index", "intro", "overview"]:
+        clean_topic = "getting-started"
+
+    md_file = docs_dir / f"{clean_topic}.md"
+    if (clean_topic == "getting-started" or clean_topic == "index") and (docs_dir / "index.md").exists():
+        md_file = docs_dir / "index.md"
+
+    if not md_file.exists():
+        matches = list(docs_dir.glob(f"*{clean_topic}*.md"))
+        if matches:
+            md_file = matches[0]
+
+    if not md_file.exists():
+        available = [p.stem for p in docs_dir.glob("*.md") if p.stem != "README"]
+        return f"Documentation for '{topic}' not found. Available topics: {', '.join(available)}"
+
+    return md_file.read_text(encoding="utf-8")
 
 
 def main() -> None:
