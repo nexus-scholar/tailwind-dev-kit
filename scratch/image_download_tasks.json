@@ -1,0 +1,1910 @@
+[
+  {
+    "template": "catalyst",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/catalyst/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\catalyst\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "catalyst",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/catalyst/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\catalyst\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "catalyst",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/catalyst/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\catalyst\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "catalyst",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/catalyst/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\catalyst\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "catalyst",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/catalyst/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\catalyst\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/oatmeal/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/oatmeal/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/oatmeal/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/oatmeal/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/oatmeal/twitter.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-olive_instrument-light-1d3a0425-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\screenshot-1-olive_instrument-light-1d3a0425-384x246@3.png",
+    "category": "detail"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-olive_instrument-dark-c9278169-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\screenshot-1-olive_instrument-dark-c9278169-384x246@3.png",
+    "category": "detail"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-olive_instrument-light-845e0b23-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\screenshot-2-olive_instrument-light-845e0b23-384x246@3.png",
+    "category": "detail"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-olive_instrument-dark-a36c599a-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\screenshot-2-olive_instrument-dark-a36c599a-384x246@3.png",
+    "category": "detail"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-olive_instrument-light-d899bfe2-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\screenshot-3-olive_instrument-light-d899bfe2-384x246@3.png",
+    "category": "detail"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-olive_instrument-dark-28f28af3-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\screenshot-3-olive_instrument-dark-28f28af3-384x246@3.png",
+    "category": "detail"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-olive_instrument-light-abe781d2-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\screenshot-4-olive_instrument-light-abe781d2-384x246@3.png",
+    "category": "detail"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-olive_instrument-dark-197e131f-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\screenshot-4-olive_instrument-dark-197e131f-384x246@3.png",
+    "category": "detail"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mauve_familjen-light-1389ebc0-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mauve_familjen-dark-f2853cf6-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mauve_familjen-light-6487deee-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mauve_familjen-dark-33ccc1ad-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mauve_familjen-light-0dd872cd-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mauve_familjen-dark-6b18f38f-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mauve_familjen-light-9b52cfc6-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mauve_familjen-dark-6b3a11dd-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mauve_familjen-light-669552ac-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mauve_familjen-dark-a4d7acb1-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mauve_familjen-light-b526d836-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mauve_familjen-dark-8f7828ea-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mauve_familjen-light-289187e8-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mauve_familjen-dark-c54ba07d-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mauve_familjen-light-309d1563-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mauve_familjen-dark-764693fc-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_familjen\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mauve_instrument-light-14f77fcf-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mauve_instrument-dark-531ec0cc-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mauve_instrument-light-a7410033-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mauve_instrument-dark-e8e02636-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mauve_instrument-light-04857da4-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mauve_instrument-dark-1839ee4b-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mauve_instrument-light-a4eb52cd-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mauve_instrument-dark-837ede48-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mauve_instrument-light-65fc8bcd-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mauve_instrument-dark-966822bb-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mauve_instrument-light-45cc1cd7-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mauve_instrument-dark-072baa45-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mauve_instrument-light-e7e9956f-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mauve_instrument-dark-b25512b6-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mauve_instrument-light-fe7902ab-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mauve_instrument-dark-c577a357-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_instrument\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mauve_mona-light-6bc38c15-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mauve_mona-dark-80f86388-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mauve_mona-light-5f7052e4-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mauve_mona-dark-c33554fb-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mauve_mona-light-32f97ffe-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mauve_mona-dark-0bf235c5-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mauve_mona-light-63b93aae-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mauve_mona-dark-815622a2-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mauve_mona-light-588d7e4d-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mauve_mona-dark-0ec978f0-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mauve_mona-light-eafad737-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mauve_mona-dark-c4739269-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mauve_mona-light-84d54913-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mauve_mona-dark-a3545fc9-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mauve_mona-light-78b629df-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mauve_mona-dark-31242440-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mauve_mona\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mist_familjen-light-4f17efec-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mist_familjen-dark-9993acc9-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mist_familjen-light-0e8a9f79-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mist_familjen-dark-c0f8aee1-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mist_familjen-light-9060348d-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mist_familjen-dark-44b4ebdf-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mist_familjen-light-a8e3b39b-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mist_familjen-dark-21a0c569-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mist_familjen-light-8b9a8487-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mist_familjen-dark-def1d81d-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mist_familjen-light-d7fb6d16-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mist_familjen-dark-f887c695-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mist_familjen-light-0d3429f6-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mist_familjen-dark-83c1b001-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mist_familjen-light-ad165cce-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mist_familjen-dark-d94e2284-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_familjen\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mist_instrument-light-4af6d074-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mist_instrument-dark-9a5bf4d7-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mist_instrument-light-19a664d9-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mist_instrument-dark-eb1cd1dc-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mist_instrument-light-43c2b4d0-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mist_instrument-dark-3e1764d3-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mist_instrument-light-92a33f02-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mist_instrument-dark-e26ad149-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mist_instrument-light-facf4490-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mist_instrument-dark-c1d66bde-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mist_instrument-light-1043d06c-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mist_instrument-dark-371a4a34-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mist_instrument-light-e0c3ffe1-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mist_instrument-dark-a05fbb29-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mist_instrument-light-bb99817e-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mist_instrument-dark-a393e8ea-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_instrument\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mist_mona-light-d77fa0e0-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-mist_mona-dark-9c3c4395-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mist_mona-light-75b63734-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-mist_mona-dark-800a005a-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mist_mona-light-b59076de-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-mist_mona-dark-744e0f73-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mist_mona-light-8ac96753-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-mist_mona-dark-4b1fab3a-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mist_mona-light-4688b9d8-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-mist_mona-dark-cbe300ea-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mist_mona-light-ed55c8b9-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-mist_mona-dark-f1493fdd-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mist_mona-light-fbe7fdd9-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-mist_mona-dark-957ab6b3-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mist_mona-light-28308709-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-mist_mona-dark-c0644d29-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\mist_mona\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-olive_familjen-light-b9b18838-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-olive_familjen-dark-569ed635-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-olive_familjen-light-7b522967-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-olive_familjen-dark-b07ee904-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-olive_familjen-light-b42db6e3-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-olive_familjen-dark-a3e763fa-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-olive_familjen-light-ddebfd14-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-olive_familjen-dark-743ed7bd-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-olive_familjen-light-4f0b5bd1-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-olive_familjen-dark-b724bef6-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-olive_familjen-light-c3d3c6da-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-olive_familjen-dark-49ab678d-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-olive_familjen-light-d2a87b46-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-olive_familjen-dark-34317f8a-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-olive_familjen-light-67c7e600-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-olive_familjen-dark-d1c89a98-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_familjen\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-olive_instrument-light-40def0de-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-olive_instrument-dark-a00d6806-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-olive_instrument-light-6ccde600-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-olive_instrument-dark-068b263d-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-olive_instrument-light-6c1d4dd9-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-olive_instrument-dark-f74aff99-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-olive_instrument-light-01668af5-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-olive_instrument-dark-1b10139f-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-olive_instrument-light-1d3a0425-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-olive_instrument-dark-c9278169-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-olive_instrument-light-845e0b23-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-olive_instrument-dark-a36c599a-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-olive_instrument-light-d899bfe2-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-olive_instrument-dark-28f28af3-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-olive_instrument-light-abe781d2-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-olive_instrument-dark-197e131f-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_instrument\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-olive_mona-light-7a4548a7-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-olive_mona-dark-41504916-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-olive_mona-light-9d053685-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-olive_mona-dark-9a6e9d3c-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-olive_mona-light-d12c6de0-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-olive_mona-dark-1414f0f0-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-olive_mona-light-8afd948d-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-olive_mona-dark-8ab00a05-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-olive_mona-light-1fff51a0-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-olive_mona-dark-faa2f6e8-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-olive_mona-light-1fee9afd-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-olive_mona-dark-203d4029-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-olive_mona-light-8e3d409a-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-olive_mona-dark-819d1ab4-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-olive_mona-light-48605771-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-olive_mona-dark-bb5fea1b-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\olive_mona\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-taupe_familjen-light-e03daadf-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-taupe_familjen-dark-81fd461f-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-taupe_familjen-light-4ea288bb-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-taupe_familjen-dark-eba4eb9b-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-taupe_familjen-light-97c52319-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-taupe_familjen-dark-fa7a8a77-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-taupe_familjen-light-c5927a5d-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-taupe_familjen-dark-a31c9d8b-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-taupe_familjen-light-50c9f39a-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-taupe_familjen-dark-fc6282a2-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-taupe_familjen-light-e270a345-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-taupe_familjen-dark-6d89dd8d-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-taupe_familjen-light-25ab0b2a-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-taupe_familjen-dark-d0147845-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-taupe_familjen-light-ed38fcac-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-taupe_familjen-dark-9c223a1a-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_familjen\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-taupe_instrument-light-f165c66a-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-taupe_instrument-dark-53e74bb3-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-taupe_instrument-light-689f4fed-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-taupe_instrument-dark-6378301c-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-taupe_instrument-light-23e343f8-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-taupe_instrument-dark-02b33a84-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-taupe_instrument-light-85baa181-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-taupe_instrument-dark-1090eb39-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-taupe_instrument-light-961cd688-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-taupe_instrument-dark-6f01fe08-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-taupe_instrument-light-75f002ef-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-taupe_instrument-dark-4c356269-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-taupe_instrument-light-0431ab19-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-taupe_instrument-dark-2c9751a2-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-taupe_instrument-light-df62ed75-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-taupe_instrument-dark-721cd7da-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_instrument\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-taupe_mona-light-49fd452a-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\thumbnail-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/thumbnail-taupe_mona-dark-5d33face-360x250@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\thumbnail-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-taupe_mona-light-e2318412-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\banner_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-1-taupe_mona-dark-41347a57-1011x724@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\banner_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-taupe_mona-light-d650f5d5-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\banner_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-2-taupe_mona-dark-3098fe7d-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\banner_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-taupe_mona-light-3b572fcc-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\banner_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/banner-3-taupe_mona-dark-25b8489b-501x358@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\banner_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-taupe_mona-light-98680df2-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\screenshot_1-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-1-taupe_mona-dark-a6e9c47a-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\screenshot_1-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-taupe_mona-light-ad26e95b-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\screenshot_2-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-2-taupe_mona-dark-793e0c8b-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\screenshot_2-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-taupe_mona-light-9ce95244-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\screenshot_3-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-3-taupe_mona-dark-687a4c57-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\screenshot_3-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-taupe_mona-light-41d1b491-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\screenshot_4-light.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "oatmeal",
+    "url": "https://cdn.tailwindplus.com/kits/oatmeal/marketing/example-1/screenshot-4-taupe_mona-dark-9a60b6d0-384x246@3.png",
+    "target": "scraped_components\\templates\\screens\\oatmeal\\themes\\taupe_mona\\screenshot_4-dark.png",
+    "category": "theme_screenshot"
+  },
+  {
+    "template": "radiant",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/radiant/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\radiant\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "radiant",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/radiant/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\radiant\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "radiant",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/radiant/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\radiant\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "radiant",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/radiant/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\radiant\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "radiant",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/radiant/twitter.png",
+    "target": "scraped_components\\templates\\screens\\radiant\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "radiant",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/radiant/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\radiant\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "radiant",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/radiant/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\radiant\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "radiant",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/radiant/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\radiant\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "radiant",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/radiant/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\radiant\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "salient",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/salient/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\salient\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "salient",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/salient/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\salient\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "salient",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/salient/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\salient\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "salient",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/salient/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\salient\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "salient",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/salient/twitter.png",
+    "target": "scraped_components\\templates\\screens\\salient\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "salient",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/salient/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\salient\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "salient",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/salient/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\salient\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "salient",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/salient/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\salient\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "salient",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/salient/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\salient\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "spotlight",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\spotlight\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "spotlight",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\spotlight\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "spotlight",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\spotlight\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "spotlight",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\spotlight\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "spotlight",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/twitter.png",
+    "target": "scraped_components\\templates\\screens\\spotlight\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "spotlight",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\spotlight\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "spotlight",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\spotlight\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "spotlight",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\spotlight\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "spotlight",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/spotlight/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\spotlight\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "studio",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/studio/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\studio\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "studio",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/studio/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\studio\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "studio",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/studio/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\studio\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "studio",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/studio/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\studio\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "studio",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/studio/twitter.png",
+    "target": "scraped_components\\templates\\screens\\studio\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "studio",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/studio/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\studio\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "studio",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/studio/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\studio\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "studio",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/studio/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\studio\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "studio",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/studio/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\studio\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "primer",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/primer/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\primer\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "primer",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/primer/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\primer\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "primer",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/primer/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\primer\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "primer",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/primer/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\primer\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "primer",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/primer/twitter.png",
+    "target": "scraped_components\\templates\\screens\\primer\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "primer",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/primer/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\primer\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "primer",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/primer/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\primer\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "primer",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/primer/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\primer\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "primer",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/primer/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\primer\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "protocol",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/protocol/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\protocol\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "protocol",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/protocol/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\protocol\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "protocol",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/protocol/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\protocol\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "protocol",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/protocol/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\protocol\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "protocol",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/protocol/twitter.png",
+    "target": "scraped_components\\templates\\screens\\protocol\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "protocol",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/protocol/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\protocol\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "protocol",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/protocol/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\protocol\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "protocol",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/protocol/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\protocol\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "protocol",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/protocol/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\protocol\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "commit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/commit/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\commit\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "commit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/commit/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\commit\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "commit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/commit/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\commit\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "commit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/commit/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\commit\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "commit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/commit/twitter.png",
+    "target": "scraped_components\\templates\\screens\\commit\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "commit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/commit/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\commit\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "commit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/commit/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\commit\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "commit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/commit/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\commit\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "commit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/commit/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\commit\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "transmit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/transmit/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\transmit\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "transmit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/transmit/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\transmit\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "transmit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/transmit/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\transmit\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "transmit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/transmit/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\transmit\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "transmit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/transmit/twitter.png",
+    "target": "scraped_components\\templates\\screens\\transmit\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "transmit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/transmit/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\transmit\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "transmit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/transmit/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\transmit\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "transmit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/transmit/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\transmit\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "transmit",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/transmit/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\transmit\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "pocket",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/pocket/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\pocket\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "pocket",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/pocket/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\pocket\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "pocket",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/pocket/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\pocket\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "pocket",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/pocket/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\pocket\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "pocket",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/pocket/twitter.png",
+    "target": "scraped_components\\templates\\screens\\pocket\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "pocket",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/pocket/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\pocket\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "pocket",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/pocket/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\pocket\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "pocket",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/pocket/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\pocket\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "pocket",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/pocket/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\pocket\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "syntax",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/syntax/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\syntax\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "syntax",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/syntax/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\syntax\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "syntax",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/syntax/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\syntax\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "syntax",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/syntax/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\syntax\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "syntax",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/syntax/twitter.png",
+    "target": "scraped_components\\templates\\screens\\syntax\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "syntax",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/syntax/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\syntax\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "syntax",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/syntax/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\syntax\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "syntax",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/syntax/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\syntax\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "syntax",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/syntax/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\syntax\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "keynote",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/keynote/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\keynote\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "keynote",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/keynote/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\keynote\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "keynote",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/keynote/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\keynote\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "keynote",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/keynote/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\keynote\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "keynote",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/keynote/twitter.png",
+    "target": "scraped_components\\templates\\screens\\keynote\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "keynote",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/keynote/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\keynote\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "keynote",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/keynote/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\keynote\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "keynote",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/keynote/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\keynote\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "keynote",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/keynote/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\keynote\\detail-04.png",
+    "category": "detail"
+  },
+  {
+    "template": "compass",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/compass/preview-01.png",
+    "target": "scraped_components\\templates\\screens\\compass\\preview-01.png",
+    "category": "preview"
+  },
+  {
+    "template": "compass",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/compass/preview-02.png",
+    "target": "scraped_components\\templates\\screens\\compass\\preview-02.png",
+    "category": "preview"
+  },
+  {
+    "template": "compass",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/compass/preview-03.png",
+    "target": "scraped_components\\templates\\screens\\compass\\preview-03.png",
+    "category": "preview"
+  },
+  {
+    "template": "compass",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/compass/screenshot.png",
+    "target": "scraped_components\\templates\\screens\\compass\\screenshot.png",
+    "category": "banner"
+  },
+  {
+    "template": "compass",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/compass/twitter.png",
+    "target": "scraped_components\\templates\\screens\\compass\\twitter.png",
+    "category": "twitter"
+  },
+  {
+    "template": "compass",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/compass/detail-01.png",
+    "target": "scraped_components\\templates\\screens\\compass\\detail-01.png",
+    "category": "detail"
+  },
+  {
+    "template": "compass",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/compass/detail-02.png",
+    "target": "scraped_components\\templates\\screens\\compass\\detail-02.png",
+    "category": "detail"
+  },
+  {
+    "template": "compass",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/compass/detail-03.png",
+    "target": "scraped_components\\templates\\screens\\compass\\detail-03.png",
+    "category": "detail"
+  },
+  {
+    "template": "compass",
+    "url": "https://tailwindcss.com/plus-assets/img/templates/compass/detail-04.png",
+    "target": "scraped_components\\templates\\screens\\compass\\detail-04.png",
+    "category": "detail"
+  }
+]
